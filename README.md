@@ -38,7 +38,7 @@ paper/          the LaTeX paper
 
 ## Status
 
-Phase 1 (data) is in progress. Phase 2 (description), Phase 3 (analysis) and Phase 4 (the paper) have not started. The paper in `paper/main.tex` is still the November 2026 data inventory and news review.
+Phase 1 (data) is mostly done; see `PROGRESS.md` for what remains and the decisions made so far. Phase 2 (description), Phase 3 (analysis) and Phase 4 (the paper) have not started. The paper in `paper/main.tex` is still the November 2026 data inventory and news review.
 
 Main gaps at this stage: no public source gives monthly cocoa export volume from Ghana, only value; WFP prices end in July 2023; the US import series needs an API key; COCOBOD purchases and MoFA district production must be requested.
 
