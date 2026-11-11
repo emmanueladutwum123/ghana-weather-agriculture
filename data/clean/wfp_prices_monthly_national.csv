@@ -1,0 +1,1901 @@
+year,month,commodity,pricetype,price_ghs_per_kg_median,n_markets
+2006,1,Cassava,Wholesale,0.1527,3
+2006,1,Maize,Wholesale,0.2170,6
+2006,1,Millet,Wholesale,0.3317,5
+2006,1,Rice (local),Wholesale,0.5207,6
+2006,1,Sorghum,Wholesale,0.3011,6
+2006,1,Yam,Wholesale,0.2190,6
+2006,2,Cassava,Wholesale,0.1456,4
+2006,2,Maize,Wholesale,0.2157,6
+2006,2,Millet,Wholesale,0.3495,6
+2006,2,Rice (local),Wholesale,0.5634,6
+2006,2,Sorghum,Wholesale,0.2852,6
+2006,2,Yam,Wholesale,0.2320,6
+2006,3,Cassava,Wholesale,0.1429,3
+2006,3,Maize,Wholesale,0.2131,6
+2006,3,Millet,Wholesale,0.3543,6
+2006,3,Rice (local),Wholesale,0.5628,6
+2006,3,Sorghum,Wholesale,0.3029,6
+2006,3,Yam,Wholesale,0.2453,5
+2006,4,Cassava,Wholesale,0.1236,4
+2006,4,Maize,Wholesale,0.1981,6
+2006,4,Millet,Wholesale,0.3535,6
+2006,4,Rice (local),Wholesale,0.6116,6
+2006,4,Sorghum,Wholesale,0.3107,6
+2006,4,Yam,Wholesale,0.3000,5
+2006,5,Cassava,Wholesale,0.1400,4
+2006,5,Maize,Wholesale,0.2022,6
+2006,5,Millet,Wholesale,0.3401,6
+2006,5,Rice (local),Wholesale,0.5752,6
+2006,5,Sorghum,Wholesale,0.2794,6
+2006,5,Yam,Wholesale,0.2929,6
+2006,6,Cassava,Wholesale,0.1317,4
+2006,6,Maize,Wholesale,0.1877,6
+2006,6,Millet,Wholesale,0.3423,6
+2006,6,Sorghum,Wholesale,0.2778,6
+2006,6,Yam,Wholesale,0.3380,6
+2006,7,Cassava,Wholesale,0.1362,4
+2006,7,Maize,Wholesale,0.1713,6
+2006,7,Millet,Wholesale,0.3137,6
+2006,7,Rice (local),Wholesale,0.5787,6
+2006,7,Sorghum,Wholesale,0.2557,6
+2006,7,Yam,Wholesale,0.3269,6
+2006,8,Cassava,Wholesale,0.1415,4
+2006,8,Maize,Wholesale,0.1532,6
+2006,8,Millet,Wholesale,0.2788,6
+2006,8,Sorghum,Wholesale,0.2716,6
+2006,8,Yam,Wholesale,0.2840,5
+2006,9,Cassava,Wholesale,0.1433,4
+2006,9,Maize,Wholesale,0.1477,6
+2006,9,Millet,Wholesale,0.2935,6
+2006,9,Rice (local),Wholesale,0.6235,6
+2006,9,Sorghum,Wholesale,0.2368,5
+2006,9,Yam,Wholesale,0.2050,5
+2006,10,Cassava,Wholesale,0.1382,4
+2006,10,Maize,Wholesale,0.1362,6
+2006,10,Millet,Wholesale,0.3281,6
+2006,10,Rice (local),Wholesale,0.5928,6
+2006,10,Sorghum,Wholesale,0.2311,6
+2006,10,Yam,Wholesale,0.2120,6
+2006,11,Cassava,Wholesale,0.1367,4
+2006,11,Maize,Wholesale,0.1494,6
+2006,11,Millet,Wholesale,0.3306,6
+2006,11,Rice (imported),Wholesale,0.7100,5
+2006,11,Rice (local),Wholesale,0.5969,6
+2006,11,Sorghum,Wholesale,0.2261,6
+2006,11,Yam,Wholesale,0.2334,6
+2006,12,Cassava,Wholesale,0.1330,4
+2006,12,Maize,Wholesale,0.1655,6
+2006,12,Millet,Wholesale,0.2688,6
+2006,12,Rice (imported),Wholesale,0.7000,5
+2006,12,Rice (local),Wholesale,0.5800,6
+2006,12,Sorghum,Wholesale,0.2041,6
+2006,12,Yam,Wholesale,0.2110,6
+2007,1,Cassava,Wholesale,0.1427,4
+2007,1,Maize,Wholesale,0.1752,6
+2007,1,Millet,Wholesale,0.2652,6
+2007,1,Rice (imported),Wholesale,0.7134,5
+2007,1,Rice (local),Wholesale,0.5850,6
+2007,1,Sorghum,Wholesale,0.2284,6
+2007,1,Yam,Wholesale,0.2393,6
+2007,2,Cassava,Wholesale,0.1514,4
+2007,2,Maize,Wholesale,0.1850,6
+2007,2,Millet,Wholesale,0.2702,6
+2007,2,Rice (imported),Wholesale,0.6860,5
+2007,2,Rice (local),Wholesale,0.5850,6
+2007,2,Sorghum,Wholesale,0.2085,6
+2007,2,Yam,Wholesale,0.2740,6
+2007,3,Cassava,Wholesale,0.1374,4
+2007,3,Maize,Wholesale,0.2042,6
+2007,3,Millet,Wholesale,0.2688,6
+2007,3,Rice (imported),Wholesale,0.7030,6
+2007,3,Sorghum,Wholesale,0.2060,6
+2007,3,Yam,Wholesale,0.3220,6
+2007,4,Cassava,Wholesale,0.1484,4
+2007,4,Maize,Wholesale,0.1999,6
+2007,4,Millet,Wholesale,0.2640,6
+2007,4,Rice (imported),Wholesale,0.7078,6
+2007,4,Rice (local),Wholesale,1.1395,4
+2007,4,Sorghum,Wholesale,0.1968,6
+2007,4,Yam,Wholesale,0.3612,6
+2007,5,Cassava,Wholesale,0.1484,4
+2007,5,Maize,Wholesale,0.2029,6
+2007,5,Millet,Wholesale,0.2573,6
+2007,5,Rice (imported),Wholesale,0.7368,6
+2007,5,Rice (local),Wholesale,0.7349,6
+2007,5,Sorghum,Wholesale,0.1856,6
+2007,5,Yam,Wholesale,0.3795,6
+2007,6,Cassava,Wholesale,0.1365,4
+2007,6,Maize,Wholesale,0.1830,6
+2007,6,Millet,Wholesale,0.2392,6
+2007,6,Rice (imported),Wholesale,0.7585,6
+2007,6,Rice (local),Wholesale,0.6040,6
+2007,6,Sorghum,Wholesale,0.1766,6
+2007,6,Yam,Wholesale,0.4075,6
+2007,7,Cassava,Wholesale,0.1343,4
+2007,7,Maize,Wholesale,0.2094,6
+2007,7,Millet,Wholesale,0.2634,6
+2007,7,Rice (imported),Wholesale,0.7425,6
+2007,7,Rice (local),Wholesale,0.6068,6
+2007,7,Sorghum,Wholesale,0.2362,6
+2007,7,Yam,Wholesale,0.4980,6
+2007,8,Cassava,Wholesale,0.1099,4
+2007,8,Maize,Wholesale,0.2200,6
+2007,8,Millet,Wholesale,0.3108,6
+2007,8,Rice (imported),Wholesale,0.7700,6
+2007,8,Rice (local),Wholesale,0.5750,6
+2007,8,Sorghum,Wholesale,0.2511,6
+2007,8,Yam,Wholesale,0.2880,6
+2007,9,Cassava,Wholesale,0.1099,4
+2007,9,Maize,Wholesale,0.2363,6
+2007,9,Millet,Wholesale,0.3159,6
+2007,9,Rice (imported),Wholesale,0.8067,6
+2007,9,Rice (local),Wholesale,0.5800,6
+2007,9,Sorghum,Wholesale,0.2706,6
+2007,9,Yam,Wholesale,0.2540,6
+2007,10,Cassava,Wholesale,0.1291,4
+2007,10,Maize,Wholesale,0.2350,6
+2007,10,Millet,Wholesale,0.3253,6
+2007,10,Rice (imported),Wholesale,0.7885,6
+2007,10,Rice (local),Wholesale,0.6064,6
+2007,10,Sorghum,Wholesale,0.2761,6
+2007,10,Yam,Wholesale,0.2300,6
+2007,11,Cassava,Wholesale,0.1520,4
+2007,11,Maize,Wholesale,0.2769,6
+2007,11,Millet,Wholesale,0.4543,6
+2007,11,Rice (imported),Wholesale,0.8433,6
+2007,11,Rice (local),Wholesale,0.5833,6
+2007,11,Sorghum,Wholesale,0.3211,6
+2007,11,Yam,Wholesale,0.2733,6
+2007,12,Cassava,Wholesale,0.1621,4
+2007,12,Maize,Wholesale,0.2538,6
+2007,12,Millet,Wholesale,0.4691,6
+2007,12,Rice (imported),Wholesale,0.9050,6
+2007,12,Rice (local),Wholesale,0.6214,6
+2007,12,Sorghum,Wholesale,0.3138,6
+2007,12,Yam,Wholesale,0.2768,6
+2008,1,Cassava,Wholesale,0.1758,12
+2008,1,Maize,Wholesale,0.3013,14
+2008,1,Millet,Wholesale,0.4301,6
+2008,1,Rice (imported),Wholesale,0.9275,6
+2008,1,Rice (local),Wholesale,0.7075,12
+2008,1,Sorghum,Wholesale,0.3510,6
+2008,2,Cassava,Wholesale,0.1648,12
+2008,2,Maize,Wholesale,0.3387,14
+2008,2,Millet,Wholesale,0.4570,6
+2008,2,Rice (imported),Wholesale,0.9325,6
+2008,2,Rice (local),Wholesale,0.7000,12
+2008,2,Sorghum,Wholesale,0.3606,6
+2008,3,Cassava,Wholesale,0.1728,12
+2008,3,Maize,Wholesale,0.3716,14
+2008,3,Millet,Wholesale,0.4875,6
+2008,3,Rice (imported),Wholesale,0.9434,6
+2008,3,Rice (local),Wholesale,0.7098,12
+2008,3,Sorghum,Wholesale,0.3746,6
+2008,4,Cassava,Wholesale,0.1791,12
+2008,4,Maize,Wholesale,0.3950,14
+2008,4,Millet,Wholesale,0.5027,6
+2008,4,Rice (imported),Wholesale,0.9950,6
+2008,4,Rice (local),Wholesale,0.7500,13
+2008,4,Sorghum,Wholesale,0.3658,6
+2008,5,Cassava,Wholesale,0.1788,12
+2008,5,Maize,Wholesale,0.5225,14
+2008,5,Millet,Wholesale,0.5632,6
+2008,5,Rice (imported),Wholesale,1.1550,6
+2008,5,Rice (local),Wholesale,0.8120,14
+2008,5,Sorghum,Wholesale,0.4587,6
+2008,6,Cassava,Wholesale,0.1675,12
+2008,6,Maize,Wholesale,0.5788,14
+2008,6,Millet,Wholesale,0.6452,6
+2008,6,Rice (imported),Wholesale,1.2092,6
+2008,6,Rice (local),Wholesale,0.9287,14
+2008,6,Sorghum,Wholesale,0.5138,6
+2008,7,Cassava,Wholesale,0.1666,12
+2008,7,Maize,Wholesale,0.7715,14
+2008,7,Millet,Wholesale,0.6473,6
+2008,7,Rice (imported),Wholesale,1.2300,6
+2008,7,Rice (local),Wholesale,0.9700,12
+2008,7,Sorghum,Wholesale,0.5518,6
+2008,8,Cassava,Wholesale,0.1874,12
+2008,8,Maize,Wholesale,0.6200,14
+2008,8,Millet,Wholesale,0.6855,6
+2008,8,Rice (imported),Wholesale,1.1950,6
+2008,8,Rice (local),Wholesale,0.9926,11
+2008,8,Sorghum,Wholesale,0.5585,6
+2008,9,Cassava,Wholesale,0.1868,12
+2008,9,Maize,Wholesale,0.4069,14
+2008,9,Millet,Wholesale,0.7070,6
+2008,9,Rice (imported),Wholesale,1.1750,6
+2008,9,Rice (local),Wholesale,1.1000,11
+2008,9,Sorghum,Wholesale,0.5837,6
+2008,10,Cassava,Wholesale,0.1717,12
+2008,10,Maize,Wholesale,0.4104,14
+2008,10,Millet,Wholesale,0.6855,6
+2008,10,Rice (imported),Wholesale,1.2900,6
+2008,10,Rice (local),Wholesale,1.0050,12
+2008,10,Sorghum,Wholesale,0.5713,6
+2008,11,Cassava,Wholesale,0.1780,12
+2008,11,Maize,Wholesale,0.4936,14
+2008,11,Millet,Wholesale,0.7543,6
+2008,11,Rice (imported),Wholesale,1.2700,6
+2008,11,Rice (local),Wholesale,1.0000,13
+2008,11,Sorghum,Wholesale,0.5761,6
+2008,12,Cassava,Wholesale,0.1896,12
+2008,12,Maize,Wholesale,0.5295,14
+2008,12,Millet,Wholesale,0.6815,6
+2008,12,Rice (imported),Wholesale,1.2216,6
+2008,12,Rice (local),Wholesale,0.9750,12
+2008,12,Sorghum,Wholesale,0.5144,6
+2009,1,Cassava,Wholesale,0.2005,12
+2009,1,Maize,Wholesale,0.5200,14
+2009,1,Millet,Wholesale,0.6258,6
+2009,1,Rice (imported),Wholesale,1.1640,6
+2009,1,Rice (local),Wholesale,1.0150,12
+2009,1,Sorghum,Wholesale,0.5133,6
+2009,2,Cassava,Wholesale,0.2001,13
+2009,2,Maize,Wholesale,0.5150,15
+2009,2,Millet,Wholesale,0.6277,6
+2009,2,Rice (imported),Wholesale,1.2050,6
+2009,2,Rice (local),Wholesale,1.0350,14
+2009,2,Sorghum,Wholesale,0.5067,6
+2009,3,Cassava,Wholesale,0.1838,13
+2009,3,Maize,Wholesale,0.5500,15
+2009,3,Millet,Wholesale,0.6546,6
+2009,3,Rice (imported),Wholesale,1.2575,6
+2009,3,Rice (local),Wholesale,1.0832,14
+2009,3,Sorghum,Wholesale,0.4897,6
+2009,4,Cassava,Wholesale,0.1841,14
+2009,4,Maize,Wholesale,0.5800,15
+2009,4,Millet,Wholesale,0.6586,6
+2009,4,Rice (imported),Wholesale,1.3000,6
+2009,4,Rice (local),Wholesale,1.0272,14
+2009,4,Sorghum,Wholesale,0.5115,6
+2009,5,Cassava,Wholesale,0.1866,14
+2009,5,Maize,Wholesale,0.6960,15
+2009,5,Millet,Wholesale,0.6774,6
+2009,5,Rice (imported),Wholesale,1.3300,6
+2009,5,Rice (local),Wholesale,1.0770,14
+2009,5,Sorghum,Wholesale,0.5083,6
+2009,6,Cassava,Wholesale,0.1956,14
+2009,6,Maize,Wholesale,0.6880,15
+2009,6,Millet,Wholesale,0.7435,6
+2009,6,Rice (imported),Wholesale,1.3113,6
+2009,6,Rice (local),Wholesale,1.0850,15
+2009,6,Sorghum,Wholesale,0.5688,6
+2009,7,Cassava,Wholesale,0.2170,15
+2009,7,Maize,Wholesale,0.6725,15
+2009,7,Millet,Wholesale,0.7527,5
+2009,7,Rice (imported),Wholesale,1.3850,6
+2009,7,Rice (local),Wholesale,1.0631,14
+2009,7,Sorghum,Wholesale,0.5573,6
+2009,8,Cassava,Wholesale,0.2330,15
+2009,8,Maize,Wholesale,0.5880,15
+2009,8,Millet,Wholesale,0.7591,6
+2009,8,Rice (imported),Wholesale,1.3820,6
+2009,8,Rice (local),Wholesale,1.1000,14
+2009,8,Sorghum,Wholesale,0.6102,6
+2009,9,Cassava,Wholesale,0.2198,15
+2009,9,Maize,Wholesale,0.3800,15
+2009,9,Millet,Wholesale,0.7438,6
+2009,9,Rice (imported),Wholesale,1.3850,6
+2009,9,Rice (local),Wholesale,1.1428,15
+2009,9,Sorghum,Wholesale,0.5902,6
+2009,10,Cassava,Wholesale,0.2280,15
+2009,10,Maize,Wholesale,0.4800,15
+2009,10,Millet,Wholesale,0.7366,6
+2009,10,Rice (imported),Wholesale,1.3480,6
+2009,10,Rice (local),Wholesale,1.0500,15
+2009,10,Sorghum,Wholesale,0.5945,6
+2009,11,Cassava,Wholesale,0.2253,15
+2009,11,Maize,Wholesale,0.4500,15
+2009,11,Millet,Wholesale,0.7608,6
+2009,11,Rice (imported),Wholesale,1.3625,6
+2009,11,Rice (local),Wholesale,1.0300,15
+2009,11,Sorghum,Wholesale,0.6055,6
+2009,12,Cassava,Wholesale,0.2253,15
+2009,12,Maize,Wholesale,0.4500,15
+2009,12,Millet,Wholesale,0.7245,6
+2009,12,Rice (imported),Wholesale,1.3800,6
+2009,12,Rice (local),Wholesale,1.0300,15
+2009,12,Sorghum,Wholesale,0.5413,6
+2010,1,Cassava,Wholesale,0.2297,14
+2010,1,Maize,Wholesale,0.4500,15
+2010,1,Millet,Wholesale,0.6548,6
+2010,1,Rice (imported),Wholesale,1.3400,6
+2010,1,Rice (local),Wholesale,1.0560,15
+2010,1,Sorghum,Wholesale,0.5688,6
+2010,2,Cassava,Wholesale,0.2253,15
+2010,2,Maize,Wholesale,0.4500,15
+2010,2,Millet,Wholesale,0.6277,6
+2010,2,Rice (imported),Wholesale,1.3500,6
+2010,2,Rice (local),Wholesale,1.1124,15
+2010,2,Sorghum,Wholesale,0.5298,6
+2010,3,Cassava,Wholesale,0.2596,14
+2010,3,Maize,Wholesale,0.4500,15
+2010,3,Millet,Wholesale,0.6519,6
+2010,3,Rice (imported),Wholesale,1.3150,6
+2010,3,Rice (local),Wholesale,1.1250,15
+2010,3,Sorghum,Wholesale,0.5321,6
+2010,4,Cassava,Wholesale,0.2692,14
+2010,4,Maize,Wholesale,0.4425,15
+2010,4,Millet,Wholesale,0.6532,6
+2010,4,Rice (imported),Wholesale,1.3750,6
+2010,4,Rice (local),Wholesale,1.0000,15
+2010,4,Sorghum,Wholesale,0.5459,6
+2010,5,Cassava,Wholesale,0.2505,14
+2010,5,Maize,Wholesale,0.4700,15
+2010,5,Millet,Wholesale,0.6538,6
+2010,5,Rice (imported),Wholesale,1.3940,6
+2010,5,Rice (local),Wholesale,1.0400,15
+2010,5,Sorghum,Wholesale,0.5257,6
+2010,6,Cassava,Wholesale,0.2431,14
+2010,6,Maize,Wholesale,0.5250,15
+2010,6,Millet,Wholesale,0.6949,6
+2010,6,Rice (imported),Wholesale,1.3875,6
+2010,6,Rice (local),Wholesale,1.0500,15
+2010,6,Sorghum,Wholesale,0.5436,6
+2010,7,Cassava,Wholesale,0.2703,15
+2010,7,Maize,Wholesale,0.5300,15
+2010,7,Millet,Wholesale,0.7247,6
+2010,7,Rice (imported),Wholesale,1.3960,5
+2010,7,Rice (local),Wholesale,1.0220,15
+2010,7,Sorghum,Wholesale,0.5615,6
+2010,8,Cassava,Wholesale,0.2555,14
+2010,8,Maize,Wholesale,0.5075,15
+2010,8,Millet,Wholesale,0.7171,6
+2010,8,Rice (imported),Wholesale,1.3950,6
+2010,8,Rice (local),Wholesale,1.0600,15
+2010,8,Sorghum,Wholesale,0.5722,6
+2010,9,Cassava,Wholesale,0.2418,15
+2010,9,Maize,Wholesale,0.4800,15
+2010,9,Millet,Wholesale,0.7231,6
+2010,9,Rice (imported),Wholesale,1.4000,6
+2010,9,Rice (local),Wholesale,1.0100,15
+2010,9,Sorghum,Wholesale,0.5585,6
+2010,10,Cassava,Wholesale,0.2571,15
+2010,10,Maize,Wholesale,0.4240,15
+2010,10,Millet,Wholesale,0.6478,6
+2010,10,Rice (imported),Wholesale,1.4000,6
+2010,10,Rice (local),Wholesale,1.0100,15
+2010,10,Sorghum,Wholesale,0.5321,6
+2010,11,Cassava,Wholesale,0.2445,15
+2010,11,Maize,Wholesale,0.4525,15
+2010,11,Millet,Wholesale,0.6626,6
+2010,11,Rice (imported),Wholesale,1.3950,6
+2010,11,Rice (local),Wholesale,1.0500,15
+2010,11,Sorghum,Wholesale,0.5505,6
+2010,12,Cassava,Wholesale,0.2720,5
+2010,12,Maize,Wholesale,0.3675,6
+2010,12,Millet,Wholesale,0.6680,6
+2010,12,Rice (imported),Wholesale,1.3925,6
+2010,12,Rice (local),Wholesale,1.0050,6
+2010,12,Sorghum,Wholesale,0.5252,6
+2010,12,Yam,Wholesale,0.4645,6
+2011,1,Cassava,Wholesale,0.2162,15
+2011,1,Maize,Wholesale,0.5240,15
+2011,1,Millet,Wholesale,0.6384,6
+2011,1,Rice (imported),Wholesale,1.4100,6
+2011,1,Rice (local),Wholesale,1.0184,15
+2011,1,Sorghum,Wholesale,0.5333,6
+2011,2,Cassava,Wholesale,0.2154,15
+2011,2,Maize,Wholesale,0.4000,15
+2011,2,Millet,Wholesale,0.7110,6
+2011,2,Rice (imported),Wholesale,1.4100,6
+2011,2,Rice (local),Wholesale,0.8640,15
+2011,2,Sorghum,Wholesale,0.5608,6
+2011,3,Cassava,Wholesale,0.2747,15
+2011,3,Maize,Wholesale,0.5000,15
+2011,3,Millet,Wholesale,0.7083,6
+2011,3,Rice (imported),Wholesale,1.4050,6
+2011,3,Rice (local),Wholesale,1.0800,15
+2011,3,Sorghum,Wholesale,0.5826,6
+2011,4,Cassava,Wholesale,0.2747,15
+2011,4,Maize,Wholesale,0.5300,15
+2011,4,Millet,Wholesale,0.6922,6
+2011,4,Rice (imported),Wholesale,1.4050,6
+2011,4,Rice (local),Wholesale,1.0800,15
+2011,4,Sorghum,Wholesale,0.5459,6
+2011,5,Cassava,Wholesale,0.2747,15
+2011,5,Maize,Wholesale,0.6500,15
+2011,5,Millet,Wholesale,0.7151,6
+2011,5,Rice (imported),Wholesale,1.4100,6
+2011,5,Rice (local),Wholesale,1.1400,15
+2011,5,Sorghum,Wholesale,0.5700,6
+2011,6,Cassava,Wholesale,0.2692,15
+2011,6,Maize,Wholesale,0.8075,15
+2011,6,Millet,Wholesale,0.7755,6
+2011,6,Rice (imported),Wholesale,1.3900,6
+2011,6,Rice (local),Wholesale,1.1300,15
+2011,6,Sorghum,Wholesale,0.5791,6
+2011,7,Cassava,Wholesale,0.2610,15
+2011,7,Maize,Wholesale,0.8200,15
+2011,7,Millet,Wholesale,0.8091,6
+2011,7,Rice (imported),Wholesale,1.9775,6
+2011,7,Rice (local),Wholesale,1.2750,15
+2011,7,Sorghum,Wholesale,0.6617,6
+2011,8,Cassava,Wholesale,0.2601,15
+2011,8,Maize,Wholesale,0.8300,15
+2011,8,Millet,Wholesale,0.8011,6
+2011,8,Rice (imported),Wholesale,2.1450,6
+2011,8,Rice (local),Wholesale,1.3666,15
+2011,8,Sorghum,Wholesale,0.6640,6
+2011,9,Cassava,Wholesale,0.2555,15
+2011,9,Maize,Wholesale,0.6800,15
+2011,9,Millet,Wholesale,0.7997,6
+2011,9,Rice (imported),Wholesale,2.0300,6
+2011,9,Rice (local),Wholesale,1.3000,15
+2011,9,Sorghum,Wholesale,0.6950,6
+2011,10,Cassava,Wholesale,0.2610,15
+2011,10,Maize,Wholesale,0.6075,15
+2011,10,Millet,Wholesale,0.7903,6
+2011,10,Rice (imported),Wholesale,2.0525,6
+2011,10,Rice (local),Wholesale,1.3524,15
+2011,10,Sorghum,Wholesale,0.7202,6
+2011,11,Cassava,Wholesale,0.2596,14
+2011,11,Maize,Wholesale,0.7025,15
+2011,11,Millet,Wholesale,0.8414,6
+2011,11,Rice (imported),Wholesale,2.2650,6
+2011,11,Rice (local),Wholesale,1.3000,15
+2011,11,Sorghum,Wholesale,0.7500,6
+2011,12,Cassava,Wholesale,0.2714,14
+2011,12,Maize,Wholesale,0.8980,15
+2011,12,Millet,Wholesale,0.9489,6
+2011,12,Rice (imported),Wholesale,2.2675,6
+2011,12,Rice (local),Wholesale,1.4240,15
+2011,12,Sorghum,Wholesale,0.7844,6
+2012,1,Cassava,Wholesale,0.2775,14
+2012,1,Maize,Wholesale,1.0000,15
+2012,1,Millet,Wholesale,0.9476,6
+2012,1,Rice (imported),Wholesale,2.7550,6
+2012,1,Rice (local),Wholesale,1.4000,15
+2012,1,Sorghum,Wholesale,0.7661,6
+2012,2,Cassava,Wholesale,0.2830,14
+2012,2,Maize,Wholesale,0.9825,15
+2012,2,Millet,Wholesale,0.9207,6
+2012,2,Rice (imported),Wholesale,2.7650,6
+2012,2,Rice (local),Wholesale,1.4000,15
+2012,2,Sorghum,Wholesale,0.7798,6
+2012,3,Cassava,Wholesale,0.2835,14
+2012,3,Maize,Wholesale,0.9400,15
+2012,3,Millet,Wholesale,0.8629,6
+2012,3,Rice (imported),Wholesale,2.8000,6
+2012,3,Rice (local),Wholesale,1.4120,15
+2012,3,Sorghum,Wholesale,0.7844,6
+2012,4,Cassava,Wholesale,0.3544,14
+2012,4,Maize,Wholesale,0.9150,15
+2012,4,Millet,Wholesale,1.0148,6
+2012,4,Rice (imported),Wholesale,2.8900,6
+2012,4,Rice (local),Wholesale,1.4650,15
+2012,4,Sorghum,Wholesale,0.8073,6
+2012,4,Yam,Wholesale,0.9970,1
+2012,5,Cassava,Wholesale,0.3915,14
+2012,5,Maize,Wholesale,1.0750,15
+2012,5,Millet,Wholesale,1.0524,6
+2012,5,Rice (imported),Wholesale,2.9500,6
+2012,5,Rice (local),Wholesale,1.4250,15
+2012,5,Sorghum,Wholesale,0.8200,6
+2012,6,Cassava,Wholesale,0.4302,14
+2012,6,Maize,Wholesale,1.1850,15
+2012,6,Millet,Wholesale,1.1196,6
+2012,6,Rice (imported),Wholesale,3.0250,6
+2012,6,Rice (local),Wholesale,1.4400,15
+2012,6,Sorghum,Wholesale,0.7983,6
+2012,7,Cassava,Wholesale,0.4478,14
+2012,7,Maize,Wholesale,1.1425,15
+2012,7,Millet,Wholesale,1.1129,6
+2012,7,Rice (imported),Wholesale,3.1400,6
+2012,7,Rice (local),Wholesale,1.4350,14
+2012,7,Sorghum,Wholesale,0.8131,6
+2012,8,Cassava,Wholesale,0.4629,14
+2012,8,Maize,Wholesale,0.9200,15
+2012,8,Millet,Wholesale,1.2339,6
+2012,8,Rice (imported),Wholesale,3.1250,6
+2012,8,Rice (local),Wholesale,1.5000,14
+2012,8,Sorghum,Wholesale,0.8163,6
+2012,9,Cassava,Wholesale,0.4918,14
+2012,9,Maize,Wholesale,0.8500,15
+2012,9,Millet,Wholesale,1.4247,6
+2012,9,Rice (imported),Wholesale,3.2250,6
+2012,9,Rice (local),Wholesale,1.5075,14
+2012,9,Sorghum,Wholesale,0.8200,6
+2012,10,Cassava,Wholesale,0.5151,14
+2012,10,Maize,Wholesale,0.7300,15
+2012,10,Millet,Wholesale,1.6801,6
+2012,10,Rice (imported),Wholesale,3.2000,6
+2012,10,Rice (local),Wholesale,1.5150,13
+2012,10,Sorghum,Wholesale,0.9174,6
+2012,11,Cassava,Wholesale,0.4945,14
+2012,11,Maize,Wholesale,0.8050,15
+2012,11,Millet,Wholesale,1.6532,6
+2012,11,Rice (imported),Wholesale,3.2250,6
+2012,11,Rice (local),Wholesale,1.5000,13
+2012,11,Sorghum,Wholesale,0.9495,6
+2012,12,Cassava,Wholesale,0.5000,14
+2012,12,Maize,Wholesale,0.8600,15
+2012,12,Millet,Wholesale,1.5188,6
+2012,12,Rice (imported),Wholesale,3.2000,6
+2012,12,Rice (local),Wholesale,1.5440,13
+2012,12,Sorghum,Wholesale,0.9289,6
+2013,1,Cassava,Wholesale,0.5701,14
+2013,1,Maize,Wholesale,0.8450,15
+2013,1,Millet,Wholesale,1.3132,6
+2013,1,Rice (imported),Wholesale,3.2450,6
+2013,1,Rice (local),Wholesale,1.4900,13
+2013,1,Sorghum,Wholesale,0.8532,6
+2013,2,Cassava,Wholesale,0.5495,14
+2013,2,Maize,Wholesale,0.7300,15
+2013,2,Millet,Wholesale,1.2823,6
+2013,2,Rice (imported),Wholesale,3.2425,6
+2013,2,Rice (local),Wholesale,1.5200,14
+2013,2,Sorghum,Wholesale,0.8922,6
+2013,3,Cassava,Wholesale,0.5495,14
+2013,3,Maize,Wholesale,0.7400,15
+2013,3,Millet,Wholesale,1.1855,6
+2013,3,Rice (imported),Wholesale,3.2725,6
+2013,3,Rice (local),Wholesale,1.6000,14
+2013,3,Sorghum,Wholesale,0.9037,6
+2013,4,Cassava,Wholesale,0.6044,14
+2013,4,Maize,Wholesale,0.7700,15
+2013,4,Millet,Wholesale,1.1546,6
+2013,4,Rice (imported),Wholesale,3.2900,6
+2013,4,Rice (local),Wholesale,1.7000,14
+2013,4,Sorghum,Wholesale,0.9037,6
+2013,5,Cassava,Wholesale,0.6044,14
+2013,5,Maize,Wholesale,0.8000,15
+2013,5,Millet,Wholesale,1.1653,6
+2013,5,Rice (imported),Wholesale,3.2825,6
+2013,5,Rice (local),Wholesale,1.5000,14
+2013,5,Sorghum,Wholesale,0.9037,6
+2013,6,Cassava,Wholesale,0.5934,14
+2013,6,Maize,Wholesale,0.7600,15
+2013,6,Millet,Wholesale,1.2191,6
+2013,6,Rice (imported),Wholesale,3.3725,6
+2013,6,Rice (local),Wholesale,1.6100,14
+2013,6,Sorghum,Wholesale,0.8830,6
+2013,7,Cassava,Wholesale,0.6126,14
+2013,7,Maize,Wholesale,0.7300,15
+2013,7,Millet,Wholesale,1.2231,6
+2013,7,Rice (imported),Wholesale,3.4000,6
+2013,7,Rice (local),Wholesale,1.7000,15
+2013,7,Sorghum,Wholesale,0.9037,6
+2013,8,Cassava,Wholesale,0.6022,14
+2013,8,Maize,Wholesale,0.7860,15
+2013,8,Millet,Wholesale,1.2097,6
+2013,8,Rice (imported),Wholesale,3.4000,6
+2013,8,Rice (local),Wholesale,1.6500,14
+2013,8,Sorghum,Wholesale,0.9071,6
+2013,9,Cassava,Wholesale,0.5508,14
+2013,9,Maize,Wholesale,0.7150,15
+2013,9,Millet,Wholesale,1.1761,6
+2013,9,Rice (imported),Wholesale,3.4125,6
+2013,9,Rice (local),Wholesale,1.6500,14
+2013,9,Sorghum,Wholesale,0.9289,6
+2013,10,Cassava,Wholesale,0.5220,14
+2013,10,Maize,Wholesale,0.6775,15
+2013,10,Millet,Wholesale,1.2070,6
+2013,10,Rice (imported),Wholesale,3.4900,6
+2013,10,Rice (local),Wholesale,1.7000,14
+2013,10,Sorghum,Wholesale,0.9312,6
+2013,11,Cassava,Wholesale,0.5220,14
+2013,11,Maize,Wholesale,0.7400,15
+2013,11,Millet,Wholesale,1.2097,6
+2013,11,Rice (imported),Wholesale,3.4900,6
+2013,11,Rice (local),Wholesale,1.6375,14
+2013,11,Sorghum,Wholesale,0.9312,6
+2013,12,Cassava,Wholesale,0.4918,14
+2013,12,Maize,Wholesale,0.7875,15
+2013,12,Millet,Wholesale,1.2204,6
+2013,12,Rice (imported),Wholesale,3.4900,6
+2013,12,Rice (local),Wholesale,1.6350,14
+2013,12,Sorghum,Wholesale,0.9266,6
+2014,1,Cassava,Wholesale,0.4253,14
+2014,1,Maize,Wholesale,0.8000,15
+2014,1,Millet,Wholesale,1.1962,6
+2014,1,Rice (imported),Wholesale,3.5300,6
+2014,1,Rice (local),Wholesale,1.6620,14
+2014,1,Sorghum,Wholesale,0.9163,6
+2014,2,Cassava,Wholesale,0.4533,14
+2014,2,Maize,Wholesale,0.9400,15
+2014,2,Millet,Wholesale,1.1537,6
+2014,2,Rice (imported),Wholesale,3.5775,6
+2014,2,Rice (local),Wholesale,1.7750,14
+2014,2,Sorghum,Wholesale,0.8945,6
+2014,3,Cassava,Wholesale,0.4560,14
+2014,3,Maize,Wholesale,0.9600,15
+2014,3,Millet,Wholesale,1.1129,6
+2014,3,Rice (imported),Wholesale,3.6500,6
+2014,3,Rice (local),Wholesale,1.7400,14
+2014,3,Sorghum,Wholesale,0.9174,6
+2014,4,Cassava,Wholesale,0.4780,14
+2014,4,Maize,Wholesale,1.0000,15
+2014,4,Rice (imported),Wholesale,3.4500,15
+2014,4,Rice (local),Wholesale,1.7000,13
+2014,5,Cassava,Wholesale,0.4374,14
+2014,5,Maize,Wholesale,1.0800,15
+2014,5,Millet,Wholesale,1.1183,6
+2014,5,Rice (imported),Wholesale,3.7360,15
+2014,5,Rice (local),Wholesale,1.7200,13
+2014,5,Sorghum,Wholesale,0.9174,6
+2014,6,Cassava,Wholesale,0.3956,13
+2014,6,Maize,Wholesale,1.0925,15
+2014,6,Millet,Wholesale,1.1667,6
+2014,6,Rice (imported),Wholesale,3.8000,15
+2014,6,Rice (local),Wholesale,2.6000,9
+2014,6,Sorghum,Wholesale,0.9174,6
+2014,7,Cassava,Wholesale,0.3956,13
+2014,7,Maize,Wholesale,1.0925,15
+2014,7,Rice (imported),Wholesale,3.8000,15
+2014,7,Rice (local),Wholesale,2.6000,6
+2014,8,Cassava,Wholesale,0.3297,13
+2014,8,Maize,Wholesale,1.2850,15
+2014,8,Rice (imported),Wholesale,4.4000,15
+2014,8,Rice (local),Wholesale,2.8000,6
+2014,9,Cassava,Wholesale,0.3846,14
+2014,9,Maize,Wholesale,1.2850,15
+2014,9,Rice (imported),Wholesale,4.5000,15
+2014,9,Rice (local),Wholesale,2.8000,6
+2014,10,Cassava,Wholesale,0.5495,37
+2014,10,Maize,Wholesale,1.1812,43
+2014,10,Rice (imported),Wholesale,3.5600,40
+2014,10,Rice (local),Wholesale,2.4750,34
+2014,11,Cassava,Wholesale,0.3310,13
+2014,11,Maize,Wholesale,1.1400,15
+2014,11,Rice (imported),Wholesale,4.6000,15
+2014,11,Rice (local),Wholesale,2.8000,6
+2014,12,Cassava,Wholesale,0.3297,13
+2014,12,Maize,Wholesale,1.1000,15
+2014,12,Rice (imported),Wholesale,4.4000,15
+2014,12,Rice (local),Wholesale,2.8000,6
+2015,1,Cassava,Wholesale,0.4176,14
+2015,1,Maize,Wholesale,1.2500,15
+2015,1,Millet,Wholesale,1.5269,6
+2015,1,Rice (imported),Wholesale,4.6000,15
+2015,1,Rice (local),Wholesale,2.4500,12
+2015,1,Sorghum,Wholesale,1.1927,6
+2015,2,Cassava,Wholesale,0.4176,14
+2015,2,Maize,Wholesale,1.2500,15
+2015,2,Millet,Wholesale,1.5054,6
+2015,2,Rice (imported),Wholesale,5.4000,15
+2015,2,Rice (local),Wholesale,2.2500,12
+2015,2,Sorghum,Wholesale,1.2615,6
+2015,3,Cassava,Wholesale,0.4299,14
+2015,3,Maize,Wholesale,1.2125,15
+2015,3,Millet,Wholesale,1.3537,6
+2015,3,Rice (imported),Wholesale,5.4000,15
+2015,3,Rice (local),Wholesale,2.2000,13
+2015,3,Sorghum,Wholesale,1.0780,6
+2015,4,Cassava,Wholesale,0.4320,14
+2015,4,Maize,Wholesale,1.2250,15
+2015,4,Millet,Wholesale,1.4516,6
+2015,4,Rice (imported),Wholesale,5.4000,15
+2015,4,Rice (local),Wholesale,2.3000,13
+2015,4,Sorghum,Wholesale,1.2135,6
+2015,5,Cassava,Wholesale,0.4387,13
+2015,5,Maize,Wholesale,1.4600,15
+2015,5,Millet,Wholesale,1.5699,6
+2015,5,Rice (imported),Wholesale,5.4800,14
+2015,5,Rice (local),Wholesale,2.4800,13
+2015,5,Sorghum,Wholesale,1.2798,6
+2015,6,Cassava,Wholesale,0.4396,13
+2015,6,Maize,Wholesale,1.5750,15
+2015,6,Millet,Wholesale,1.5999,6
+2015,6,Rice (imported),Wholesale,5.4500,14
+2015,6,Rice (local),Wholesale,2.6750,13
+2015,6,Sorghum,Wholesale,1.2729,6
+2015,7,Cassava,Wholesale,0.4973,14
+2015,7,Maize,Wholesale,1.7300,15
+2015,7,Millet,Wholesale,1.7180,6
+2015,7,Rice (imported),Wholesale,5.4500,14
+2015,7,Rice (local),Wholesale,3.2000,13
+2015,7,Sorghum,Wholesale,1.3532,6
+2015,8,Millet,Wholesale,1.6667,6
+2015,8,Sorghum,Wholesale,1.4128,6
+2015,9,Millet,Wholesale,1.7204,6
+2015,9,Rice (local),Wholesale,3.8000,1
+2015,9,Sorghum,Wholesale,1.4335,6
+2015,10,Cassava,Wholesale,0.5714,13
+2015,10,Maize,Wholesale,1.4850,14
+2015,10,Millet,Wholesale,1.6344,6
+2015,10,Rice (imported),Wholesale,5.4600,14
+2015,10,Rice (local),Wholesale,3.4000,12
+2015,10,Sorghum,Wholesale,1.4037,6
+2015,11,Cassava,Wholesale,0.5591,13
+2015,11,Maize,Wholesale,1.5000,14
+2015,11,Millet,Wholesale,1.5730,6
+2015,11,Rice (imported),Wholesale,5.0000,14
+2015,11,Rice (local),Wholesale,3.4250,12
+2015,11,Sorghum,Wholesale,1.3532,6
+2015,12,Cassava,Wholesale,0.7610,13
+2015,12,Maize,Wholesale,1.4750,14
+2015,12,Millet,Wholesale,1.5489,6
+2015,12,Rice (imported),Wholesale,4.9000,14
+2015,12,Rice (local),Wholesale,3.6000,12
+2015,12,Sorghum,Wholesale,1.3303,6
+2016,1,Cassava,Wholesale,0.7967,14
+2016,1,Maize,Wholesale,1.5000,15
+2016,1,Millet,Wholesale,1.5243,6
+2016,1,Rice (imported),Wholesale,5.1600,15
+2016,1,Rice (local),Wholesale,3.6000,13
+2016,1,Sorghum,Wholesale,1.2677,6
+2016,2,Cassava,Wholesale,0.8242,13
+2016,2,Maize,Wholesale,1.7375,15
+2016,2,Millet,Wholesale,1.4739,6
+2016,2,Rice (imported),Wholesale,5.5000,14
+2016,2,Rice (local),Wholesale,3.7850,13
+2016,2,Sorghum,Wholesale,1.2226,6
+2016,3,Cassava,Wholesale,1.0440,13
+2016,3,Maize,Wholesale,1.6313,14
+2016,3,Millet,Wholesale,1.5484,6
+2016,3,Rice (imported),Wholesale,5.6000,13
+2016,3,Rice (local),Wholesale,3.5000,12
+2016,3,Sorghum,Wholesale,1.3016,6
+2016,4,Cassava,Wholesale,1.1209,14
+2016,4,Maize,Wholesale,1.7200,14
+2016,4,Millet,Wholesale,1.5806,6
+2016,4,Rice (imported),Wholesale,5.6000,13
+2016,4,Rice (local),Wholesale,3.7200,12
+2016,4,Sorghum,Wholesale,1.3131,6
+2016,5,Cassava,Wholesale,1.3187,14
+2016,5,Maize,Wholesale,1.7750,14
+2016,5,Millet,Wholesale,1.6398,6
+2016,5,Rice (imported),Wholesale,5.8000,13
+2016,5,Rice (local),Wholesale,3.8500,12
+2016,5,Sorghum,Wholesale,1.2787,6
+2016,6,Cassava,Wholesale,1.3187,15
+2016,6,Maize,Wholesale,1.6875,15
+2016,6,Millet,Wholesale,1.6465,6
+2016,6,Rice (imported),Wholesale,5.8000,14
+2016,6,Rice (local),Wholesale,3.8000,13
+2016,6,Sorghum,Wholesale,1.2583,6
+2016,7,Cassava,Wholesale,1.2308,14
+2016,7,Maize,Wholesale,1.8900,14
+2016,7,Millet,Wholesale,1.6075,6
+2016,7,Rice (imported),Wholesale,4.3400,14
+2016,7,Rice (local),Wholesale,4.0000,13
+2016,7,Sorghum,Wholesale,1.3039,6
+2016,8,Cassava,Wholesale,1.2637,14
+2016,8,Maize,Wholesale,1.5875,14
+2016,8,Millet,Wholesale,1.5860,6
+2016,8,Rice (imported),Wholesale,4.4000,14
+2016,8,Rice (local),Wholesale,3.8000,13
+2016,8,Sorghum,Wholesale,1.3133,6
+2016,9,Cassava,Wholesale,1.2857,14
+2016,9,Maize,Wholesale,1.3950,14
+2016,9,Millet,Wholesale,1.5659,6
+2016,9,Rice (imported),Wholesale,5.2000,5
+2016,9,Rice (local),Wholesale,3.2000,5
+2016,9,Sorghum,Wholesale,1.3726,6
+2016,10,Cassava,Wholesale,1.0824,14
+2016,10,Maize,Wholesale,1.0355,6
+2016,10,Millet,Wholesale,1.7158,6
+2016,10,Rice (imported),Wholesale,5.2000,5
+2016,10,Rice (local),Wholesale,3.2200,5
+2016,10,Sorghum,Wholesale,1.3670,6
+2016,11,Cassava,Wholesale,0.9638,14
+2016,11,Maize,Wholesale,1.0500,14
+2016,11,Millet,Wholesale,1.9831,6
+2016,11,Rice (imported),Wholesale,5.2000,14
+2016,11,Rice (local),Wholesale,3.7000,12
+2016,11,Sorghum,Wholesale,1.4023,6
+2016,12,Cassava,Wholesale,1.0297,14
+2016,12,Maize,Wholesale,1.2000,14
+2016,12,Millet,Wholesale,1.7226,6
+2016,12,Rice (imported),Wholesale,5.3200,13
+2016,12,Rice (local),Wholesale,3.7600,12
+2016,12,Sorghum,Wholesale,1.3699,6
+2017,1,Cassava,Wholesale,1.0440,14
+2017,1,Maize,Wholesale,1.2000,14
+2017,1,Millet,Wholesale,1.5115,6
+2017,1,Rice (imported),Wholesale,5.2475,14
+2017,1,Rice (local),Wholesale,3.8000,12
+2017,1,Sorghum,Wholesale,1.2443,6
+2017,2,Cassava,Wholesale,1.2637,12
+2017,2,Maize,Wholesale,1.1750,12
+2017,2,Millet,Wholesale,1.5758,6
+2017,2,Rice (imported),Wholesale,5.1000,12
+2017,2,Rice (local),Wholesale,4.0000,11
+2017,2,Sorghum,Wholesale,1.2672,6
+2017,3,Cassava,Wholesale,1.0659,13
+2017,3,Maize,Wholesale,1.2000,13
+2017,3,Millet,Wholesale,1.6935,6
+2017,3,Rice (imported),Wholesale,5.0400,13
+2017,3,Rice (local),Wholesale,4.0000,11
+2017,3,Sorghum,Wholesale,1.3953,6
+2017,4,Cassava,Wholesale,1.0989,11
+2017,4,Maize,Wholesale,1.5000,11
+2017,4,Millet,Wholesale,1.8514,6
+2017,4,Rice (imported),Wholesale,5.0000,11
+2017,4,Rice (local),Wholesale,3.7000,10
+2017,4,Sorghum,Wholesale,1.4771,6
+2017,5,Cassava,Wholesale,1.0989,11
+2017,5,Maize,Wholesale,1.4000,11
+2017,5,Millet,Wholesale,1.9296,5
+2017,5,Rice (imported),Wholesale,5.2000,10
+2017,5,Rice (local),Wholesale,4.0000,9
+2017,5,Sorghum,Wholesale,1.5367,5
+2017,5,Yam,Wholesale,2.3200,1
+2017,6,Cassava,Wholesale,0.9341,14
+2017,6,Maize,Wholesale,1.5500,14
+2017,6,Millet,Wholesale,1.8913,6
+2017,6,Rice (imported),Wholesale,5.2667,14
+2017,6,Rice (local),Wholesale,3.8000,12
+2017,6,Sorghum,Wholesale,1.4402,6
+2017,6,Yam,Wholesale,1.0400,1
+2017,7,Cassava,Wholesale,0.9011,13
+2017,7,Maize,Wholesale,1.5500,14
+2017,7,Millet,Wholesale,2.1102,6
+2017,7,Rice (imported),Wholesale,4.3500,12
+2017,7,Rice (local),Wholesale,4.3600,10
+2017,7,Sorghum,Wholesale,1.5832,6
+2017,7,Yam,Wholesale,1.1667,2
+2017,8,Cassava,Wholesale,0.9414,10
+2017,8,Maize,Wholesale,1.4500,12
+2017,8,Millet,Wholesale,2.1689,6
+2017,8,Rice (imported),Wholesale,4.3000,12
+2017,8,Rice (local),Wholesale,3.2000,10
+2017,8,Sorghum,Wholesale,1.6333,6
+2017,8,Yam,Wholesale,2.1856,2
+2017,9,Cassava,Wholesale,0.9432,12
+2017,9,Maize,Wholesale,1.5200,13
+2017,9,Millet,Wholesale,2.2697,6
+2017,9,Rice (imported),Wholesale,8.0000,12
+2017,9,Rice (local),Wholesale,4.8900,10
+2017,9,Sorghum,Wholesale,1.6757,6
+2017,9,Yam,Wholesale,2.0867,4
+2017,10,Cassava,Wholesale,0.8000,9
+2017,10,Maize,Wholesale,1.2000,9
+2017,10,Millet,Wholesale,2.1585,5
+2017,10,Rice (imported),Wholesale,4.6000,10
+2017,10,Rice (local),Wholesale,3.2000,9
+2017,10,Sorghum,Wholesale,1.5902,5
+2017,10,Yam,Wholesale,1.5500,1
+2017,11,Cassava,Wholesale,1.0000,9
+2017,11,Maize,Wholesale,1.1850,10
+2017,11,Millet,Wholesale,2.2849,5
+2017,11,Rice (imported),Wholesale,4.4000,8
+2017,11,Rice (local),Wholesale,3.6700,8
+2017,11,Sorghum,Wholesale,1.5977,6
+2017,11,Yam,Wholesale,1.2000,1
+2017,12,Cassava,Wholesale,0.5292,8
+2017,12,Maize,Wholesale,1.2057,12
+2017,12,Millet,Wholesale,2.4194,6
+2017,12,Rice (imported),Wholesale,4.3500,10
+2017,12,Rice (local),Wholesale,2.4000,9
+2017,12,Sorghum,Wholesale,1.6250,6
+2017,12,Yam,Wholesale,2.1053,1
+2018,1,Cassava,Wholesale,0.5556,9
+2018,1,Maize,Wholesale,1.2717,9
+2018,1,Millet,Wholesale,2.0282,4
+2018,1,Rice (imported),Wholesale,5.3000,4
+2018,1,Rice (local),Wholesale,3.1300,8
+2018,1,Sorghum,Wholesale,1.6175,4
+2018,2,Cassava,Wholesale,0.7546,9
+2018,2,Maize,Wholesale,1.2825,12
+2018,2,Millet,Wholesale,2.4105,5
+2018,2,Rice (imported),Wholesale,3.6000,11
+2018,2,Rice (local),Wholesale,2.1100,10
+2018,2,Sorghum,Wholesale,1.7287,5
+2018,2,Yam,Wholesale,2.3130,1
+2018,3,Cassava,Wholesale,0.6523,6
+2018,3,Maize,Wholesale,1.3250,6
+2018,3,Millet,Wholesale,2.0395,4
+2018,3,Rice (imported),Wholesale,3.6000,5
+2018,3,Rice (local),Wholesale,2.5883,6
+2018,3,Sorghum,Wholesale,1.6842,4
+2018,4,Cassava,Wholesale,0.5097,6
+2018,4,Maize,Wholesale,1.4756,7
+2018,4,Millet,Wholesale,2.1139,4
+2018,4,Rice (imported),Wholesale,4.4000,7
+2018,4,Rice (local),Wholesale,3.6232,5
+2018,4,Sorghum,Wholesale,1.6816,4
+2018,5,Cassava,Wholesale,0.7546,7
+2018,5,Maize,Wholesale,1.4756,7
+2018,5,Millet,Wholesale,2.4411,4
+2018,5,Rice (imported),Wholesale,4.3300,7
+2018,5,Rice (local),Wholesale,3.0690,5
+2018,5,Sorghum,Wholesale,1.6966,4
+2018,5,Yam,Wholesale,2.7259,1
+2018,6,Cassava,Wholesale,0.7546,3
+2018,6,Maize,Wholesale,1.4587,4
+2018,6,Millet,Wholesale,2.5843,4
+2018,6,Rice (imported),Wholesale,5.2480,4
+2018,6,Rice (local),Wholesale,3.7345,4
+2018,6,Sorghum,Wholesale,1.7196,4
+2018,6,Yam,Wholesale,1.2081,3
+2018,7,Cassava,Wholesale,0.7273,8
+2018,7,Maize,Wholesale,1.5900,9
+2018,7,Millet,Wholesale,2.3951,3
+2018,7,Rice (imported),Wholesale,4.0700,9
+2018,7,Rice (local),Wholesale,2.9395,8
+2018,7,Sorghum,Wholesale,1.7222,4
+2018,7,Yam,Wholesale,2.7259,1
+2018,8,Cassava,Wholesale,0.7546,7
+2018,8,Maize,Wholesale,1.5385,9
+2018,8,Millet,Wholesale,2.4274,4
+2018,8,Rice (imported),Wholesale,3.8683,8
+2018,8,Rice (local),Wholesale,3.3500,7
+2018,8,Sorghum,Wholesale,1.7216,4
+2018,8,Yam,Wholesale,2.7259,1
+2018,9,Cassava,Wholesale,0.7400,7
+2018,9,Maize,Wholesale,1.2751,8
+2018,9,Millet,Wholesale,2.4598,4
+2018,9,Rice (imported),Wholesale,4.5000,8
+2018,9,Rice (local),Wholesale,3.5236,6
+2018,9,Sorghum,Wholesale,1.7694,4
+2018,9,Yam,Wholesale,1.3312,1
+2018,10,Cassava,Wholesale,0.6664,8
+2018,10,Maize,Wholesale,1.2200,11
+2018,10,Millet,Wholesale,2.4802,4
+2018,10,Rice (imported),Wholesale,5.6500,12
+2018,10,Rice (local),Wholesale,3.3846,9
+2018,10,Sorghum,Wholesale,1.8035,4
+2018,10,Yam,Wholesale,2.2178,1
+2018,11,Cassava,Wholesale,0.7223,8
+2018,11,Maize,Wholesale,1.1500,9
+2018,11,Millet,Wholesale,2.1920,4
+2018,11,Rice (imported),Wholesale,4.4000,9
+2018,11,Rice (local),Wholesale,3.0089,8
+2018,11,Sorghum,Wholesale,1.7975,4
+2018,11,Yam,Wholesale,2.2538,1
+2018,12,Cassava,Wholesale,0.7700,8
+2018,12,Maize,Wholesale,1.2800,9
+2018,12,Millet,Wholesale,2.0265,4
+2018,12,Rice (imported),Wholesale,4.4000,9
+2018,12,Rice (local),Wholesale,2.8430,7
+2018,12,Sorghum,Wholesale,1.6732,4
+2019,1,Cassava,Wholesale,0.7350,10
+2019,1,Maize,Wholesale,1.3400,10
+2019,1,Millet,Wholesale,2.0847,4
+2019,1,Rice (imported),Wholesale,5.9400,8
+2019,1,Rice (local),Wholesale,2.9105,8
+2019,1,Sorghum,Wholesale,1.7412,4
+2019,1,Yam,Wholesale,1.4787,1
+2019,2,Cassava,Wholesale,0.5903,9
+2019,2,Maize,Wholesale,1.3255,10
+2019,2,Millet,Wholesale,2.0671,4
+2019,2,Rice (imported),Wholesale,4.2800,9
+2019,2,Rice (local),Wholesale,2.6619,8
+2019,2,Sorghum,Wholesale,1.7445,4
+2019,3,Cassava,Wholesale,0.6402,8
+2019,3,Maize,Wholesale,1.3496,9
+2019,3,Millet,Wholesale,2.0744,4
+2019,3,Rice (imported),Wholesale,3.9375,8
+2019,3,Rice (local),Wholesale,2.8078,7
+2019,3,Sorghum,Wholesale,1.7064,4
+2019,4,Cassava,Wholesale,0.8064,6
+2019,4,Maize,Wholesale,1.5268,10
+2019,4,Millet,Wholesale,2.0776,4
+2019,4,Rice (imported),Wholesale,4.2538,9
+2019,4,Rice (local),Wholesale,2.9630,9
+2019,4,Sorghum,Wholesale,1.9341,4
+2019,4,Yam,Wholesale,1.4414,1
+2019,5,Cassava,Wholesale,0.8468,8
+2019,5,Maize,Wholesale,1.5907,10
+2019,5,Millet,Wholesale,2.0775,4
+2019,5,Rice (imported),Wholesale,4.4400,9
+2019,5,Rice (local),Wholesale,2.9630,9
+2019,5,Sorghum,Wholesale,1.9117,4
+2019,6,Cassava,Wholesale,0.5214,8
+2019,6,Maize,Wholesale,1.6000,11
+2019,6,Millet,Wholesale,2.0892,4
+2019,6,Rice (imported),Wholesale,4.6600,10
+2019,6,Rice (local),Wholesale,3.3982,8
+2019,6,Sorghum,Wholesale,1.9780,4
+2019,6,Yam,Wholesale,1.2182,1
+2019,7,Cassava,Wholesale,0.5800,9
+2019,7,Maize,Wholesale,1.6000,12
+2019,7,Millet,Wholesale,2.0742,4
+2019,7,Rice (imported),Wholesale,4.4000,11
+2019,7,Rice (local),Wholesale,3.7038,9
+2019,7,Sorghum,Wholesale,2.0242,4
+2019,8,Cassava,Retail,2.6600,17
+2019,8,Cassava,Wholesale,3.3147,13
+2019,8,Cowpeas,Retail,1.6400,17
+2019,8,Gari,Retail,3.5500,15
+2019,8,Gari,Wholesale,3.7151,8
+2019,8,Maize,Retail,1.4950,18
+2019,8,Maize,Wholesale,1.1538,14
+2019,8,Maize (yellow),Retail,1.5500,16
+2019,8,Maize (yellow),Wholesale,1.1923,12
+2019,8,Millet,Retail,2.8100,18
+2019,8,Millet,Wholesale,2.2299,13
+2019,8,Rice (imported),Retail,3.8800,17
+2019,8,Rice (imported),Wholesale,3.8206,14
+2019,8,Rice (local),Retail,4.6600,15
+2019,8,Rice (local),Wholesale,3.6835,12
+2019,8,Sorghum,Retail,2.7400,17
+2019,8,Sorghum,Wholesale,2.2833,12
+2019,8,Yam,Retail,7.1200,17
+2019,8,Yam,Wholesale,1.2200,14
+2019,9,Cassava,Retail,2.2650,18
+2019,9,Cassava,Wholesale,3.8518,14
+2019,9,Cowpeas,Retail,1.7200,18
+2019,9,Gari,Retail,3.3300,16
+2019,9,Gari,Wholesale,3.2959,10
+2019,9,Maize,Retail,1.4000,19
+2019,9,Maize,Wholesale,1.0430,15
+2019,9,Maize (yellow),Retail,1.4250,16
+2019,9,Maize (yellow),Wholesale,1.0102,12
+2019,9,Millet,Retail,2.9200,19
+2019,9,Millet,Wholesale,2.2164,14
+2019,9,Rice (imported),Retail,3.9500,18
+2019,9,Rice (imported),Wholesale,4.0000,15
+2019,9,Rice (local),Retail,4.4650,16
+2019,9,Rice (local),Wholesale,4.1442,13
+2019,9,Sorghum,Retail,2.7350,18
+2019,9,Sorghum,Wholesale,2.2152,13
+2019,9,Yam,Retail,7.1250,18
+2019,9,Yam,Wholesale,1.2000,15
+2019,10,Cassava,Retail,2.2200,15
+2019,10,Cassava,Wholesale,4.1211,13
+2019,10,Cowpeas,Retail,1.8350,14
+2019,10,Gari,Retail,3.6100,14
+2019,10,Gari,Wholesale,3.2167,8
+2019,10,Maize,Retail,1.3300,17
+2019,10,Maize,Wholesale,0.9429,14
+2019,10,Maize (yellow),Retail,1.3600,15
+2019,10,Maize (yellow),Wholesale,1.0049,12
+2019,10,Millet,Retail,2.8600,17
+2019,10,Millet,Wholesale,2.2154,13
+2019,10,Rice (imported),Retail,3.8000,14
+2019,10,Rice (imported),Wholesale,3.6038,13
+2019,10,Rice (local),Retail,4.5200,14
+2019,10,Rice (local),Wholesale,3.8570,12
+2019,10,Sorghum,Retail,2.6800,16
+2019,10,Sorghum,Wholesale,2.2152,13
+2019,10,Yam,Retail,7.1850,16
+2019,10,Yam,Wholesale,1.2000,14
+2019,11,Cassava,Retail,2.2650,16
+2019,11,Cassava,Wholesale,2.5353,12
+2019,11,Cowpeas,Retail,1.7300,17
+2019,11,Gari,Retail,3.6150,14
+2019,11,Gari,Wholesale,3.1682,9
+2019,11,Maize,Retail,1.4400,18
+2019,11,Maize,Wholesale,0.9318,13
+2019,11,Maize (yellow),Retail,1.4800,15
+2019,11,Maize (yellow),Wholesale,1.0805,11
+2019,11,Millet,Retail,2.8900,18
+2019,11,Millet,Wholesale,2.2901,13
+2019,11,Rice (imported),Retail,3.8500,16
+2019,11,Rice (imported),Wholesale,3.6038,13
+2019,11,Rice (local),Retail,4.6700,15
+2019,11,Rice (local),Wholesale,4.0197,12
+2019,11,Sorghum,Retail,2.7700,17
+2019,11,Sorghum,Wholesale,2.2458,13
+2019,11,Yam,Retail,7.1700,17
+2019,11,Yam,Wholesale,1.2000,14
+2019,12,Cassava,Retail,2.3000,17
+2019,12,Cassava,Wholesale,3.0465,12
+2019,12,Cowpeas,Retail,1.7300,17
+2019,12,Gari,Retail,4.0200,14
+2019,12,Gari,Wholesale,3.3457,9
+2019,12,Maize,Retail,1.4400,18
+2019,12,Maize,Wholesale,1.0772,13
+2019,12,Maize (yellow),Retail,1.3400,15
+2019,12,Maize (yellow),Wholesale,1.0670,11
+2019,12,Millet,Retail,2.8900,18
+2019,12,Millet,Wholesale,2.2249,13
+2019,12,Rice (imported),Retail,3.7200,16
+2019,12,Rice (imported),Wholesale,3.9000,13
+2019,12,Rice (local),Retail,4.5600,15
+2019,12,Rice (local),Wholesale,4.1091,12
+2019,12,Sorghum,Retail,2.7700,17
+2019,12,Sorghum,Wholesale,2.2450,13
+2019,12,Yam,Retail,7.0300,17
+2019,12,Yam,Wholesale,1.2303,14
+2020,1,Cassava,Retail,2.5200,15
+2020,1,Cassava,Wholesale,3.1465,11
+2020,1,Cowpeas,Retail,1.3900,15
+2020,1,Gari,Retail,3.8250,12
+2020,1,Gari,Wholesale,3.8010,8
+2020,1,Maize,Retail,1.3800,16
+2020,1,Maize,Wholesale,1.4684,13
+2020,1,Maize (yellow),Retail,1.5700,14
+2020,1,Maize (yellow),Wholesale,1.2269,10
+2020,1,Millet,Retail,2.5950,16
+2020,1,Millet,Wholesale,2.6747,12
+2020,1,Rice (imported),Retail,3.6500,14
+2020,1,Rice (imported),Wholesale,3.9090,12
+2020,1,Rice (local),Retail,4.3400,13
+2020,1,Rice (local),Wholesale,3.8596,11
+2020,1,Sorghum,Retail,2.6900,15
+2020,1,Sorghum,Wholesale,2.4771,11
+2020,1,Yam,Retail,7.2000,15
+2020,1,Yam,Wholesale,1.1000,13
+2020,2,Cassava,Retail,1.9000,17
+2020,2,Cassava,Wholesale,1.4633,10
+2020,2,Cowpeas,Retail,3.0450,18
+2020,2,Gari,Retail,3.5000,19
+2020,2,Gari,Wholesale,3.4669,12
+2020,2,Maize,Retail,1.6700,19
+2020,2,Maize,Wholesale,1.2100,14
+2020,2,Maize (yellow),Retail,1.8300,17
+2020,2,Maize (yellow),Wholesale,1.4063,11
+2020,2,Millet,Retail,2.7800,19
+2020,2,Millet,Wholesale,2.5000,14
+2020,2,Rice (imported),Retail,7.5700,18
+2020,2,Rice (imported),Wholesale,6.0000,13
+2020,2,Rice (local),Retail,3.9900,17
+2020,2,Rice (local),Wholesale,3.4537,12
+2020,2,Sorghum,Retail,2.7900,18
+2020,2,Sorghum,Wholesale,2.4000,14
+2020,2,Yam,Retail,2.8250,18
+2020,2,Yam,Wholesale,2.3724,10
+2020,3,Cassava,Retail,2.9400,15
+2020,3,Cassava,Wholesale,3.3444,11
+2020,3,Cowpeas,Retail,1.5100,13
+2020,3,Gari,Retail,3.1550,12
+2020,3,Gari,Wholesale,3.6246,8
+2020,3,Maize,Retail,1.6000,15
+2020,3,Maize,Wholesale,1.1079,13
+2020,3,Maize (yellow),Retail,1.6100,13
+2020,3,Maize (yellow),Wholesale,1.2752,10
+2020,3,Millet,Retail,2.8400,15
+2020,3,Millet,Wholesale,2.3870,12
+2020,3,Rice (imported),Retail,4.2000,13
+2020,3,Rice (imported),Wholesale,3.9869,12
+2020,3,Rice (local),Retail,4.6950,12
+2020,3,Rice (local),Wholesale,3.4190,12
+2020,3,Sorghum,Retail,2.7000,15
+2020,3,Sorghum,Wholesale,2.3385,11
+2020,3,Yam,Retail,7.5100,14
+2020,3,Yam,Wholesale,1.1400,12
+2020,4,Cassava,Retail,1.6700,17
+2020,4,Cassava,Wholesale,1.2667,11
+2020,4,Cowpeas,Retail,5.3200,19
+2020,4,Gari,Retail,3.4900,19
+2020,4,Gari,Wholesale,3.2943,11
+2020,4,Maize,Retail,1.7900,19
+2020,4,Maize,Wholesale,1.1900,14
+2020,4,Maize (yellow),Retail,1.8500,17
+2020,4,Maize (yellow),Wholesale,1.2769,12
+2020,4,Millet,Retail,2.8500,19
+2020,4,Millet,Wholesale,2.3177,14
+2020,4,Rice (imported),Retail,7.4950,18
+2020,4,Rice (imported),Wholesale,5.8500,14
+2020,4,Rice (local),Retail,4.5600,18
+2020,4,Rice (local),Wholesale,2.8420,13
+2020,4,Sorghum,Retail,2.8600,18
+2020,4,Sorghum,Wholesale,2.4079,14
+2020,4,Yam,Retail,3.0700,18
+2020,4,Yam,Wholesale,2.0433,11
+2020,5,Cassava,Retail,1.8400,17
+2020,5,Cassava,Wholesale,2.0540,11
+2020,5,Cowpeas,Retail,4.5800,19
+2020,5,Gari,Retail,3.3600,19
+2020,5,Gari,Wholesale,2.8663,13
+2020,5,Maize,Retail,1.8200,19
+2020,5,Maize,Wholesale,1.3634,14
+2020,5,Maize (yellow),Retail,1.8400,17
+2020,5,Maize (yellow),Wholesale,1.4768,11
+2020,5,Millet,Retail,2.8500,19
+2020,5,Millet,Wholesale,2.3790,14
+2020,5,Rice (imported),Retail,7.4700,18
+2020,5,Rice (imported),Wholesale,6.2213,14
+2020,5,Rice (local),Retail,4.0100,18
+2020,5,Rice (local),Wholesale,3.4250,12
+2020,5,Sorghum,Retail,2.8600,18
+2020,5,Sorghum,Wholesale,2.4206,14
+2020,5,Yam,Retail,2.8800,19
+2020,5,Yam,Wholesale,2.1258,11
+2020,6,Cassava,Retail,1.7400,1
+2020,6,Cassava,Wholesale,1.5674,11
+2020,6,Cowpeas,Retail,3.9800,1
+2020,6,Gari,Retail,3.7500,1
+2020,6,Gari,Wholesale,2.8854,14
+2020,6,Maize,Retail,2.1200,1
+2020,6,Maize,Wholesale,1.4966,15
+2020,6,Maize (yellow),Wholesale,1.4619,12
+2020,6,Millet,Retail,3.5700,1
+2020,6,Millet,Wholesale,2.3539,14
+2020,6,Rice (imported),Retail,7.6200,1
+2020,6,Rice (imported),Wholesale,5.5750,15
+2020,6,Rice (local),Retail,5.4800,1
+2020,6,Rice (local),Wholesale,3.9885,14
+2020,6,Sorghum,Retail,3.5700,1
+2020,6,Sorghum,Wholesale,2.4156,14
+2020,6,Yam,Retail,3.5700,1
+2020,6,Yam,Wholesale,2.2868,11
+2020,7,Cassava,Retail,1.8050,16
+2020,7,Cassava,Wholesale,1.5855,11
+2020,7,Cowpeas,Retail,3.0800,17
+2020,7,Gari,Retail,3.4600,18
+2020,7,Gari,Wholesale,3.4632,13
+2020,7,Maize,Retail,1.6500,18
+2020,7,Maize,Wholesale,1.3001,15
+2020,7,Maize (yellow),Retail,1.7500,16
+2020,7,Maize (yellow),Wholesale,1.3954,12
+2020,7,Millet,Retail,2.8200,18
+2020,7,Millet,Wholesale,2.5000,15
+2020,7,Rice (imported),Retail,7.7200,17
+2020,7,Rice (imported),Wholesale,6.7900,14
+2020,7,Rice (local),Retail,3.8400,16
+2020,7,Rice (local),Wholesale,3.5276,13
+2020,7,Sorghum,Retail,2.7800,17
+2020,7,Sorghum,Wholesale,2.4000,15
+2020,7,Yam,Retail,2.7800,17
+2020,7,Yam,Wholesale,2.3724,10
+2020,8,Cassava,Retail,1.8700,16
+2020,8,Cassava,Wholesale,1.6640,11
+2020,8,Cowpeas,Retail,3.0550,16
+2020,8,Gari,Retail,3.5000,17
+2020,8,Gari,Wholesale,3.4659,13
+2020,8,Maize,Retail,1.5600,17
+2020,8,Maize,Wholesale,1.2653,16
+2020,8,Maize (yellow),Retail,1.5400,15
+2020,8,Maize (yellow),Wholesale,1.4000,13
+2020,8,Millet,Retail,2.9500,17
+2020,8,Millet,Wholesale,2.4419,16
+2020,8,Rice (imported),Retail,7.8800,16
+2020,8,Rice (imported),Wholesale,7.1022,15
+2020,8,Rice (local),Retail,3.7000,15
+2020,8,Rice (local),Wholesale,3.5276,13
+2020,8,Sorghum,Retail,2.7650,16
+2020,8,Sorghum,Wholesale,2.2444,16
+2020,8,Yam,Retail,2.9500,14
+2020,8,Yam,Wholesale,2.2818,11
+2020,9,Cassava,Retail,2.0800,15
+2020,9,Cassava,Wholesale,1.5701,10
+2020,9,Cowpeas,Retail,3.1900,16
+2020,9,Gari,Retail,4.0000,17
+2020,9,Gari,Wholesale,3.3909,12
+2020,9,Maize,Retail,1.6500,17
+2020,9,Maize,Wholesale,1.4188,14
+2020,9,Maize (yellow),Retail,1.6500,15
+2020,9,Maize (yellow),Wholesale,1.3800,11
+2020,9,Millet,Retail,3.3500,17
+2020,9,Millet,Wholesale,2.8900,13
+2020,9,Rice (imported),Retail,8.2950,16
+2020,9,Rice (imported),Wholesale,6.9500,14
+2020,9,Rice (local),Retail,4.0800,15
+2020,9,Rice (local),Wholesale,3.9666,11
+2020,9,Sorghum,Retail,3.0650,16
+2020,9,Sorghum,Wholesale,2.3077,13
+2020,9,Yam,Retail,2.2650,10
+2020,9,Yam,Wholesale,1.6667,5
+2020,10,Cassava,Retail,2.4600,13
+2020,10,Cassava,Wholesale,5.1398,8
+2020,10,Cowpeas,Retail,2.0950,12
+2020,10,Gari,Retail,4.3400,12
+2020,10,Gari,Wholesale,4.3648,6
+2020,10,Maize,Retail,1.5850,14
+2020,10,Maize,Wholesale,1.4144,11
+2020,10,Maize (yellow),Retail,1.8500,13
+2020,10,Maize (yellow),Wholesale,1.3761,9
+2020,10,Millet,Retail,3.6200,14
+2020,10,Millet,Wholesale,3.3913,11
+2020,10,Rice (imported),Retail,4.1400,12
+2020,10,Rice (imported),Wholesale,3.4400,9
+2020,10,Rice (local),Retail,4.9400,12
+2020,10,Rice (local),Wholesale,4.1334,9
+2020,10,Sorghum,Retail,3.6000,13
+2020,10,Sorghum,Wholesale,2.6923,11
+2020,10,Yam,Retail,7.5000,13
+2020,10,Yam,Wholesale,1.2992,11
+2020,11,Cassava,Retail,2.6800,15
+2020,11,Cassava,Wholesale,5.2795,9
+2020,11,Cowpeas,Retail,2.0500,15
+2020,11,Gari,Retail,4.5700,15
+2020,11,Gari,Wholesale,3.7962,7
+2020,11,Maize,Retail,1.8100,17
+2020,11,Maize,Wholesale,1.4144,13
+2020,11,Maize (yellow),Retail,1.8700,16
+2020,11,Maize (yellow),Wholesale,1.3761,11
+2020,11,Millet,Retail,3.7200,17
+2020,11,Millet,Wholesale,3.1751,13
+2020,11,Rice (imported),Retail,4.2000,15
+2020,11,Rice (imported),Wholesale,3.5500,11
+2020,11,Rice (local),Retail,4.8100,15
+2020,11,Rice (local),Wholesale,4.2918,11
+2020,11,Sorghum,Retail,3.5250,16
+2020,11,Sorghum,Wholesale,2.6923,13
+2020,11,Yam,Retail,7.3900,16
+2020,11,Yam,Wholesale,1.4086,12
+2020,12,Cassava,Retail,3.2400,13
+2020,12,Cassava,Wholesale,6.1729,8
+2020,12,Cowpeas,Retail,2.3750,12
+2020,12,Gari,Retail,4.0200,11
+2020,12,Gari,Wholesale,3.9025,5
+2020,12,Maize,Retail,2.0000,14
+2020,12,Maize,Wholesale,1.7616,12
+2020,12,Maize (yellow),Retail,2.1100,13
+2020,12,Maize (yellow),Wholesale,1.8583,10
+2020,12,Millet,Retail,3.8300,14
+2020,12,Millet,Wholesale,3.0769,11
+2020,12,Rice (imported),Retail,4.3600,12
+2020,12,Rice (imported),Wholesale,3.4666,9
+2020,12,Rice (local),Retail,4.8300,12
+2020,12,Rice (local),Wholesale,4.6000,9
+2020,12,Sorghum,Retail,3.1200,13
+2020,12,Sorghum,Wholesale,2.6923,11
+2020,12,Yam,Retail,8.7700,13
+2020,12,Yam,Wholesale,1.5200,11
+2021,1,Cassava,Retail,1.9800,16
+2021,1,Cassava,Wholesale,3.2343,9
+2021,1,Cowpeas,Retail,2.4300,17
+2021,1,Gari,Retail,2.7300,15
+2021,1,Gari,Wholesale,4.0909,11
+2021,1,Maize,Retail,2.2150,18
+2021,1,Maize,Wholesale,1.7531,15
+2021,1,Maize (yellow),Retail,2.0800,16
+2021,1,Maize (yellow),Wholesale,1.8577,12
+2021,1,Millet,Retail,3.6000,18
+2021,1,Millet,Wholesale,3.2469,14
+2021,1,Rice (imported),Retail,5.3600,16
+2021,1,Rice (imported),Wholesale,5.2980,12
+2021,1,Rice (local),Retail,4.6200,17
+2021,1,Rice (local),Wholesale,3.9794,13
+2021,1,Sorghum,Retail,3.4500,17
+2021,1,Sorghum,Wholesale,2.7832,14
+2021,1,Yam,Retail,3.9250,18
+2021,1,Yam,Wholesale,1.6667,13
+2021,2,Cassava,Retail,2.1400,15
+2021,2,Cassava,Wholesale,1.9216,8
+2021,2,Cowpeas,Retail,4.1000,8
+2021,2,Gari,Retail,4.6800,18
+2021,2,Gari,Wholesale,4.0454,12
+2021,2,Maize,Retail,2.1550,18
+2021,2,Maize,Wholesale,1.8496,14
+2021,2,Maize (yellow),Retail,2.2150,16
+2021,2,Maize (yellow),Wholesale,1.8769,11
+2021,2,Millet,Retail,3.9500,18
+2021,2,Millet,Wholesale,3.2884,14
+2021,2,Rice (imported),Retail,5.7200,15
+2021,2,Rice (imported),Wholesale,5.5200,11
+2021,2,Rice (local),Retail,4.6350,16
+2021,2,Rice (local),Wholesale,3.9313,12
+2021,2,Sorghum,Retail,3.6000,17
+2021,2,Sorghum,Wholesale,2.8427,14
+2021,2,Yam,Retail,2.5200,17
+2021,2,Yam,Wholesale,1.7857,9
+2021,3,Cassava,Retail,2.0900,15
+2021,3,Cassava,Wholesale,1.3848,9
+2021,3,Cowpeas,Retail,5.2800,8
+2021,3,Gari,Retail,4.8200,17
+2021,3,Gari,Wholesale,3.9661,12
+2021,3,Maize,Retail,2.1400,17
+2021,3,Maize,Wholesale,1.7450,14
+2021,3,Maize (yellow),Retail,2.3800,16
+2021,3,Maize (yellow),Wholesale,1.8384,12
+2021,3,Millet,Retail,3.8500,17
+2021,3,Millet,Wholesale,3.3150,14
+2021,3,Rice (imported),Retail,5.7900,15
+2021,3,Rice (imported),Wholesale,5.4166,13
+2021,3,Rice (local),Retail,4.0700,15
+2021,3,Rice (local),Wholesale,3.5960,11
+2021,3,Sorghum,Retail,3.3250,16
+2021,3,Sorghum,Wholesale,2.7190,14
+2021,3,Yam,Retail,2.4200,16
+2021,3,Yam,Wholesale,2.0200,9
+2021,4,Cassava,Retail,3.8700,13
+2021,4,Cassava,Wholesale,1.4826,8
+2021,4,Cowpeas,Retail,5.3200,6
+2021,4,Gari,Retail,4.8600,17
+2021,4,Gari,Wholesale,4.2100,11
+2021,4,Maize,Retail,2.2100,17
+2021,4,Maize,Wholesale,1.9268,14
+2021,4,Maize (yellow),Retail,2.3400,16
+2021,4,Maize (yellow),Wholesale,1.9154,12
+2021,4,Millet,Retail,3.9400,17
+2021,4,Millet,Wholesale,3.2199,14
+2021,4,Rice (imported),Retail,6.1750,14
+2021,4,Rice (imported),Wholesale,5.5600,12
+2021,4,Rice (local),Retail,4.4400,15
+2021,4,Rice (local),Wholesale,3.6600,11
+2021,4,Sorghum,Retail,3.5100,16
+2021,4,Sorghum,Wholesale,2.7458,14
+2021,4,Yam,Retail,2.9500,15
+2021,4,Yam,Wholesale,2.4667,8
+2021,5,Cassava,Retail,1.4700,11
+2021,5,Cassava,Wholesale,1.6240,6
+2021,5,Cowpeas,Retail,6.0000,9
+2021,5,Gari,Retail,5.1700,14
+2021,5,Gari,Wholesale,4.1058,8
+2021,5,Maize,Retail,2.7550,14
+2021,5,Maize,Wholesale,2.1923,10
+2021,5,Maize (yellow),Retail,2.9450,12
+2021,5,Maize (yellow),Wholesale,2.9465,9
+2021,5,Millet,Retail,4.2200,14
+2021,5,Millet,Wholesale,3.3516,10
+2021,5,Rice (imported),Retail,6.1750,12
+2021,5,Rice (imported),Wholesale,5.6000,9
+2021,5,Rice (local),Retail,4.9400,12
+2021,5,Rice (local),Wholesale,4.0111,8
+2021,5,Sorghum,Retail,4.0000,13
+2021,5,Sorghum,Wholesale,2.9461,10
+2021,5,Yam,Retail,3.1850,12
+2021,5,Yam,Wholesale,2.8342,6
+2021,6,Cassava,Retail,6.1350,8
+2021,6,Cassava,Wholesale,1.7022,8
+2021,6,Cowpeas,Retail,2.8150,12
+2021,6,Gari,Retail,5.1450,12
+2021,6,Gari,Wholesale,4.3026,11
+2021,6,Maize,Retail,3.3400,15
+2021,6,Maize,Wholesale,2.4154,13
+2021,6,Maize (yellow),Retail,3.3100,14
+2021,6,Maize (yellow),Wholesale,2.5385,11
+2021,6,Millet,Retail,4.1800,15
+2021,6,Millet,Wholesale,3.4615,13
+2021,6,Rice (imported),Retail,5.1150,14
+2021,6,Rice (imported),Wholesale,6.0400,11
+2021,6,Rice (local),Retail,5.4250,14
+2021,6,Rice (local),Wholesale,3.7500,10
+2021,6,Sorghum,Retail,3.1500,14
+2021,6,Sorghum,Wholesale,3.2000,13
+2021,6,Yam,Retail,8.5900,14
+2021,6,Yam,Wholesale,3.3300,7
+2021,7,Cassava,Retail,1.4600,15
+2021,7,Cassava,Wholesale,1.7425,9
+2021,7,Cowpeas,Retail,9.9650,14
+2021,7,Gari,Retail,5.0700,16
+2021,7,Gari,Wholesale,4.3572,12
+2021,7,Maize,Retail,3.7600,17
+2021,7,Maize,Wholesale,2.9615,14
+2021,7,Maize (yellow),Retail,3.5600,16
+2021,7,Maize (yellow),Wholesale,2.9231,11
+2021,7,Millet,Retail,4.2300,17
+2021,7,Millet,Wholesale,3.5822,14
+2021,7,Rice (imported),Retail,6.3000,14
+2021,7,Rice (imported),Wholesale,5.8000,12
+2021,7,Rice (local),Retail,5.0700,15
+2021,7,Rice (local),Wholesale,4.1000,11
+2021,7,Sorghum,Retail,3.8800,16
+2021,7,Sorghum,Wholesale,3.1384,14
+2021,7,Yam,Retail,4.6500,14
+2021,7,Yam,Wholesale,3.2504,8
+2021,8,Cassava,Retail,1.4200,15
+2021,8,Cassava,Wholesale,1.4049,7
+2021,8,Cowpeas,Retail,8.8350,14
+2021,8,Gari,Retail,4.9200,16
+2021,8,Gari,Wholesale,4.2546,11
+2021,8,Maize,Retail,3.6650,16
+2021,8,Maize,Wholesale,3.0009,13
+2021,8,Maize (yellow),Retail,3.6200,15
+2021,8,Maize (yellow),Wholesale,3.1195,12
+2021,8,Millet,Retail,4.2300,16
+2021,8,Millet,Wholesale,3.6930,13
+2021,8,Rice (imported),Retail,6.4300,14
+2021,8,Rice (imported),Wholesale,5.8200,12
+2021,8,Rice (local),Retail,4.9650,14
+2021,8,Rice (local),Wholesale,4.0145,10
+2021,8,Sorghum,Retail,3.8600,15
+2021,8,Sorghum,Wholesale,3.0769,13
+2021,8,Yam,Retail,3.8900,14
+2021,8,Yam,Wholesale,2.4304,9
+2021,9,Cassava,Retail,1.4150,14
+2021,9,Cassava,Wholesale,1.6191,8
+2021,9,Cowpeas,Retail,8.3200,15
+2021,9,Gari,Retail,4.7750,16
+2021,9,Gari,Wholesale,4.3026,11
+2021,9,Maize,Retail,3.4150,16
+2021,9,Maize,Wholesale,3.0000,13
+2021,9,Maize (yellow),Retail,3.4600,15
+2021,9,Maize (yellow),Wholesale,3.0389,11
+2021,9,Millet,Retail,4.3750,16
+2021,9,Millet,Wholesale,3.6930,13
+2021,9,Rice (imported),Retail,6.9050,14
+2021,9,Rice (imported),Wholesale,5.8200,12
+2021,9,Rice (local),Retail,5.0350,14
+2021,9,Rice (local),Wholesale,3.9991,10
+2021,9,Sorghum,Retail,4.0000,15
+2021,9,Sorghum,Wholesale,3.0769,13
+2021,9,Yam,Retail,3.2000,11
+2021,9,Yam,Wholesale,2.0789,6
+2021,10,Cassava,Retail,1.5550,14
+2021,10,Cassava,Wholesale,1.6174,7
+2021,10,Cowpeas,Retail,5.8900,15
+2021,10,Gari,Retail,4.7300,15
+2021,10,Gari,Wholesale,4.3026,11
+2021,10,Maize,Retail,3.3600,16
+2021,10,Maize,Wholesale,2.5385,13
+2021,10,Maize (yellow),Retail,3.4000,15
+2021,10,Maize (yellow),Wholesale,2.8616,12
+2021,10,Millet,Retail,4.1850,16
+2021,10,Millet,Wholesale,3.6930,13
+2021,10,Rice (imported),Retail,6.3050,14
+2021,10,Rice (imported),Wholesale,6.1561,12
+2021,10,Rice (local),Retail,5.0700,15
+2021,10,Rice (local),Wholesale,3.9624,11
+2021,10,Sorghum,Retail,3.9100,15
+2021,10,Sorghum,Wholesale,2.9418,13
+2021,10,Yam,Retail,2.5900,13
+2021,10,Yam,Wholesale,1.9770,6
+2021,11,Cassava,Retail,1.4100,15
+2021,11,Cassava,Wholesale,1.3890,7
+2021,11,Cowpeas,Retail,5.1900,16
+2021,11,Gari,Retail,4.7700,17
+2021,11,Gari,Wholesale,4.2857,11
+2021,11,Maize,Retail,3.2900,17
+2021,11,Maize,Wholesale,2.6962,14
+2021,11,Maize (yellow),Retail,3.4550,16
+2021,11,Maize (yellow),Wholesale,2.6923,13
+2021,11,Millet,Retail,4.2200,17
+2021,11,Millet,Wholesale,3.6778,14
+2021,11,Rice (imported),Retail,6.3950,14
+2021,11,Rice (imported),Wholesale,6.0800,12
+2021,11,Rice (local),Retail,4.9300,15
+2021,11,Rice (local),Wholesale,3.9708,11
+2021,11,Sorghum,Retail,3.9500,16
+2021,11,Sorghum,Wholesale,2.9882,14
+2021,11,Yam,Retail,2.8800,13
+2021,11,Yam,Wholesale,2.1838,7
+2021,12,Cassava,Retail,1.3950,16
+2021,12,Cassava,Wholesale,1.5618,8
+2021,12,Cowpeas,Retail,4.8500,17
+2021,12,Gari,Retail,4.7750,18
+2021,12,Gari,Wholesale,4.2701,12
+2021,12,Maize,Retail,3.3000,18
+2021,12,Maize,Wholesale,2.6452,15
+2021,12,Maize (yellow),Retail,3.4800,17
+2021,12,Maize (yellow),Wholesale,2.6962,14
+2021,12,Millet,Retail,4.3250,18
+2021,12,Millet,Wholesale,3.6930,15
+2021,12,Rice (imported),Retail,6.1200,15
+2021,12,Rice (imported),Wholesale,6.0400,13
+2021,12,Rice (local),Retail,5.1050,16
+2021,12,Rice (local),Wholesale,4.0312,12
+2021,12,Sorghum,Retail,4.0000,17
+2021,12,Sorghum,Wholesale,3.4975,15
+2021,12,Yam,Retail,3.4900,15
+2021,12,Yam,Wholesale,2.9464,8
+2022,1,Cassava,Retail,1.4750,16
+2022,1,Cassava,Wholesale,1.5393,8
+2022,1,Cowpeas,Retail,6.8800,15
+2022,1,Gari,Retail,4.7300,17
+2022,1,Gari,Wholesale,4.0915,12
+2022,1,Maize,Retail,3.4950,18
+2022,1,Maize,Wholesale,2.7250,15
+2022,1,Maize (yellow),Retail,3.7600,17
+2022,1,Maize (yellow),Wholesale,2.7375,14
+2022,1,Millet,Retail,4.2000,18
+2022,1,Millet,Wholesale,3.6500,15
+2022,1,Rice (imported),Retail,6.1500,15
+2022,1,Rice (imported),Wholesale,6.0000,13
+2022,1,Rice (local),Retail,5.1350,16
+2022,1,Rice (local),Wholesale,4.0033,12
+2022,1,Sorghum,Retail,3.9500,18
+2022,1,Sorghum,Wholesale,3.0769,15
+2022,1,Yam,Retail,2.9600,15
+2022,1,Yam,Wholesale,2.6736,8
+2022,2,Cassava,Retail,1.8400,7
+2022,2,Cassava,Wholesale,1.8352,7
+2022,2,Cowpeas,Retail,7.5000,8
+2022,2,Gari,Retail,4.0500,11
+2022,2,Gari,Wholesale,4.0476,11
+2022,2,Maize,Retail,2.9200,13
+2022,2,Maize,Wholesale,2.9167,13
+2022,2,Maize (yellow),Retail,2.7900,12
+2022,2,Maize (yellow),Wholesale,2.7896,12
+2022,2,Millet,Retail,3.6600,13
+2022,2,Millet,Wholesale,3.6600,13
+2022,2,Rice (imported),Retail,5.5300,11
+2022,2,Rice (imported),Wholesale,5.5334,11
+2022,2,Rice (local),Retail,4.7300,11
+2022,2,Rice (local),Wholesale,3.9624,11
+2022,2,Sorghum,Retail,2.8000,13
+2022,2,Sorghum,Wholesale,2.8006,13
+2022,2,Yam,Retail,3.0150,8
+2022,2,Yam,Wholesale,3.0173,8
+2022,3,Cassava,Retail,1.5150,14
+2022,3,Cassava,Wholesale,1.4660,8
+2022,3,Cowpeas,Retail,7.2350,10
+2022,3,Gari,Retail,5.2600,16
+2022,3,Gari,Wholesale,4.3556,11
+2022,3,Maize,Retail,3.9500,16
+2022,3,Maize,Wholesale,3.7600,13
+2022,3,Maize (yellow),Retail,4.2300,15
+2022,3,Maize (yellow),Wholesale,3.6564,12
+2022,3,Millet,Retail,5.1450,16
+2022,3,Millet,Wholesale,4.0627,13
+2022,3,Rice (imported),Retail,6.8150,14
+2022,3,Rice (imported),Wholesale,6.1244,12
+2022,3,Rice (local),Retail,5.1700,15
+2022,3,Rice (local),Wholesale,4.4184,12
+2022,3,Sorghum,Retail,4.5500,15
+2022,3,Sorghum,Wholesale,3.1250,13
+2022,3,Yam,Retail,4.0600,15
+2022,3,Yam,Wholesale,3.3556,9
+2022,4,Cassava,Retail,2.2950,14
+2022,4,Cassava,Wholesale,1.8084,8
+2022,4,Cowpeas,Retail,7.9950,12
+2022,4,Gari,Retail,5.1600,16
+2022,4,Gari,Wholesale,4.3026,11
+2022,4,Maize,Retail,4.3450,16
+2022,4,Maize,Wholesale,3.3900,13
+2022,4,Maize (yellow),Retail,4.4600,15
+2022,4,Maize (yellow),Wholesale,3.5943,12
+2022,4,Millet,Retail,6.0350,16
+2022,4,Millet,Wholesale,5.4202,13
+2022,4,Rice (imported),Retail,6.7850,14
+2022,4,Rice (imported),Wholesale,6.6940,12
+2022,4,Rice (local),Retail,6.4300,15
+2022,4,Rice (local),Wholesale,4.1683,12
+2022,4,Sorghum,Retail,4.8000,15
+2022,4,Sorghum,Wholesale,4.0700,13
+2022,4,Yam,Retail,4.0700,15
+2022,4,Yam,Wholesale,3.6694,9
+2022,5,Cassava,Retail,1.5600,13
+2022,5,Cassava,Wholesale,1.6462,8
+2022,5,Cowpeas,Retail,9.2300,11
+2022,5,Gari,Retail,5.2000,15
+2022,5,Gari,Wholesale,4.7272,11
+2022,5,Maize,Retail,4.7700,15
+2022,5,Maize,Wholesale,4.0000,13
+2022,5,Maize (yellow),Retail,4.5050,14
+2022,5,Maize (yellow),Wholesale,3.9652,12
+2022,5,Millet,Retail,6.9200,15
+2022,5,Millet,Wholesale,5.6508,13
+2022,5,Rice (imported),Retail,7.2000,13
+2022,5,Rice (imported),Wholesale,6.9640,12
+2022,5,Rice (local),Retail,5.4600,13
+2022,5,Rice (local),Wholesale,4.0358,11
+2022,5,Sorghum,Retail,4.4050,14
+2022,5,Sorghum,Wholesale,4.0690,13
+2022,5,Yam,Retail,4.7300,13
+2022,5,Yam,Wholesale,3.7518,8
+2022,6,Cassava,Retail,1.6700,13
+2022,6,Cassava,Wholesale,1.6170,6
+2022,6,Cowpeas,Retail,6.5500,13
+2022,6,Gari,Retail,6.3200,14
+2022,6,Gari,Wholesale,4.6553,10
+2022,6,Maize,Retail,4.3500,15
+2022,6,Maize,Wholesale,4.2031,12
+2022,6,Maize (yellow),Retail,4.8050,14
+2022,6,Maize (yellow),Wholesale,3.6667,11
+2022,6,Millet,Retail,6.2100,15
+2022,6,Millet,Wholesale,5.2066,12
+2022,6,Rice (imported),Retail,6.9600,13
+2022,6,Rice (imported),Wholesale,7.0880,11
+2022,6,Rice (local),Retail,5.6100,14
+2022,6,Rice (local),Wholesale,4.0358,11
+2022,6,Sorghum,Retail,4.9150,14
+2022,6,Sorghum,Wholesale,3.7267,12
+2022,6,Yam,Retail,4.8650,14
+2022,6,Yam,Wholesale,3.6694,9
+2022,7,Cassava,Retail,1.6300,13
+2022,7,Cassava,Wholesale,1.7873,8
+2022,7,Cowpeas,Retail,5.2600,12
+2022,7,Gari,Retail,2.8900,11
+2022,7,Gari,Wholesale,4.5432,10
+2022,7,Maize,Retail,4.3300,15
+2022,7,Maize,Wholesale,3.5403,13
+2022,7,Maize (yellow),Retail,4.4850,14
+2022,7,Maize (yellow),Wholesale,4.0065,12
+2022,7,Millet,Retail,7.3300,15
+2022,7,Millet,Wholesale,5.7300,13
+2022,7,Rice (imported),Retail,7.3300,13
+2022,7,Rice (imported),Wholesale,7.1840,12
+2022,7,Rice (local),Retail,6.1150,14
+2022,7,Rice (local),Wholesale,4.3982,12
+2022,7,Sorghum,Retail,5.8300,14
+2022,7,Sorghum,Wholesale,4.8000,13
+2022,7,Yam,Retail,4.0600,13
+2022,7,Yam,Wholesale,3.1576,9
+2022,8,Cassava,Retail,1.7600,14
+2022,8,Cassava,Wholesale,1.6264,7
+2022,8,Cowpeas,Retail,7.7950,14
+2022,8,Gari,Retail,4.7900,15
+2022,8,Gari,Wholesale,4.2247,9
+2022,8,Maize,Retail,4.3300,15
+2022,8,Maize,Wholesale,3.4651,12
+2022,8,Maize (yellow),Retail,4.7500,13
+2022,8,Maize (yellow),Wholesale,4.2222,10
+2022,8,Millet,Retail,6.2700,15
+2022,8,Millet,Wholesale,5.0974,12
+2022,8,Rice (imported),Retail,7.4100,13
+2022,8,Rice (imported),Wholesale,7.2040,10
+2022,8,Rice (local),Retail,6.7600,13
+2022,8,Rice (local),Wholesale,4.4876,11
+2022,8,Sorghum,Retail,6.3150,14
+2022,8,Sorghum,Wholesale,4.5723,12
+2022,8,Yam,Retail,5.0100,10
+2022,8,Yam,Wholesale,3.1042,7
+2022,9,Cassava,Retail,1.5400,12
+2022,9,Cassava,Wholesale,1.3971,6
+2022,9,Cowpeas,Retail,8.8950,12
+2022,9,Gari,Retail,5.1600,13
+2022,9,Gari,Wholesale,4.2637,8
+2022,9,Maize,Retail,3.7750,14
+2022,9,Maize,Wholesale,3.5403,11
+2022,9,Maize (yellow),Retail,4.2200,12
+2022,9,Maize (yellow),Wholesale,3.7231,9
+2022,9,Millet,Retail,7.6450,14
+2022,9,Millet,Wholesale,6.6183,11
+2022,9,Rice (imported),Retail,9.1950,12
+2022,9,Rice (imported),Wholesale,7.3440,10
+2022,9,Rice (local),Retail,6.7300,13
+2022,9,Rice (local),Wholesale,5.1928,10
+2022,9,Sorghum,Retail,5.5600,13
+2022,9,Sorghum,Wholesale,4.4811,11
+2022,9,Yam,Retail,3.5800,10
+2022,9,Yam,Wholesale,3.0835,7
+2022,10,Cassava,Retail,2.1100,13
+2022,10,Cassava,Wholesale,1.6198,8
+2022,10,Cowpeas,Retail,2.8600,13
+2022,10,Gari,Retail,3.3200,11
+2022,10,Gari,Wholesale,4.1383,10
+2022,10,Maize,Retail,3.9500,16
+2022,10,Maize,Wholesale,3.4301,13
+2022,10,Maize (yellow),Retail,4.1700,14
+2022,10,Maize (yellow),Wholesale,3.5385,11
+2022,10,Millet,Retail,8.0400,16
+2022,10,Millet,Wholesale,7.2288,12
+2022,10,Rice (imported),Retail,10.0800,13
+2022,10,Rice (imported),Wholesale,9.8300,12
+2022,10,Rice (local),Retail,6.9800,16
+2022,10,Rice (local),Wholesale,5.5692,12
+2022,10,Sorghum,Retail,6.1000,15
+2022,10,Sorghum,Wholesale,5.1556,12
+2022,10,Yam,Retail,3.2600,14
+2022,10,Yam,Wholesale,2.7849,9
+2022,11,Cassava,Retail,2.1600,14
+2022,11,Cassava,Wholesale,1.6136,9
+2022,11,Cowpeas,Retail,10.1050,16
+2022,11,Gari,Retail,6.2000,16
+2022,11,Gari,Wholesale,4.6507,10
+2022,11,Maize,Retail,5.4350,16
+2022,11,Maize,Wholesale,4.6609,13
+2022,11,Maize (yellow),Retail,5.1250,14
+2022,11,Maize (yellow),Wholesale,4.4600,11
+2022,11,Millet,Retail,8.8000,16
+2022,11,Millet,Wholesale,7.8258,12
+2022,11,Rice (imported),Retail,11.1400,15
+2022,11,Rice (imported),Wholesale,10.0400,11
+2022,11,Rice (local),Retail,8.7100,16
+2022,11,Rice (local),Wholesale,7.1002,12
+2022,11,Sorghum,Retail,7.4100,15
+2022,11,Sorghum,Wholesale,6.6076,12
+2022,11,Yam,Retail,3.5400,15
+2022,11,Yam,Wholesale,3.2624,9
+2022,12,Cassava,Retail,2.3200,12
+2022,12,Cassava,Wholesale,1.6264,7
+2022,12,Cowpeas,Retail,12.1300,12
+2022,12,Gari,Retail,6.2700,13
+2022,12,Gari,Wholesale,5.2962,8
+2022,12,Maize,Retail,5.7100,13
+2022,12,Maize,Wholesale,4.9998,10
+2022,12,Maize (yellow),Retail,5.8000,11
+2022,12,Maize (yellow),Wholesale,5.0514,8
+2022,12,Millet,Retail,10.1500,13
+2022,12,Millet,Wholesale,8.5300,9
+2022,12,Rice (imported),Retail,10.9550,12
+2022,12,Rice (imported),Wholesale,9.6600,9
+2022,12,Rice (local),Retail,9.4200,13
+2022,12,Rice (local),Wholesale,8.0900,10
+2022,12,Sorghum,Retail,7.9200,12
+2022,12,Sorghum,Wholesale,6.9400,9
+2022,12,Yam,Retail,4.0600,13
+2022,12,Yam,Wholesale,3.6257,7
+2023,1,Cassava,Retail,3.1350,16
+2023,1,Cassava,Wholesale,2.7108,9
+2023,1,Cowpeas,Retail,9.0050,14
+2023,1,Gari,Retail,6.6050,18
+2023,1,Gari,Wholesale,5.0768,11
+2023,1,Maize,Retail,5.5800,18
+2023,1,Maize,Wholesale,4.8615,15
+2023,1,Maize (yellow),Retail,5.6450,16
+2023,1,Maize (yellow),Wholesale,4.7692,13
+2023,1,Millet,Retail,9.4900,18
+2023,1,Millet,Wholesale,8.6043,15
+2023,1,Rice (imported),Retail,11.0000,15
+2023,1,Rice (imported),Wholesale,10.4864,12
+2023,1,Rice (local),Retail,9.5800,17
+2023,1,Rice (local),Wholesale,8.2334,14
+2023,1,Sorghum,Retail,8.1400,17
+2023,1,Sorghum,Wholesale,6.8184,15
+2023,1,Yam,Retail,4.2500,16
+2023,1,Yam,Wholesale,3.4830,10
+2023,2,Cassava,Retail,5.9000,20
+2023,2,Cassava,Wholesale,9.8458,14
+2023,2,Cowpeas,Retail,10.0000,17
+2023,2,Gari,Retail,7.8000,20
+2023,2,Gari,Wholesale,5.8824,13
+2023,2,Maize,Retail,6.0500,20
+2023,2,Maize,Wholesale,5.1163,18
+2023,2,Maize (yellow),Retail,5.7400,19
+2023,2,Maize (yellow),Wholesale,5.1154,17
+2023,2,Millet,Retail,9.7650,20
+2023,2,Millet,Wholesale,8.0000,17
+2023,2,Rice (imported),Retail,10.8200,17
+2023,2,Rice (imported),Wholesale,9.7542,15
+2023,2,Rice (local),Retail,11.8200,20
+2023,2,Rice (local),Wholesale,9.0225,18
+2023,2,Sorghum,Retail,8.2400,19
+2023,2,Sorghum,Wholesale,6.7778,17
+2023,2,Yam,Retail,11.1300,20
+2023,2,Yam,Wholesale,3.3007,17
+2023,3,Cassava,Retail,3.4850,18
+2023,3,Cassava,Wholesale,3.0871,10
+2023,3,Cowpeas,Retail,12.9050,12
+2023,3,Gari,Retail,7.9500,20
+2023,3,Gari,Wholesale,6.0569,12
+2023,3,Maize,Retail,5.7750,20
+2023,3,Maize,Wholesale,5.0000,17
+2023,3,Maize (yellow),Retail,5.8350,18
+2023,3,Maize (yellow),Wholesale,5.1699,15
+2023,3,Millet,Retail,9.5750,20
+2023,3,Millet,Wholesale,7.9270,16
+2023,3,Rice (imported),Retail,12.0200,16
+2023,3,Rice (imported),Wholesale,11.0020,13
+2023,3,Rice (local),Retail,9.8500,18
+2023,3,Rice (local),Wholesale,8.3334,15
+2023,3,Sorghum,Retail,8.9300,18
+2023,3,Sorghum,Wholesale,6.6833,16
+2023,3,Yam,Retail,4.3950,18
+2023,3,Yam,Wholesale,3.4508,11
+2023,4,Cassava,Retail,8.8800,17
+2023,4,Cassava,Wholesale,16.9942,13
+2023,4,Cowpeas,Retail,10.0550,10
+2023,4,Gari,Retail,7.6850,16
+2023,4,Gari,Wholesale,8.0891,8
+2023,4,Maize,Retail,6.0500,20
+2023,4,Maize,Wholesale,5.3846,17
+2023,4,Maize (yellow),Retail,6.2750,18
+2023,4,Maize (yellow),Wholesale,5.5128,15
+2023,4,Millet,Retail,9.5750,20
+2023,4,Millet,Wholesale,8.3835,16
+2023,4,Rice (imported),Retail,10.5300,19
+2023,4,Rice (imported),Wholesale,8.5169,16
+2023,4,Rice (local),Retail,14.3400,18
+2023,4,Rice (local),Wholesale,11.0022,15
+2023,4,Sorghum,Retail,8.8400,19
+2023,4,Sorghum,Wholesale,6.5797,16
+2023,4,Yam,Retail,18.1500,19
+2023,4,Yam,Wholesale,3.4317,16
+2023,5,Cassava,Retail,7.2500,15
+2023,5,Cassava,Wholesale,14.6064,12
+2023,5,Cowpeas,Retail,7.6300,12
+2023,5,Gari,Retail,7.8150,16
+2023,5,Gari,Wholesale,7.2743,8
+2023,5,Maize,Retail,6.3750,20
+2023,5,Maize,Wholesale,5.5556,17
+2023,5,Maize (yellow),Retail,6.3400,18
+2023,5,Maize (yellow),Wholesale,5.6754,15
+2023,5,Millet,Retail,10.0850,20
+2023,5,Millet,Wholesale,8.2174,16
+2023,5,Rice (imported),Retail,9.8500,18
+2023,5,Rice (imported),Wholesale,8.1464,15
+2023,5,Rice (local),Retail,13.5200,18
+2023,5,Rice (local),Wholesale,11.0000,15
+2023,5,Sorghum,Retail,8.4500,19
+2023,5,Sorghum,Wholesale,6.7516,16
+2023,5,Yam,Retail,18.3950,20
+2023,5,Yam,Wholesale,3.2756,16
+2023,6,Cassava,Retail,7.0000,15
+2023,6,Cassava,Wholesale,15.8449,12
+2023,6,Cowpeas,Retail,10.1500,9
+2023,6,Gari,Retail,7.9250,16
+2023,6,Gari,Wholesale,7.5928,8
+2023,6,Maize,Retail,6.6400,19
+2023,6,Maize,Wholesale,5.5000,16
+2023,6,Maize (yellow),Retail,6.8000,17
+2023,6,Maize (yellow),Wholesale,5.7535,14
+2023,6,Millet,Retail,10.2500,19
+2023,6,Millet,Wholesale,8.0777,15
+2023,6,Rice (imported),Retail,10.7200,17
+2023,6,Rice (imported),Wholesale,8.6579,14
+2023,6,Rice (local),Retail,13.8800,17
+2023,6,Rice (local),Wholesale,11.4750,14
+2023,6,Sorghum,Retail,9.1350,18
+2023,6,Sorghum,Wholesale,6.7407,15
+2023,6,Yam,Retail,17.8800,19
+2023,6,Yam,Wholesale,3.2800,15
+2023,7,Cassava,Retail,8.9100,17
+2023,7,Cassava,Wholesale,3.1509,10
+2023,7,Cowpeas,Retail,6.6400,12
+2023,7,Gari,Retail,8.5150,16
+2023,7,Gari,Wholesale,6.8888,13
+2023,7,Maize,Retail,6.5650,20
+2023,7,Maize,Wholesale,5.5556,17
+2023,7,Maize (yellow),Retail,6.8000,19
+2023,7,Maize (yellow),Wholesale,5.6014,16
+2023,7,Millet,Retail,10.2050,20
+2023,7,Millet,Wholesale,8.0724,16
+2023,7,Rice (imported),Retail,11.2800,19
+2023,7,Rice (imported),Wholesale,10.4800,13
+2023,7,Rice (local),Retail,13.8800,17
+2023,7,Rice (local),Wholesale,8.6771,16
+2023,7,Sorghum,Retail,9.1700,19
+2023,7,Sorghum,Wholesale,6.7812,16
+2023,7,Yam,Retail,18.2200,20
+2023,7,Yam,Wholesale,4.3404,12

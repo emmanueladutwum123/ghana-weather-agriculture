@@ -1,0 +1,801 @@
+region,year,month,cpi_food,source_file
+Western,2022,9,139.0591,October 2026 CPI COICOP Annexes.xlsx
+Western,2022,10,142.8253,October 2026 CPI COICOP Annexes.xlsx
+Western,2022,11,154.7477,October 2026 CPI COICOP Annexes.xlsx
+Western,2022,12,160.9304,October 2026 CPI COICOP Annexes.xlsx
+Western,2023,1,163.4294,October 2026 CPI COICOP Annexes.xlsx
+Western,2023,2,169.3854,October 2026 CPI COICOP Annexes.xlsx
+Western,2023,3,166.7805,October 2026 CPI COICOP Annexes.xlsx
+Western,2023,4,177.6401,October 2026 CPI COICOP Annexes.xlsx
+Western,2023,5,193.6803,October 2026 CPI COICOP Annexes.xlsx
+Western,2023,6,200.2366,October 2026 CPI COICOP Annexes.xlsx
+Western,2023,7,209.2503,October 2026 CPI COICOP Annexes.xlsx
+Western,2023,8,212.0379,October 2026 CPI COICOP Annexes.xlsx
+Western,2023,9,212.2098,October 2026 CPI COICOP Annexes.xlsx
+Western,2023,10,212.7015,October 2026 CPI COICOP Annexes.xlsx
+Western,2023,11,213.3630,October 2026 CPI COICOP Annexes.xlsx
+Western,2023,12,212.5224,October 2026 CPI COICOP Annexes.xlsx
+Western,2024,1,218.3484,October 2026 CPI COICOP Annexes.xlsx
+Western,2024,2,227.1280,October 2026 CPI COICOP Annexes.xlsx
+Western,2024,3,229.6712,October 2026 CPI COICOP Annexes.xlsx
+Western,2024,4,227.3393,October 2026 CPI COICOP Annexes.xlsx
+Western,2024,5,229.5107,October 2026 CPI COICOP Annexes.xlsx
+Western,2024,6,245.9206,October 2026 CPI COICOP Annexes.xlsx
+Western,2024,7,248.1134,October 2026 CPI COICOP Annexes.xlsx
+Western,2024,8,236.2140,October 2026 CPI COICOP Annexes.xlsx
+Western,2024,9,248.5658,October 2026 CPI COICOP Annexes.xlsx
+Western,2024,10,249.8103,October 2026 CPI COICOP Annexes.xlsx
+Western,2024,11,261.4543,October 2026 CPI COICOP Annexes.xlsx
+Western,2024,12,260.9207,October 2026 CPI COICOP Annexes.xlsx
+Western,2025,1,273.8852,October 2026 CPI COICOP Annexes.xlsx
+Western,2025,2,282.9569,October 2026 CPI COICOP Annexes.xlsx
+Western,2025,3,283.5644,October 2026 CPI COICOP Annexes.xlsx
+Western,2025,4,286.0830,October 2026 CPI COICOP Annexes.xlsx
+Western,2025,5,289.9648,October 2026 CPI COICOP Annexes.xlsx
+Western,2025,6,286.0348,October 2026 CPI COICOP Annexes.xlsx
+Western,2025,7,287.9787,October 2026 CPI COICOP Annexes.xlsx
+Western,2025,8,284.3676,October 2026 CPI COICOP Annexes.xlsx
+Western,2025,9,283.5423,October 2026 CPI COICOP Annexes.xlsx
+Western,2025,10,279.8005,October 2026 CPI COICOP Annexes.xlsx
+Western,2025,11,284.6620,October 2026 CPI COICOP Annexes.xlsx
+Western,2025,12,292.1023,October 2026 CPI COICOP Annexes.xlsx
+Western,2026,1,287.6237,October 2026 CPI COICOP Annexes.xlsx
+Western,2026,2,274.8567,October 2026 CPI COICOP Annexes.xlsx
+Western,2026,3,273.4223,October 2026 CPI COICOP Annexes.xlsx
+Western,2026,4,272.7578,October 2026 CPI COICOP Annexes.xlsx
+Western,2026,5,279.9883,October 2026 CPI COICOP Annexes.xlsx
+Western,2026,6,278.1514,October 2026 CPI COICOP Annexes.xlsx
+Western,2026,7,274.9314,October 2026 CPI COICOP Annexes.xlsx
+Western,2026,8,262.4816,October 2026 CPI COICOP Annexes.xlsx
+Western,2026,9,271.2450,October 2026 CPI COICOP Annexes.xlsx
+Western,2026,10,270.1348,October 2026 CPI COICOP Annexes.xlsx
+Central,2022,9,156.8027,October 2026 CPI COICOP Annexes.xlsx
+Central,2022,10,164.6462,October 2026 CPI COICOP Annexes.xlsx
+Central,2022,11,180.3156,October 2026 CPI COICOP Annexes.xlsx
+Central,2022,12,186.3151,October 2026 CPI COICOP Annexes.xlsx
+Central,2023,1,190.5897,October 2026 CPI COICOP Annexes.xlsx
+Central,2023,2,191.8552,October 2026 CPI COICOP Annexes.xlsx
+Central,2023,3,192.4025,October 2026 CPI COICOP Annexes.xlsx
+Central,2023,4,203.3666,October 2026 CPI COICOP Annexes.xlsx
+Central,2023,5,216.2342,October 2026 CPI COICOP Annexes.xlsx
+Central,2023,6,224.1881,October 2026 CPI COICOP Annexes.xlsx
+Central,2023,7,234.8359,October 2026 CPI COICOP Annexes.xlsx
+Central,2023,8,223.2839,October 2026 CPI COICOP Annexes.xlsx
+Central,2023,9,231.3553,October 2026 CPI COICOP Annexes.xlsx
+Central,2023,10,229.8538,October 2026 CPI COICOP Annexes.xlsx
+Central,2023,11,231.0188,October 2026 CPI COICOP Annexes.xlsx
+Central,2023,12,232.5082,October 2026 CPI COICOP Annexes.xlsx
+Central,2024,1,238.1910,October 2026 CPI COICOP Annexes.xlsx
+Central,2024,2,243.0347,October 2026 CPI COICOP Annexes.xlsx
+Central,2024,3,246.8244,October 2026 CPI COICOP Annexes.xlsx
+Central,2024,4,259.8953,October 2026 CPI COICOP Annexes.xlsx
+Central,2024,5,265.9087,October 2026 CPI COICOP Annexes.xlsx
+Central,2024,6,280.1208,October 2026 CPI COICOP Annexes.xlsx
+Central,2024,7,285.6959,October 2026 CPI COICOP Annexes.xlsx
+Central,2024,8,269.8575,October 2026 CPI COICOP Annexes.xlsx
+Central,2024,9,280.7021,October 2026 CPI COICOP Annexes.xlsx
+Central,2024,10,279.8443,October 2026 CPI COICOP Annexes.xlsx
+Central,2024,11,290.7640,October 2026 CPI COICOP Annexes.xlsx
+Central,2024,12,291.8150,October 2026 CPI COICOP Annexes.xlsx
+Central,2025,1,306.6431,October 2026 CPI COICOP Annexes.xlsx
+Central,2025,2,310.9435,October 2026 CPI COICOP Annexes.xlsx
+Central,2025,3,303.3040,October 2026 CPI COICOP Annexes.xlsx
+Central,2025,4,307.4051,October 2026 CPI COICOP Annexes.xlsx
+Central,2025,5,310.9354,October 2026 CPI COICOP Annexes.xlsx
+Central,2025,6,311.0753,October 2026 CPI COICOP Annexes.xlsx
+Central,2025,7,306.6956,October 2026 CPI COICOP Annexes.xlsx
+Central,2025,8,295.8010,October 2026 CPI COICOP Annexes.xlsx
+Central,2025,9,303.5701,October 2026 CPI COICOP Annexes.xlsx
+Central,2025,10,296.8600,October 2026 CPI COICOP Annexes.xlsx
+Central,2025,11,298.6798,October 2026 CPI COICOP Annexes.xlsx
+Central,2025,12,300.0722,October 2026 CPI COICOP Annexes.xlsx
+Central,2026,1,301.3678,October 2026 CPI COICOP Annexes.xlsx
+Central,2026,2,299.9215,October 2026 CPI COICOP Annexes.xlsx
+Central,2026,3,302.5437,October 2026 CPI COICOP Annexes.xlsx
+Central,2026,4,305.8153,October 2026 CPI COICOP Annexes.xlsx
+Central,2026,5,312.6701,October 2026 CPI COICOP Annexes.xlsx
+Central,2026,6,314.5908,October 2026 CPI COICOP Annexes.xlsx
+Central,2026,7,315.4802,October 2026 CPI COICOP Annexes.xlsx
+Central,2026,8,321.1018,October 2026 CPI COICOP Annexes.xlsx
+Central,2026,9,322.6520,October 2026 CPI COICOP Annexes.xlsx
+Central,2026,10,308.6713,October 2026 CPI COICOP Annexes.xlsx
+Greater Accra,2022,9,141.8400,October 2026 CPI COICOP Annexes.xlsx
+Greater Accra,2022,10,146.2839,October 2026 CPI COICOP Annexes.xlsx
+Greater Accra,2022,11,166.3467,October 2026 CPI COICOP Annexes.xlsx
+Greater Accra,2022,12,174.3052,October 2026 CPI COICOP Annexes.xlsx
+Greater Accra,2023,1,180.3572,October 2026 CPI COICOP Annexes.xlsx
+Greater Accra,2023,2,182.9420,October 2026 CPI COICOP Annexes.xlsx
+Greater Accra,2023,3,179.1349,October 2026 CPI COICOP Annexes.xlsx
+Greater Accra,2023,4,180.5166,October 2026 CPI COICOP Annexes.xlsx
+Greater Accra,2023,5,186.8018,October 2026 CPI COICOP Annexes.xlsx
+Greater Accra,2023,6,193.1290,October 2026 CPI COICOP Annexes.xlsx
+Greater Accra,2023,7,200.8788,October 2026 CPI COICOP Annexes.xlsx
+Greater Accra,2023,8,202.6700,October 2026 CPI COICOP Annexes.xlsx
+Greater Accra,2023,9,207.3453,October 2026 CPI COICOP Annexes.xlsx
+Greater Accra,2023,10,207.6347,October 2026 CPI COICOP Annexes.xlsx
+Greater Accra,2023,11,210.0967,October 2026 CPI COICOP Annexes.xlsx
+Greater Accra,2023,12,212.9406,October 2026 CPI COICOP Annexes.xlsx
+Greater Accra,2024,1,212.8809,October 2026 CPI COICOP Annexes.xlsx
+Greater Accra,2024,2,217.4127,October 2026 CPI COICOP Annexes.xlsx
+Greater Accra,2024,3,218.8134,October 2026 CPI COICOP Annexes.xlsx
+Greater Accra,2024,4,225.2113,October 2026 CPI COICOP Annexes.xlsx
+Greater Accra,2024,5,231.9777,October 2026 CPI COICOP Annexes.xlsx
+Greater Accra,2024,6,240.7075,October 2026 CPI COICOP Annexes.xlsx
+Greater Accra,2024,7,251.7369,October 2026 CPI COICOP Annexes.xlsx
+Greater Accra,2024,8,244.9493,October 2026 CPI COICOP Annexes.xlsx
+Greater Accra,2024,9,253.4057,October 2026 CPI COICOP Annexes.xlsx
+Greater Accra,2024,10,254.2411,October 2026 CPI COICOP Annexes.xlsx
+Greater Accra,2024,11,265.1614,October 2026 CPI COICOP Annexes.xlsx
+Greater Accra,2024,12,279.7094,October 2026 CPI COICOP Annexes.xlsx
+Greater Accra,2025,1,279.5099,October 2026 CPI COICOP Annexes.xlsx
+Greater Accra,2025,2,282.3584,October 2026 CPI COICOP Annexes.xlsx
+Greater Accra,2025,3,280.7089,October 2026 CPI COICOP Annexes.xlsx
+Greater Accra,2025,4,280.9275,October 2026 CPI COICOP Annexes.xlsx
+Greater Accra,2025,5,284.3201,October 2026 CPI COICOP Annexes.xlsx
+Greater Accra,2025,6,284.1553,October 2026 CPI COICOP Annexes.xlsx
+Greater Accra,2025,7,286.6546,October 2026 CPI COICOP Annexes.xlsx
+Greater Accra,2025,8,279.9520,October 2026 CPI COICOP Annexes.xlsx
+Greater Accra,2025,9,283.0007,October 2026 CPI COICOP Annexes.xlsx
+Greater Accra,2025,10,279.0311,October 2026 CPI COICOP Annexes.xlsx
+Greater Accra,2025,11,285.3763,October 2026 CPI COICOP Annexes.xlsx
+Greater Accra,2025,12,288.6156,October 2026 CPI COICOP Annexes.xlsx
+Greater Accra,2026,1,288.9903,October 2026 CPI COICOP Annexes.xlsx
+Greater Accra,2026,2,293.0472,October 2026 CPI COICOP Annexes.xlsx
+Greater Accra,2026,3,290.1794,October 2026 CPI COICOP Annexes.xlsx
+Greater Accra,2026,4,292.2352,October 2026 CPI COICOP Annexes.xlsx
+Greater Accra,2026,5,296.1918,October 2026 CPI COICOP Annexes.xlsx
+Greater Accra,2026,6,298.9047,October 2026 CPI COICOP Annexes.xlsx
+Greater Accra,2026,7,297.5521,October 2026 CPI COICOP Annexes.xlsx
+Greater Accra,2026,8,288.3473,October 2026 CPI COICOP Annexes.xlsx
+Greater Accra,2026,9,285.6087,October 2026 CPI COICOP Annexes.xlsx
+Greater Accra,2026,10,280.2536,October 2026 CPI COICOP Annexes.xlsx
+Volta,2022,9,128.6061,October 2026 CPI COICOP Annexes.xlsx
+Volta,2022,10,131.3292,October 2026 CPI COICOP Annexes.xlsx
+Volta,2022,11,142.4668,October 2026 CPI COICOP Annexes.xlsx
+Volta,2022,12,144.9570,October 2026 CPI COICOP Annexes.xlsx
+Volta,2023,1,145.8185,October 2026 CPI COICOP Annexes.xlsx
+Volta,2023,2,149.9738,October 2026 CPI COICOP Annexes.xlsx
+Volta,2023,3,144.6533,October 2026 CPI COICOP Annexes.xlsx
+Volta,2023,4,151.5936,October 2026 CPI COICOP Annexes.xlsx
+Volta,2023,5,164.7560,October 2026 CPI COICOP Annexes.xlsx
+Volta,2023,6,175.1535,October 2026 CPI COICOP Annexes.xlsx
+Volta,2023,7,185.1112,October 2026 CPI COICOP Annexes.xlsx
+Volta,2023,8,187.0926,October 2026 CPI COICOP Annexes.xlsx
+Volta,2023,9,189.3461,October 2026 CPI COICOP Annexes.xlsx
+Volta,2023,10,187.3007,October 2026 CPI COICOP Annexes.xlsx
+Volta,2023,11,187.3583,October 2026 CPI COICOP Annexes.xlsx
+Volta,2023,12,191.4278,October 2026 CPI COICOP Annexes.xlsx
+Volta,2024,1,197.7237,October 2026 CPI COICOP Annexes.xlsx
+Volta,2024,2,201.6312,October 2026 CPI COICOP Annexes.xlsx
+Volta,2024,3,202.4641,October 2026 CPI COICOP Annexes.xlsx
+Volta,2024,4,205.4695,October 2026 CPI COICOP Annexes.xlsx
+Volta,2024,5,207.3672,October 2026 CPI COICOP Annexes.xlsx
+Volta,2024,6,210.9669,October 2026 CPI COICOP Annexes.xlsx
+Volta,2024,7,217.3842,October 2026 CPI COICOP Annexes.xlsx
+Volta,2024,8,211.5285,October 2026 CPI COICOP Annexes.xlsx
+Volta,2024,9,221.6911,October 2026 CPI COICOP Annexes.xlsx
+Volta,2024,10,222.0042,October 2026 CPI COICOP Annexes.xlsx
+Volta,2024,11,227.0867,October 2026 CPI COICOP Annexes.xlsx
+Volta,2024,12,230.2711,October 2026 CPI COICOP Annexes.xlsx
+Volta,2025,1,233.2609,October 2026 CPI COICOP Annexes.xlsx
+Volta,2025,2,237.6901,October 2026 CPI COICOP Annexes.xlsx
+Volta,2025,3,240.8861,October 2026 CPI COICOP Annexes.xlsx
+Volta,2025,4,245.5894,October 2026 CPI COICOP Annexes.xlsx
+Volta,2025,5,244.0904,October 2026 CPI COICOP Annexes.xlsx
+Volta,2025,6,240.8712,October 2026 CPI COICOP Annexes.xlsx
+Volta,2025,7,245.7757,October 2026 CPI COICOP Annexes.xlsx
+Volta,2025,8,244.9588,October 2026 CPI COICOP Annexes.xlsx
+Volta,2025,9,250.1141,October 2026 CPI COICOP Annexes.xlsx
+Volta,2025,10,250.2260,October 2026 CPI COICOP Annexes.xlsx
+Volta,2025,11,253.9356,October 2026 CPI COICOP Annexes.xlsx
+Volta,2025,12,257.8923,October 2026 CPI COICOP Annexes.xlsx
+Volta,2026,1,260.1231,October 2026 CPI COICOP Annexes.xlsx
+Volta,2026,2,257.1990,October 2026 CPI COICOP Annexes.xlsx
+Volta,2026,3,258.7512,October 2026 CPI COICOP Annexes.xlsx
+Volta,2026,4,261.0918,October 2026 CPI COICOP Annexes.xlsx
+Volta,2026,5,261.1990,October 2026 CPI COICOP Annexes.xlsx
+Volta,2026,6,260.4648,October 2026 CPI COICOP Annexes.xlsx
+Volta,2026,7,260.8831,October 2026 CPI COICOP Annexes.xlsx
+Volta,2026,8,254.3108,October 2026 CPI COICOP Annexes.xlsx
+Volta,2026,9,260.2904,October 2026 CPI COICOP Annexes.xlsx
+Volta,2026,10,257.5189,October 2026 CPI COICOP Annexes.xlsx
+Eastern,2022,9,149.0324,October 2026 CPI COICOP Annexes.xlsx
+Eastern,2022,10,153.6875,October 2026 CPI COICOP Annexes.xlsx
+Eastern,2022,11,167.8723,October 2026 CPI COICOP Annexes.xlsx
+Eastern,2022,12,176.7689,October 2026 CPI COICOP Annexes.xlsx
+Eastern,2023,1,185.2668,October 2026 CPI COICOP Annexes.xlsx
+Eastern,2023,2,190.8245,October 2026 CPI COICOP Annexes.xlsx
+Eastern,2023,3,191.6680,October 2026 CPI COICOP Annexes.xlsx
+Eastern,2023,4,203.6238,October 2026 CPI COICOP Annexes.xlsx
+Eastern,2023,5,219.7487,October 2026 CPI COICOP Annexes.xlsx
+Eastern,2023,6,231.6698,October 2026 CPI COICOP Annexes.xlsx
+Eastern,2023,7,238.0728,October 2026 CPI COICOP Annexes.xlsx
+Eastern,2023,8,242.5223,October 2026 CPI COICOP Annexes.xlsx
+Eastern,2023,9,252.2629,October 2026 CPI COICOP Annexes.xlsx
+Eastern,2023,10,254.0528,October 2026 CPI COICOP Annexes.xlsx
+Eastern,2023,11,258.3801,October 2026 CPI COICOP Annexes.xlsx
+Eastern,2023,12,267.2379,October 2026 CPI COICOP Annexes.xlsx
+Eastern,2024,1,275.5559,October 2026 CPI COICOP Annexes.xlsx
+Eastern,2024,2,278.8953,October 2026 CPI COICOP Annexes.xlsx
+Eastern,2024,3,280.9816,October 2026 CPI COICOP Annexes.xlsx
+Eastern,2024,4,282.3040,October 2026 CPI COICOP Annexes.xlsx
+Eastern,2024,5,290.1898,October 2026 CPI COICOP Annexes.xlsx
+Eastern,2024,6,305.2713,October 2026 CPI COICOP Annexes.xlsx
+Eastern,2024,7,303.3769,October 2026 CPI COICOP Annexes.xlsx
+Eastern,2024,8,302.0059,October 2026 CPI COICOP Annexes.xlsx
+Eastern,2024,9,311.8692,October 2026 CPI COICOP Annexes.xlsx
+Eastern,2024,10,305.8052,October 2026 CPI COICOP Annexes.xlsx
+Eastern,2024,11,313.2044,October 2026 CPI COICOP Annexes.xlsx
+Eastern,2024,12,322.1370,October 2026 CPI COICOP Annexes.xlsx
+Eastern,2025,1,338.2929,October 2026 CPI COICOP Annexes.xlsx
+Eastern,2025,2,342.1355,October 2026 CPI COICOP Annexes.xlsx
+Eastern,2025,3,353.0555,October 2026 CPI COICOP Annexes.xlsx
+Eastern,2025,4,356.0847,October 2026 CPI COICOP Annexes.xlsx
+Eastern,2025,5,358.4236,October 2026 CPI COICOP Annexes.xlsx
+Eastern,2025,6,355.9988,October 2026 CPI COICOP Annexes.xlsx
+Eastern,2025,7,363.1578,October 2026 CPI COICOP Annexes.xlsx
+Eastern,2025,8,356.6595,October 2026 CPI COICOP Annexes.xlsx
+Eastern,2025,9,353.8900,October 2026 CPI COICOP Annexes.xlsx
+Eastern,2025,10,351.5881,October 2026 CPI COICOP Annexes.xlsx
+Eastern,2025,11,353.9248,October 2026 CPI COICOP Annexes.xlsx
+Eastern,2025,12,368.1817,October 2026 CPI COICOP Annexes.xlsx
+Eastern,2026,1,371.2568,October 2026 CPI COICOP Annexes.xlsx
+Eastern,2026,2,375.9549,October 2026 CPI COICOP Annexes.xlsx
+Eastern,2026,3,372.6147,October 2026 CPI COICOP Annexes.xlsx
+Eastern,2026,4,375.7099,October 2026 CPI COICOP Annexes.xlsx
+Eastern,2026,5,382.3675,October 2026 CPI COICOP Annexes.xlsx
+Eastern,2026,6,383.3630,October 2026 CPI COICOP Annexes.xlsx
+Eastern,2026,7,381.3918,October 2026 CPI COICOP Annexes.xlsx
+Eastern,2026,8,361.0345,October 2026 CPI COICOP Annexes.xlsx
+Eastern,2026,9,375.3106,October 2026 CPI COICOP Annexes.xlsx
+Eastern,2026,10,364.6732,October 2026 CPI COICOP Annexes.xlsx
+Ashanti,2022,9,140.2636,October 2026 CPI COICOP Annexes.xlsx
+Ashanti,2022,10,140.9830,October 2026 CPI COICOP Annexes.xlsx
+Ashanti,2022,11,156.0925,October 2026 CPI COICOP Annexes.xlsx
+Ashanti,2022,12,161.2294,October 2026 CPI COICOP Annexes.xlsx
+Ashanti,2023,1,163.5849,October 2026 CPI COICOP Annexes.xlsx
+Ashanti,2023,2,166.3105,October 2026 CPI COICOP Annexes.xlsx
+Ashanti,2023,3,164.1992,October 2026 CPI COICOP Annexes.xlsx
+Ashanti,2023,4,172.5554,October 2026 CPI COICOP Annexes.xlsx
+Ashanti,2023,5,184.4560,October 2026 CPI COICOP Annexes.xlsx
+Ashanti,2023,6,190.8888,October 2026 CPI COICOP Annexes.xlsx
+Ashanti,2023,7,198.4244,October 2026 CPI COICOP Annexes.xlsx
+Ashanti,2023,8,197.8415,October 2026 CPI COICOP Annexes.xlsx
+Ashanti,2023,9,198.7513,October 2026 CPI COICOP Annexes.xlsx
+Ashanti,2023,10,198.5797,October 2026 CPI COICOP Annexes.xlsx
+Ashanti,2023,11,199.3080,October 2026 CPI COICOP Annexes.xlsx
+Ashanti,2023,12,200.1714,October 2026 CPI COICOP Annexes.xlsx
+Ashanti,2024,1,203.3881,October 2026 CPI COICOP Annexes.xlsx
+Ashanti,2024,2,207.1689,October 2026 CPI COICOP Annexes.xlsx
+Ashanti,2024,3,210.0446,October 2026 CPI COICOP Annexes.xlsx
+Ashanti,2024,4,212.7647,October 2026 CPI COICOP Annexes.xlsx
+Ashanti,2024,5,219.2979,October 2026 CPI COICOP Annexes.xlsx
+Ashanti,2024,6,229.2512,October 2026 CPI COICOP Annexes.xlsx
+Ashanti,2024,7,233.3460,October 2026 CPI COICOP Annexes.xlsx
+Ashanti,2024,8,227.9575,October 2026 CPI COICOP Annexes.xlsx
+Ashanti,2024,9,237.7662,October 2026 CPI COICOP Annexes.xlsx
+Ashanti,2024,10,242.8004,October 2026 CPI COICOP Annexes.xlsx
+Ashanti,2024,11,252.4995,October 2026 CPI COICOP Annexes.xlsx
+Ashanti,2024,12,258.6028,October 2026 CPI COICOP Annexes.xlsx
+Ashanti,2025,1,260.0258,October 2026 CPI COICOP Annexes.xlsx
+Ashanti,2025,2,266.8961,October 2026 CPI COICOP Annexes.xlsx
+Ashanti,2025,3,265.0894,October 2026 CPI COICOP Annexes.xlsx
+Ashanti,2025,4,266.9496,October 2026 CPI COICOP Annexes.xlsx
+Ashanti,2025,5,269.1703,October 2026 CPI COICOP Annexes.xlsx
+Ashanti,2025,6,267.6036,October 2026 CPI COICOP Annexes.xlsx
+Ashanti,2025,7,269.7106,October 2026 CPI COICOP Annexes.xlsx
+Ashanti,2025,8,262.1273,October 2026 CPI COICOP Annexes.xlsx
+Ashanti,2025,9,263.5208,October 2026 CPI COICOP Annexes.xlsx
+Ashanti,2025,10,261.8089,October 2026 CPI COICOP Annexes.xlsx
+Ashanti,2025,11,263.3532,October 2026 CPI COICOP Annexes.xlsx
+Ashanti,2025,12,269.5510,October 2026 CPI COICOP Annexes.xlsx
+Ashanti,2026,1,272.5461,October 2026 CPI COICOP Annexes.xlsx
+Ashanti,2026,2,276.1729,October 2026 CPI COICOP Annexes.xlsx
+Ashanti,2026,3,278.1451,October 2026 CPI COICOP Annexes.xlsx
+Ashanti,2026,4,282.4988,October 2026 CPI COICOP Annexes.xlsx
+Ashanti,2026,5,288.1988,October 2026 CPI COICOP Annexes.xlsx
+Ashanti,2026,6,287.4003,October 2026 CPI COICOP Annexes.xlsx
+Ashanti,2026,7,289.2709,October 2026 CPI COICOP Annexes.xlsx
+Ashanti,2026,8,285.5543,October 2026 CPI COICOP Annexes.xlsx
+Ashanti,2026,9,290.4409,October 2026 CPI COICOP Annexes.xlsx
+Ashanti,2026,10,286.1820,October 2026 CPI COICOP Annexes.xlsx
+Western North,2022,9,148.7761,October 2026 CPI COICOP Annexes.xlsx
+Western North,2022,10,160.9944,October 2026 CPI COICOP Annexes.xlsx
+Western North,2022,11,167.9844,October 2026 CPI COICOP Annexes.xlsx
+Western North,2022,12,169.0843,October 2026 CPI COICOP Annexes.xlsx
+Western North,2023,1,183.6502,October 2026 CPI COICOP Annexes.xlsx
+Western North,2023,2,193.7451,October 2026 CPI COICOP Annexes.xlsx
+Western North,2023,3,204.4987,October 2026 CPI COICOP Annexes.xlsx
+Western North,2023,4,214.6945,October 2026 CPI COICOP Annexes.xlsx
+Western North,2023,5,224.4287,October 2026 CPI COICOP Annexes.xlsx
+Western North,2023,6,231.8716,October 2026 CPI COICOP Annexes.xlsx
+Western North,2023,7,226.8374,October 2026 CPI COICOP Annexes.xlsx
+Western North,2023,8,216.0881,October 2026 CPI COICOP Annexes.xlsx
+Western North,2023,9,220.2068,October 2026 CPI COICOP Annexes.xlsx
+Western North,2023,10,222.0307,October 2026 CPI COICOP Annexes.xlsx
+Western North,2023,11,222.1132,October 2026 CPI COICOP Annexes.xlsx
+Western North,2023,12,229.6882,October 2026 CPI COICOP Annexes.xlsx
+Western North,2024,1,231.6887,October 2026 CPI COICOP Annexes.xlsx
+Western North,2024,2,234.1242,October 2026 CPI COICOP Annexes.xlsx
+Western North,2024,3,238.4324,October 2026 CPI COICOP Annexes.xlsx
+Western North,2024,4,248.9477,October 2026 CPI COICOP Annexes.xlsx
+Western North,2024,5,255.3313,October 2026 CPI COICOP Annexes.xlsx
+Western North,2024,6,271.8632,October 2026 CPI COICOP Annexes.xlsx
+Western North,2024,7,255.6674,October 2026 CPI COICOP Annexes.xlsx
+Western North,2024,8,248.8713,October 2026 CPI COICOP Annexes.xlsx
+Western North,2024,9,263.3135,October 2026 CPI COICOP Annexes.xlsx
+Western North,2024,10,270.7218,October 2026 CPI COICOP Annexes.xlsx
+Western North,2024,11,284.2158,October 2026 CPI COICOP Annexes.xlsx
+Western North,2024,12,290.2836,October 2026 CPI COICOP Annexes.xlsx
+Western North,2025,1,296.6957,October 2026 CPI COICOP Annexes.xlsx
+Western North,2025,2,303.3250,October 2026 CPI COICOP Annexes.xlsx
+Western North,2025,3,294.4092,October 2026 CPI COICOP Annexes.xlsx
+Western North,2025,4,301.6774,October 2026 CPI COICOP Annexes.xlsx
+Western North,2025,5,303.3407,October 2026 CPI COICOP Annexes.xlsx
+Western North,2025,6,317.9805,October 2026 CPI COICOP Annexes.xlsx
+Western North,2025,7,314.6978,October 2026 CPI COICOP Annexes.xlsx
+Western North,2025,8,302.8260,October 2026 CPI COICOP Annexes.xlsx
+Western North,2025,9,309.2744,October 2026 CPI COICOP Annexes.xlsx
+Western North,2025,10,304.3689,October 2026 CPI COICOP Annexes.xlsx
+Western North,2025,11,310.3921,October 2026 CPI COICOP Annexes.xlsx
+Western North,2025,12,309.0788,October 2026 CPI COICOP Annexes.xlsx
+Western North,2026,1,314.1257,October 2026 CPI COICOP Annexes.xlsx
+Western North,2026,2,312.2006,October 2026 CPI COICOP Annexes.xlsx
+Western North,2026,3,311.1884,October 2026 CPI COICOP Annexes.xlsx
+Western North,2026,4,312.5708,October 2026 CPI COICOP Annexes.xlsx
+Western North,2026,5,329.0020,October 2026 CPI COICOP Annexes.xlsx
+Western North,2026,6,319.2985,October 2026 CPI COICOP Annexes.xlsx
+Western North,2026,7,317.6402,October 2026 CPI COICOP Annexes.xlsx
+Western North,2026,8,312.5111,October 2026 CPI COICOP Annexes.xlsx
+Western North,2026,9,317.2238,October 2026 CPI COICOP Annexes.xlsx
+Western North,2026,10,316.3554,October 2026 CPI COICOP Annexes.xlsx
+Ahafo,2022,9,130.0919,October 2026 CPI COICOP Annexes.xlsx
+Ahafo,2022,10,132.6600,October 2026 CPI COICOP Annexes.xlsx
+Ahafo,2022,11,146.6110,October 2026 CPI COICOP Annexes.xlsx
+Ahafo,2022,12,153.6212,October 2026 CPI COICOP Annexes.xlsx
+Ahafo,2023,1,158.7507,October 2026 CPI COICOP Annexes.xlsx
+Ahafo,2023,2,160.8173,October 2026 CPI COICOP Annexes.xlsx
+Ahafo,2023,3,158.1201,October 2026 CPI COICOP Annexes.xlsx
+Ahafo,2023,4,164.0550,October 2026 CPI COICOP Annexes.xlsx
+Ahafo,2023,5,176.0479,October 2026 CPI COICOP Annexes.xlsx
+Ahafo,2023,6,180.9937,October 2026 CPI COICOP Annexes.xlsx
+Ahafo,2023,7,189.3598,October 2026 CPI COICOP Annexes.xlsx
+Ahafo,2023,8,180.7434,October 2026 CPI COICOP Annexes.xlsx
+Ahafo,2023,9,182.7382,October 2026 CPI COICOP Annexes.xlsx
+Ahafo,2023,10,182.6885,October 2026 CPI COICOP Annexes.xlsx
+Ahafo,2023,11,183.7627,October 2026 CPI COICOP Annexes.xlsx
+Ahafo,2023,12,187.1571,October 2026 CPI COICOP Annexes.xlsx
+Ahafo,2024,1,189.6680,October 2026 CPI COICOP Annexes.xlsx
+Ahafo,2024,2,192.9605,October 2026 CPI COICOP Annexes.xlsx
+Ahafo,2024,3,197.0747,October 2026 CPI COICOP Annexes.xlsx
+Ahafo,2024,4,201.3632,October 2026 CPI COICOP Annexes.xlsx
+Ahafo,2024,5,209.8277,October 2026 CPI COICOP Annexes.xlsx
+Ahafo,2024,6,224.4930,October 2026 CPI COICOP Annexes.xlsx
+Ahafo,2024,7,220.7940,October 2026 CPI COICOP Annexes.xlsx
+Ahafo,2024,8,220.1932,October 2026 CPI COICOP Annexes.xlsx
+Ahafo,2024,9,225.4714,October 2026 CPI COICOP Annexes.xlsx
+Ahafo,2024,10,227.4380,October 2026 CPI COICOP Annexes.xlsx
+Ahafo,2024,11,233.6223,October 2026 CPI COICOP Annexes.xlsx
+Ahafo,2024,12,233.3003,October 2026 CPI COICOP Annexes.xlsx
+Ahafo,2025,1,238.3593,October 2026 CPI COICOP Annexes.xlsx
+Ahafo,2025,2,247.6006,October 2026 CPI COICOP Annexes.xlsx
+Ahafo,2025,3,240.0485,October 2026 CPI COICOP Annexes.xlsx
+Ahafo,2025,4,240.3953,October 2026 CPI COICOP Annexes.xlsx
+Ahafo,2025,5,240.7662,October 2026 CPI COICOP Annexes.xlsx
+Ahafo,2025,6,242.8377,October 2026 CPI COICOP Annexes.xlsx
+Ahafo,2025,7,247.3031,October 2026 CPI COICOP Annexes.xlsx
+Ahafo,2025,8,238.9855,October 2026 CPI COICOP Annexes.xlsx
+Ahafo,2025,9,237.9257,October 2026 CPI COICOP Annexes.xlsx
+Ahafo,2025,10,237.7984,October 2026 CPI COICOP Annexes.xlsx
+Ahafo,2025,11,243.8459,October 2026 CPI COICOP Annexes.xlsx
+Ahafo,2025,12,246.4007,October 2026 CPI COICOP Annexes.xlsx
+Ahafo,2026,1,247.5632,October 2026 CPI COICOP Annexes.xlsx
+Ahafo,2026,2,246.0626,October 2026 CPI COICOP Annexes.xlsx
+Ahafo,2026,3,246.8673,October 2026 CPI COICOP Annexes.xlsx
+Ahafo,2026,4,243.7522,October 2026 CPI COICOP Annexes.xlsx
+Ahafo,2026,5,249.4101,October 2026 CPI COICOP Annexes.xlsx
+Ahafo,2026,6,251.1752,October 2026 CPI COICOP Annexes.xlsx
+Ahafo,2026,7,255.5965,October 2026 CPI COICOP Annexes.xlsx
+Ahafo,2026,8,253.4651,October 2026 CPI COICOP Annexes.xlsx
+Ahafo,2026,9,254.0503,October 2026 CPI COICOP Annexes.xlsx
+Ahafo,2026,10,253.1369,October 2026 CPI COICOP Annexes.xlsx
+Bono,2022,9,146.4291,October 2026 CPI COICOP Annexes.xlsx
+Bono,2022,10,157.7522,October 2026 CPI COICOP Annexes.xlsx
+Bono,2022,11,172.6052,October 2026 CPI COICOP Annexes.xlsx
+Bono,2022,12,181.0291,October 2026 CPI COICOP Annexes.xlsx
+Bono,2023,1,185.8873,October 2026 CPI COICOP Annexes.xlsx
+Bono,2023,2,192.6232,October 2026 CPI COICOP Annexes.xlsx
+Bono,2023,3,190.6822,October 2026 CPI COICOP Annexes.xlsx
+Bono,2023,4,205.1537,October 2026 CPI COICOP Annexes.xlsx
+Bono,2023,5,218.7905,October 2026 CPI COICOP Annexes.xlsx
+Bono,2023,6,228.2007,October 2026 CPI COICOP Annexes.xlsx
+Bono,2023,7,237.2933,October 2026 CPI COICOP Annexes.xlsx
+Bono,2023,8,236.9149,October 2026 CPI COICOP Annexes.xlsx
+Bono,2023,9,237.2005,October 2026 CPI COICOP Annexes.xlsx
+Bono,2023,10,236.4226,October 2026 CPI COICOP Annexes.xlsx
+Bono,2023,11,240.4132,October 2026 CPI COICOP Annexes.xlsx
+Bono,2023,12,239.8349,October 2026 CPI COICOP Annexes.xlsx
+Bono,2024,1,241.9969,October 2026 CPI COICOP Annexes.xlsx
+Bono,2024,2,243.7688,October 2026 CPI COICOP Annexes.xlsx
+Bono,2024,3,247.8966,October 2026 CPI COICOP Annexes.xlsx
+Bono,2024,4,249.4872,October 2026 CPI COICOP Annexes.xlsx
+Bono,2024,5,258.3356,October 2026 CPI COICOP Annexes.xlsx
+Bono,2024,6,275.3094,October 2026 CPI COICOP Annexes.xlsx
+Bono,2024,7,273.8059,October 2026 CPI COICOP Annexes.xlsx
+Bono,2024,8,273.6641,October 2026 CPI COICOP Annexes.xlsx
+Bono,2024,9,282.8652,October 2026 CPI COICOP Annexes.xlsx
+Bono,2024,10,285.7855,October 2026 CPI COICOP Annexes.xlsx
+Bono,2024,11,294.2198,October 2026 CPI COICOP Annexes.xlsx
+Bono,2024,12,302.9311,October 2026 CPI COICOP Annexes.xlsx
+Bono,2025,1,310.6267,October 2026 CPI COICOP Annexes.xlsx
+Bono,2025,2,314.0478,October 2026 CPI COICOP Annexes.xlsx
+Bono,2025,3,321.9505,October 2026 CPI COICOP Annexes.xlsx
+Bono,2025,4,331.9444,October 2026 CPI COICOP Annexes.xlsx
+Bono,2025,5,336.7004,October 2026 CPI COICOP Annexes.xlsx
+Bono,2025,6,316.6217,October 2026 CPI COICOP Annexes.xlsx
+Bono,2025,7,315.3694,October 2026 CPI COICOP Annexes.xlsx
+Bono,2025,8,313.4665,October 2026 CPI COICOP Annexes.xlsx
+Bono,2025,9,301.1971,October 2026 CPI COICOP Annexes.xlsx
+Bono,2025,10,303.2141,October 2026 CPI COICOP Annexes.xlsx
+Bono,2025,11,311.0388,October 2026 CPI COICOP Annexes.xlsx
+Bono,2025,12,315.4262,October 2026 CPI COICOP Annexes.xlsx
+Bono,2026,1,321.1129,October 2026 CPI COICOP Annexes.xlsx
+Bono,2026,2,314.8404,October 2026 CPI COICOP Annexes.xlsx
+Bono,2026,3,315.3892,October 2026 CPI COICOP Annexes.xlsx
+Bono,2026,4,314.6710,October 2026 CPI COICOP Annexes.xlsx
+Bono,2026,5,321.6365,October 2026 CPI COICOP Annexes.xlsx
+Bono,2026,6,317.6001,October 2026 CPI COICOP Annexes.xlsx
+Bono,2026,7,315.2553,October 2026 CPI COICOP Annexes.xlsx
+Bono,2026,8,307.7053,October 2026 CPI COICOP Annexes.xlsx
+Bono,2026,9,314.9202,October 2026 CPI COICOP Annexes.xlsx
+Bono,2026,10,312.6205,October 2026 CPI COICOP Annexes.xlsx
+Bono East,2022,9,133.5609,October 2026 CPI COICOP Annexes.xlsx
+Bono East,2022,10,138.8442,October 2026 CPI COICOP Annexes.xlsx
+Bono East,2022,11,152.4665,October 2026 CPI COICOP Annexes.xlsx
+Bono East,2022,12,162.5629,October 2026 CPI COICOP Annexes.xlsx
+Bono East,2023,1,167.0180,October 2026 CPI COICOP Annexes.xlsx
+Bono East,2023,2,167.9588,October 2026 CPI COICOP Annexes.xlsx
+Bono East,2023,3,166.8685,October 2026 CPI COICOP Annexes.xlsx
+Bono East,2023,4,174.0970,October 2026 CPI COICOP Annexes.xlsx
+Bono East,2023,5,191.5944,October 2026 CPI COICOP Annexes.xlsx
+Bono East,2023,6,197.6070,October 2026 CPI COICOP Annexes.xlsx
+Bono East,2023,7,202.7104,October 2026 CPI COICOP Annexes.xlsx
+Bono East,2023,8,200.4446,October 2026 CPI COICOP Annexes.xlsx
+Bono East,2023,9,200.4630,October 2026 CPI COICOP Annexes.xlsx
+Bono East,2023,10,200.4083,October 2026 CPI COICOP Annexes.xlsx
+Bono East,2023,11,201.5490,October 2026 CPI COICOP Annexes.xlsx
+Bono East,2023,12,204.8111,October 2026 CPI COICOP Annexes.xlsx
+Bono East,2024,1,210.2771,October 2026 CPI COICOP Annexes.xlsx
+Bono East,2024,2,215.6099,October 2026 CPI COICOP Annexes.xlsx
+Bono East,2024,3,217.8995,October 2026 CPI COICOP Annexes.xlsx
+Bono East,2024,4,228.0452,October 2026 CPI COICOP Annexes.xlsx
+Bono East,2024,5,238.6899,October 2026 CPI COICOP Annexes.xlsx
+Bono East,2024,6,274.9754,October 2026 CPI COICOP Annexes.xlsx
+Bono East,2024,7,261.4716,October 2026 CPI COICOP Annexes.xlsx
+Bono East,2024,8,260.6856,October 2026 CPI COICOP Annexes.xlsx
+Bono East,2024,9,274.4196,October 2026 CPI COICOP Annexes.xlsx
+Bono East,2024,10,261.3312,October 2026 CPI COICOP Annexes.xlsx
+Bono East,2024,11,269.4556,October 2026 CPI COICOP Annexes.xlsx
+Bono East,2024,12,274.5436,October 2026 CPI COICOP Annexes.xlsx
+Bono East,2025,1,271.9881,October 2026 CPI COICOP Annexes.xlsx
+Bono East,2025,2,276.3257,October 2026 CPI COICOP Annexes.xlsx
+Bono East,2025,3,277.4852,October 2026 CPI COICOP Annexes.xlsx
+Bono East,2025,4,281.1950,October 2026 CPI COICOP Annexes.xlsx
+Bono East,2025,5,283.4362,October 2026 CPI COICOP Annexes.xlsx
+Bono East,2025,6,297.3310,October 2026 CPI COICOP Annexes.xlsx
+Bono East,2025,7,293.7374,October 2026 CPI COICOP Annexes.xlsx
+Bono East,2025,8,279.4595,October 2026 CPI COICOP Annexes.xlsx
+Bono East,2025,9,274.4729,October 2026 CPI COICOP Annexes.xlsx
+Bono East,2025,10,260.6819,October 2026 CPI COICOP Annexes.xlsx
+Bono East,2025,11,268.5318,October 2026 CPI COICOP Annexes.xlsx
+Bono East,2025,12,270.8268,October 2026 CPI COICOP Annexes.xlsx
+Bono East,2026,1,274.3993,October 2026 CPI COICOP Annexes.xlsx
+Bono East,2026,2,268.3866,October 2026 CPI COICOP Annexes.xlsx
+Bono East,2026,3,263.7740,October 2026 CPI COICOP Annexes.xlsx
+Bono East,2026,4,266.2772,October 2026 CPI COICOP Annexes.xlsx
+Bono East,2026,5,280.4300,October 2026 CPI COICOP Annexes.xlsx
+Bono East,2026,6,273.0605,October 2026 CPI COICOP Annexes.xlsx
+Bono East,2026,7,271.7623,October 2026 CPI COICOP Annexes.xlsx
+Bono East,2026,8,258.1050,October 2026 CPI COICOP Annexes.xlsx
+Bono East,2026,9,268.3192,October 2026 CPI COICOP Annexes.xlsx
+Bono East,2026,10,256.5501,October 2026 CPI COICOP Annexes.xlsx
+Oti,2022,9,144.2818,October 2026 CPI COICOP Annexes.xlsx
+Oti,2022,10,148.0604,October 2026 CPI COICOP Annexes.xlsx
+Oti,2022,11,162.3862,October 2026 CPI COICOP Annexes.xlsx
+Oti,2022,12,169.3050,October 2026 CPI COICOP Annexes.xlsx
+Oti,2023,1,172.9028,October 2026 CPI COICOP Annexes.xlsx
+Oti,2023,2,178.9297,October 2026 CPI COICOP Annexes.xlsx
+Oti,2023,3,179.9430,October 2026 CPI COICOP Annexes.xlsx
+Oti,2023,4,191.8826,October 2026 CPI COICOP Annexes.xlsx
+Oti,2023,5,201.6851,October 2026 CPI COICOP Annexes.xlsx
+Oti,2023,6,203.9842,October 2026 CPI COICOP Annexes.xlsx
+Oti,2023,7,207.8659,October 2026 CPI COICOP Annexes.xlsx
+Oti,2023,8,203.9424,October 2026 CPI COICOP Annexes.xlsx
+Oti,2023,9,207.4838,October 2026 CPI COICOP Annexes.xlsx
+Oti,2023,10,207.9598,October 2026 CPI COICOP Annexes.xlsx
+Oti,2023,11,208.5225,October 2026 CPI COICOP Annexes.xlsx
+Oti,2023,12,209.3616,October 2026 CPI COICOP Annexes.xlsx
+Oti,2024,1,209.6187,October 2026 CPI COICOP Annexes.xlsx
+Oti,2024,2,212.4589,October 2026 CPI COICOP Annexes.xlsx
+Oti,2024,3,214.3124,October 2026 CPI COICOP Annexes.xlsx
+Oti,2024,4,219.4121,October 2026 CPI COICOP Annexes.xlsx
+Oti,2024,5,224.1753,October 2026 CPI COICOP Annexes.xlsx
+Oti,2024,6,235.7810,October 2026 CPI COICOP Annexes.xlsx
+Oti,2024,7,242.2283,October 2026 CPI COICOP Annexes.xlsx
+Oti,2024,8,238.0331,October 2026 CPI COICOP Annexes.xlsx
+Oti,2024,9,254.7047,October 2026 CPI COICOP Annexes.xlsx
+Oti,2024,10,253.7079,October 2026 CPI COICOP Annexes.xlsx
+Oti,2024,11,262.7664,October 2026 CPI COICOP Annexes.xlsx
+Oti,2024,12,267.3973,October 2026 CPI COICOP Annexes.xlsx
+Oti,2025,1,276.5544,October 2026 CPI COICOP Annexes.xlsx
+Oti,2025,2,278.6848,October 2026 CPI COICOP Annexes.xlsx
+Oti,2025,3,274.2386,October 2026 CPI COICOP Annexes.xlsx
+Oti,2025,4,275.6910,October 2026 CPI COICOP Annexes.xlsx
+Oti,2025,5,273.6974,October 2026 CPI COICOP Annexes.xlsx
+Oti,2025,6,271.9441,October 2026 CPI COICOP Annexes.xlsx
+Oti,2025,7,231.6411,October 2026 CPI COICOP Annexes.xlsx
+Oti,2025,8,231.5327,October 2026 CPI COICOP Annexes.xlsx
+Oti,2025,9,262.1062,October 2026 CPI COICOP Annexes.xlsx
+Oti,2025,10,230.5398,October 2026 CPI COICOP Annexes.xlsx
+Oti,2025,11,230.1743,October 2026 CPI COICOP Annexes.xlsx
+Oti,2025,12,231.7303,October 2026 CPI COICOP Annexes.xlsx
+Oti,2026,1,264.7252,October 2026 CPI COICOP Annexes.xlsx
+Oti,2026,2,261.7493,October 2026 CPI COICOP Annexes.xlsx
+Oti,2026,3,260.5657,October 2026 CPI COICOP Annexes.xlsx
+Oti,2026,4,259.9099,October 2026 CPI COICOP Annexes.xlsx
+Oti,2026,5,264.9551,October 2026 CPI COICOP Annexes.xlsx
+Oti,2026,6,263.2483,October 2026 CPI COICOP Annexes.xlsx
+Oti,2026,7,261.4929,October 2026 CPI COICOP Annexes.xlsx
+Oti,2026,8,254.4468,October 2026 CPI COICOP Annexes.xlsx
+Oti,2026,9,259.3177,October 2026 CPI COICOP Annexes.xlsx
+Oti,2026,10,260.8613,October 2026 CPI COICOP Annexes.xlsx
+Northern,2022,9,132.7098,October 2026 CPI COICOP Annexes.xlsx
+Northern,2022,10,139.8024,October 2026 CPI COICOP Annexes.xlsx
+Northern,2022,11,148.3278,October 2026 CPI COICOP Annexes.xlsx
+Northern,2022,12,156.0836,October 2026 CPI COICOP Annexes.xlsx
+Northern,2023,1,163.3130,October 2026 CPI COICOP Annexes.xlsx
+Northern,2023,2,167.3159,October 2026 CPI COICOP Annexes.xlsx
+Northern,2023,3,169.2140,October 2026 CPI COICOP Annexes.xlsx
+Northern,2023,4,181.6583,October 2026 CPI COICOP Annexes.xlsx
+Northern,2023,5,190.5174,October 2026 CPI COICOP Annexes.xlsx
+Northern,2023,6,200.4375,October 2026 CPI COICOP Annexes.xlsx
+Northern,2023,7,208.2201,October 2026 CPI COICOP Annexes.xlsx
+Northern,2023,8,207.8059,October 2026 CPI COICOP Annexes.xlsx
+Northern,2023,9,207.1689,October 2026 CPI COICOP Annexes.xlsx
+Northern,2023,10,208.2562,October 2026 CPI COICOP Annexes.xlsx
+Northern,2023,11,210.2695,October 2026 CPI COICOP Annexes.xlsx
+Northern,2023,12,213.3032,October 2026 CPI COICOP Annexes.xlsx
+Northern,2024,1,217.1550,October 2026 CPI COICOP Annexes.xlsx
+Northern,2024,2,220.5246,October 2026 CPI COICOP Annexes.xlsx
+Northern,2024,3,221.7887,October 2026 CPI COICOP Annexes.xlsx
+Northern,2024,4,226.4571,October 2026 CPI COICOP Annexes.xlsx
+Northern,2024,5,231.8191,October 2026 CPI COICOP Annexes.xlsx
+Northern,2024,6,236.2590,October 2026 CPI COICOP Annexes.xlsx
+Northern,2024,7,238.5992,October 2026 CPI COICOP Annexes.xlsx
+Northern,2024,8,240.6667,October 2026 CPI COICOP Annexes.xlsx
+Northern,2024,9,252.2628,October 2026 CPI COICOP Annexes.xlsx
+Northern,2024,10,249.7750,October 2026 CPI COICOP Annexes.xlsx
+Northern,2024,11,265.0989,October 2026 CPI COICOP Annexes.xlsx
+Northern,2024,12,272.1358,October 2026 CPI COICOP Annexes.xlsx
+Northern,2025,1,281.6536,October 2026 CPI COICOP Annexes.xlsx
+Northern,2025,2,283.6823,October 2026 CPI COICOP Annexes.xlsx
+Northern,2025,3,283.7033,October 2026 CPI COICOP Annexes.xlsx
+Northern,2025,4,289.7428,October 2026 CPI COICOP Annexes.xlsx
+Northern,2025,5,289.6283,October 2026 CPI COICOP Annexes.xlsx
+Northern,2025,6,281.4342,October 2026 CPI COICOP Annexes.xlsx
+Northern,2025,7,282.0795,October 2026 CPI COICOP Annexes.xlsx
+Northern,2025,8,278.3898,October 2026 CPI COICOP Annexes.xlsx
+Northern,2025,9,281.0497,October 2026 CPI COICOP Annexes.xlsx
+Northern,2025,10,279.0923,October 2026 CPI COICOP Annexes.xlsx
+Northern,2025,11,277.3567,October 2026 CPI COICOP Annexes.xlsx
+Northern,2025,12,275.0335,October 2026 CPI COICOP Annexes.xlsx
+Northern,2026,1,273.6742,October 2026 CPI COICOP Annexes.xlsx
+Northern,2026,2,271.6322,October 2026 CPI COICOP Annexes.xlsx
+Northern,2026,3,264.2064,October 2026 CPI COICOP Annexes.xlsx
+Northern,2026,4,263.1930,October 2026 CPI COICOP Annexes.xlsx
+Northern,2026,5,268.2322,October 2026 CPI COICOP Annexes.xlsx
+Northern,2026,6,267.3629,October 2026 CPI COICOP Annexes.xlsx
+Northern,2026,7,267.3275,October 2026 CPI COICOP Annexes.xlsx
+Northern,2026,8,254.9281,October 2026 CPI COICOP Annexes.xlsx
+Northern,2026,9,263.9099,October 2026 CPI COICOP Annexes.xlsx
+Northern,2026,10,262.0639,October 2026 CPI COICOP Annexes.xlsx
+Savannah,2022,9,140.7101,October 2026 CPI COICOP Annexes.xlsx
+Savannah,2022,10,153.6656,October 2026 CPI COICOP Annexes.xlsx
+Savannah,2022,11,166.4513,October 2026 CPI COICOP Annexes.xlsx
+Savannah,2022,12,171.1521,October 2026 CPI COICOP Annexes.xlsx
+Savannah,2023,1,173.0722,October 2026 CPI COICOP Annexes.xlsx
+Savannah,2023,2,178.4643,October 2026 CPI COICOP Annexes.xlsx
+Savannah,2023,3,174.5327,October 2026 CPI COICOP Annexes.xlsx
+Savannah,2023,4,181.8270,October 2026 CPI COICOP Annexes.xlsx
+Savannah,2023,5,190.7755,October 2026 CPI COICOP Annexes.xlsx
+Savannah,2023,6,206.0395,October 2026 CPI COICOP Annexes.xlsx
+Savannah,2023,7,215.6251,October 2026 CPI COICOP Annexes.xlsx
+Savannah,2023,8,209.9348,October 2026 CPI COICOP Annexes.xlsx
+Savannah,2023,9,204.0567,October 2026 CPI COICOP Annexes.xlsx
+Savannah,2023,10,205.8363,October 2026 CPI COICOP Annexes.xlsx
+Savannah,2023,11,207.4173,October 2026 CPI COICOP Annexes.xlsx
+Savannah,2023,12,215.0953,October 2026 CPI COICOP Annexes.xlsx
+Savannah,2024,1,216.3759,October 2026 CPI COICOP Annexes.xlsx
+Savannah,2024,2,219.9667,October 2026 CPI COICOP Annexes.xlsx
+Savannah,2024,3,219.8713,October 2026 CPI COICOP Annexes.xlsx
+Savannah,2024,4,226.4199,October 2026 CPI COICOP Annexes.xlsx
+Savannah,2024,5,235.0308,October 2026 CPI COICOP Annexes.xlsx
+Savannah,2024,6,256.1236,October 2026 CPI COICOP Annexes.xlsx
+Savannah,2024,7,267.7224,October 2026 CPI COICOP Annexes.xlsx
+Savannah,2024,8,277.4107,October 2026 CPI COICOP Annexes.xlsx
+Savannah,2024,9,306.5241,October 2026 CPI COICOP Annexes.xlsx
+Savannah,2024,10,298.0359,October 2026 CPI COICOP Annexes.xlsx
+Savannah,2024,11,303.2368,October 2026 CPI COICOP Annexes.xlsx
+Savannah,2024,12,313.7670,October 2026 CPI COICOP Annexes.xlsx
+Savannah,2025,1,322.2743,October 2026 CPI COICOP Annexes.xlsx
+Savannah,2025,2,327.3896,October 2026 CPI COICOP Annexes.xlsx
+Savannah,2025,3,327.2117,October 2026 CPI COICOP Annexes.xlsx
+Savannah,2025,4,325.6655,October 2026 CPI COICOP Annexes.xlsx
+Savannah,2025,5,327.4072,October 2026 CPI COICOP Annexes.xlsx
+Savannah,2025,6,319.3134,October 2026 CPI COICOP Annexes.xlsx
+Savannah,2025,7,326.0389,October 2026 CPI COICOP Annexes.xlsx
+Savannah,2025,8,312.1448,October 2026 CPI COICOP Annexes.xlsx
+Savannah,2025,9,302.5190,October 2026 CPI COICOP Annexes.xlsx
+Savannah,2025,10,292.0790,October 2026 CPI COICOP Annexes.xlsx
+Savannah,2025,11,290.3809,October 2026 CPI COICOP Annexes.xlsx
+Savannah,2025,12,296.7508,October 2026 CPI COICOP Annexes.xlsx
+Savannah,2026,1,299.0982,October 2026 CPI COICOP Annexes.xlsx
+Savannah,2026,2,298.0715,October 2026 CPI COICOP Annexes.xlsx
+Savannah,2026,3,303.6395,October 2026 CPI COICOP Annexes.xlsx
+Savannah,2026,4,308.3740,October 2026 CPI COICOP Annexes.xlsx
+Savannah,2026,5,315.1993,October 2026 CPI COICOP Annexes.xlsx
+Savannah,2026,6,318.1596,October 2026 CPI COICOP Annexes.xlsx
+Savannah,2026,7,315.8909,October 2026 CPI COICOP Annexes.xlsx
+Savannah,2026,8,311.9702,October 2026 CPI COICOP Annexes.xlsx
+Savannah,2026,9,315.1984,October 2026 CPI COICOP Annexes.xlsx
+Savannah,2026,10,303.3333,October 2026 CPI COICOP Annexes.xlsx
+North East,2022,9,137.7895,October 2026 CPI COICOP Annexes.xlsx
+North East,2022,10,144.1263,October 2026 CPI COICOP Annexes.xlsx
+North East,2022,11,163.0620,October 2026 CPI COICOP Annexes.xlsx
+North East,2022,12,172.9463,October 2026 CPI COICOP Annexes.xlsx
+North East,2023,1,178.1443,October 2026 CPI COICOP Annexes.xlsx
+North East,2023,2,180.3807,October 2026 CPI COICOP Annexes.xlsx
+North East,2023,3,172.3070,October 2026 CPI COICOP Annexes.xlsx
+North East,2023,4,186.3406,October 2026 CPI COICOP Annexes.xlsx
+North East,2023,5,207.7566,October 2026 CPI COICOP Annexes.xlsx
+North East,2023,6,225.5222,October 2026 CPI COICOP Annexes.xlsx
+North East,2023,7,244.3533,October 2026 CPI COICOP Annexes.xlsx
+North East,2023,8,245.4208,October 2026 CPI COICOP Annexes.xlsx
+North East,2023,9,239.6003,October 2026 CPI COICOP Annexes.xlsx
+North East,2023,10,233.1779,October 2026 CPI COICOP Annexes.xlsx
+North East,2023,11,229.4877,October 2026 CPI COICOP Annexes.xlsx
+North East,2023,12,226.6553,October 2026 CPI COICOP Annexes.xlsx
+North East,2024,1,231.6832,October 2026 CPI COICOP Annexes.xlsx
+North East,2024,2,234.3143,October 2026 CPI COICOP Annexes.xlsx
+North East,2024,3,236.2308,October 2026 CPI COICOP Annexes.xlsx
+North East,2024,4,244.4534,October 2026 CPI COICOP Annexes.xlsx
+North East,2024,5,247.9867,October 2026 CPI COICOP Annexes.xlsx
+North East,2024,6,270.4018,October 2026 CPI COICOP Annexes.xlsx
+North East,2024,7,268.0966,October 2026 CPI COICOP Annexes.xlsx
+North East,2024,8,259.6531,October 2026 CPI COICOP Annexes.xlsx
+North East,2024,9,280.5198,October 2026 CPI COICOP Annexes.xlsx
+North East,2024,10,282.5982,October 2026 CPI COICOP Annexes.xlsx
+North East,2024,11,296.0419,October 2026 CPI COICOP Annexes.xlsx
+North East,2024,12,305.5594,October 2026 CPI COICOP Annexes.xlsx
+North East,2025,1,309.1512,October 2026 CPI COICOP Annexes.xlsx
+North East,2025,2,310.3354,October 2026 CPI COICOP Annexes.xlsx
+North East,2025,3,311.9407,October 2026 CPI COICOP Annexes.xlsx
+North East,2025,4,316.1530,October 2026 CPI COICOP Annexes.xlsx
+North East,2025,5,319.7029,October 2026 CPI COICOP Annexes.xlsx
+North East,2025,6,328.9713,October 2026 CPI COICOP Annexes.xlsx
+North East,2025,7,328.1548,October 2026 CPI COICOP Annexes.xlsx
+North East,2025,8,314.4393,October 2026 CPI COICOP Annexes.xlsx
+North East,2025,9,392.0030,October 2026 CPI COICOP Annexes.xlsx
+North East,2025,10,382.8795,October 2026 CPI COICOP Annexes.xlsx
+North East,2025,11,370.9796,October 2026 CPI COICOP Annexes.xlsx
+North East,2025,12,366.8148,October 2026 CPI COICOP Annexes.xlsx
+North East,2026,1,384.6808,October 2026 CPI COICOP Annexes.xlsx
+North East,2026,2,378.6107,October 2026 CPI COICOP Annexes.xlsx
+North East,2026,3,382.2340,October 2026 CPI COICOP Annexes.xlsx
+North East,2026,4,385.0286,October 2026 CPI COICOP Annexes.xlsx
+North East,2026,5,396.0255,October 2026 CPI COICOP Annexes.xlsx
+North East,2026,6,394.6114,October 2026 CPI COICOP Annexes.xlsx
+North East,2026,7,396.0378,October 2026 CPI COICOP Annexes.xlsx
+North East,2026,8,364.2300,October 2026 CPI COICOP Annexes.xlsx
+North East,2026,9,393.7488,October 2026 CPI COICOP Annexes.xlsx
+North East,2026,10,398.1129,October 2026 CPI COICOP Annexes.xlsx
+Upper East,2022,9,131.3772,October 2026 CPI COICOP Annexes.xlsx
+Upper East,2022,10,142.4681,October 2026 CPI COICOP Annexes.xlsx
+Upper East,2022,11,151.2374,October 2026 CPI COICOP Annexes.xlsx
+Upper East,2022,12,154.9181,October 2026 CPI COICOP Annexes.xlsx
+Upper East,2023,1,156.0999,October 2026 CPI COICOP Annexes.xlsx
+Upper East,2023,2,159.1290,October 2026 CPI COICOP Annexes.xlsx
+Upper East,2023,3,160.7796,October 2026 CPI COICOP Annexes.xlsx
+Upper East,2023,4,164.2540,October 2026 CPI COICOP Annexes.xlsx
+Upper East,2023,5,173.9454,October 2026 CPI COICOP Annexes.xlsx
+Upper East,2023,6,175.5394,October 2026 CPI COICOP Annexes.xlsx
+Upper East,2023,7,181.1364,October 2026 CPI COICOP Annexes.xlsx
+Upper East,2023,8,182.2226,October 2026 CPI COICOP Annexes.xlsx
+Upper East,2023,9,177.3508,October 2026 CPI COICOP Annexes.xlsx
+Upper East,2023,10,177.7876,October 2026 CPI COICOP Annexes.xlsx
+Upper East,2023,11,177.7561,October 2026 CPI COICOP Annexes.xlsx
+Upper East,2023,12,184.0726,October 2026 CPI COICOP Annexes.xlsx
+Upper East,2024,1,190.8825,October 2026 CPI COICOP Annexes.xlsx
+Upper East,2024,2,195.4199,October 2026 CPI COICOP Annexes.xlsx
+Upper East,2024,3,197.5802,October 2026 CPI COICOP Annexes.xlsx
+Upper East,2024,4,203.6052,October 2026 CPI COICOP Annexes.xlsx
+Upper East,2024,5,203.9698,October 2026 CPI COICOP Annexes.xlsx
+Upper East,2024,6,220.6837,October 2026 CPI COICOP Annexes.xlsx
+Upper East,2024,7,211.8232,October 2026 CPI COICOP Annexes.xlsx
+Upper East,2024,8,223.3526,October 2026 CPI COICOP Annexes.xlsx
+Upper East,2024,9,237.1304,October 2026 CPI COICOP Annexes.xlsx
+Upper East,2024,10,249.4462,October 2026 CPI COICOP Annexes.xlsx
+Upper East,2024,11,255.4609,October 2026 CPI COICOP Annexes.xlsx
+Upper East,2024,12,256.6885,October 2026 CPI COICOP Annexes.xlsx
+Upper East,2025,1,260.4172,October 2026 CPI COICOP Annexes.xlsx
+Upper East,2025,2,272.8794,October 2026 CPI COICOP Annexes.xlsx
+Upper East,2025,3,260.3335,October 2026 CPI COICOP Annexes.xlsx
+Upper East,2025,4,267.4001,October 2026 CPI COICOP Annexes.xlsx
+Upper East,2025,5,271.5948,October 2026 CPI COICOP Annexes.xlsx
+Upper East,2025,6,260.6693,October 2026 CPI COICOP Annexes.xlsx
+Upper East,2025,7,261.4687,October 2026 CPI COICOP Annexes.xlsx
+Upper East,2025,8,242.5692,October 2026 CPI COICOP Annexes.xlsx
+Upper East,2025,9,243.6420,October 2026 CPI COICOP Annexes.xlsx
+Upper East,2025,10,246.3879,October 2026 CPI COICOP Annexes.xlsx
+Upper East,2025,11,254.6649,October 2026 CPI COICOP Annexes.xlsx
+Upper East,2025,12,247.3740,October 2026 CPI COICOP Annexes.xlsx
+Upper East,2026,1,247.4474,October 2026 CPI COICOP Annexes.xlsx
+Upper East,2026,2,250.8770,October 2026 CPI COICOP Annexes.xlsx
+Upper East,2026,3,248.3702,October 2026 CPI COICOP Annexes.xlsx
+Upper East,2026,4,254.3086,October 2026 CPI COICOP Annexes.xlsx
+Upper East,2026,5,256.9334,October 2026 CPI COICOP Annexes.xlsx
+Upper East,2026,6,261.7112,October 2026 CPI COICOP Annexes.xlsx
+Upper East,2026,7,258.1935,October 2026 CPI COICOP Annexes.xlsx
+Upper East,2026,8,261.2907,October 2026 CPI COICOP Annexes.xlsx
+Upper East,2026,9,268.7618,October 2026 CPI COICOP Annexes.xlsx
+Upper East,2026,10,259.5072,October 2026 CPI COICOP Annexes.xlsx
+Upper West,2022,9,144.4823,October 2026 CPI COICOP Annexes.xlsx
+Upper West,2022,10,155.2068,October 2026 CPI COICOP Annexes.xlsx
+Upper West,2022,11,163.6393,October 2026 CPI COICOP Annexes.xlsx
+Upper West,2022,12,171.3954,October 2026 CPI COICOP Annexes.xlsx
+Upper West,2023,1,173.8927,October 2026 CPI COICOP Annexes.xlsx
+Upper West,2023,2,177.1295,October 2026 CPI COICOP Annexes.xlsx
+Upper West,2023,3,168.6566,October 2026 CPI COICOP Annexes.xlsx
+Upper West,2023,4,177.9511,October 2026 CPI COICOP Annexes.xlsx
+Upper West,2023,5,195.9549,October 2026 CPI COICOP Annexes.xlsx
+Upper West,2023,6,207.3222,October 2026 CPI COICOP Annexes.xlsx
+Upper West,2023,7,214.2704,October 2026 CPI COICOP Annexes.xlsx
+Upper West,2023,8,216.6094,October 2026 CPI COICOP Annexes.xlsx
+Upper West,2023,9,220.7635,October 2026 CPI COICOP Annexes.xlsx
+Upper West,2023,10,227.0044,October 2026 CPI COICOP Annexes.xlsx
+Upper West,2023,11,231.8369,October 2026 CPI COICOP Annexes.xlsx
+Upper West,2023,12,234.0723,October 2026 CPI COICOP Annexes.xlsx
+Upper West,2024,1,235.5785,October 2026 CPI COICOP Annexes.xlsx
+Upper West,2024,2,240.7712,October 2026 CPI COICOP Annexes.xlsx
+Upper West,2024,3,244.3247,October 2026 CPI COICOP Annexes.xlsx
+Upper West,2024,4,249.9426,October 2026 CPI COICOP Annexes.xlsx
+Upper West,2024,5,257.5698,October 2026 CPI COICOP Annexes.xlsx
+Upper West,2024,6,272.6194,October 2026 CPI COICOP Annexes.xlsx
+Upper West,2024,7,303.6844,October 2026 CPI COICOP Annexes.xlsx
+Upper West,2024,8,306.3993,October 2026 CPI COICOP Annexes.xlsx
+Upper West,2024,9,320.5195,October 2026 CPI COICOP Annexes.xlsx
+Upper West,2024,10,322.6688,October 2026 CPI COICOP Annexes.xlsx
+Upper West,2024,11,333.1566,October 2026 CPI COICOP Annexes.xlsx
+Upper West,2024,12,341.8268,October 2026 CPI COICOP Annexes.xlsx
+Upper West,2025,1,353.0974,October 2026 CPI COICOP Annexes.xlsx
+Upper West,2025,2,360.6721,October 2026 CPI COICOP Annexes.xlsx
+Upper West,2025,3,362.7137,October 2026 CPI COICOP Annexes.xlsx
+Upper West,2025,4,367.4185,October 2026 CPI COICOP Annexes.xlsx
+Upper West,2025,5,370.7082,October 2026 CPI COICOP Annexes.xlsx
+Upper West,2025,6,381.8378,October 2026 CPI COICOP Annexes.xlsx
+Upper West,2025,7,385.5117,October 2026 CPI COICOP Annexes.xlsx
+Upper West,2025,8,367.3444,October 2026 CPI COICOP Annexes.xlsx
+Upper West,2025,9,359.5236,October 2026 CPI COICOP Annexes.xlsx
+Upper West,2025,10,353.7838,October 2026 CPI COICOP Annexes.xlsx
+Upper West,2025,11,351.0417,October 2026 CPI COICOP Annexes.xlsx
+Upper West,2025,12,356.6544,October 2026 CPI COICOP Annexes.xlsx
+Upper West,2026,1,359.5684,October 2026 CPI COICOP Annexes.xlsx
+Upper West,2026,2,356.3359,October 2026 CPI COICOP Annexes.xlsx
+Upper West,2026,3,356.7138,October 2026 CPI COICOP Annexes.xlsx
+Upper West,2026,4,355.9917,October 2026 CPI COICOP Annexes.xlsx
+Upper West,2026,5,376.9335,October 2026 CPI COICOP Annexes.xlsx
+Upper West,2026,6,374.8207,October 2026 CPI COICOP Annexes.xlsx
+Upper West,2026,7,377.1738,October 2026 CPI COICOP Annexes.xlsx
+Upper West,2026,8,364.9218,October 2026 CPI COICOP Annexes.xlsx
+Upper West,2026,9,358.2000,October 2026 CPI COICOP Annexes.xlsx
+Upper West,2026,10,339.7108,October 2026 CPI COICOP Annexes.xlsx
