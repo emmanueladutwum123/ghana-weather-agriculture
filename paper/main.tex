@@ -1,0 +1,176 @@
+\documentclass[11pt,letterpaper]{article}
+\usepackage[T1]{fontenc}
+\usepackage{mathpazo}
+\usepackage[margin=1in]{geometry}
+\usepackage{booktabs,tabularx,array,amssymb}
+\usepackage[hidelinks]{hyperref}
+\usepackage{xurl}
+\usepackage{enumitem}\usepackage{float}
+\usepackage{titlesec}
+\titleformat{\section}{\large\bfseries}{\thesection}{0.6em}{}
+\titleformat{\subsection}{\normalsize\bfseries}{\thesubsection}{0.6em}{}
+\setlength{\parskip}{5pt}\setlength{\parindent}{0pt}
+\newcolumntype{L}{>{\raggedright\arraybackslash}X}
+\newcolumntype{P}[1]{>{\raggedright\arraybackslash}p{#1}}
+\newcommand{\ok}{$\checkmark$}
+\newcommand{\no}{--}
+
+\title{\vspace{-1.5em}Weather and Agricultural Output in Ghana:\\Data Inventory and News Review}
+\author{Emmanuel Adutwum\\ \small Economics Capstone, Soka University of America\\ \small Advisor: Prof.\ Diya Mazumder}
+\date{November 2026}
+
+\begin{document}
+\maketitle
+
+\begin{abstract}
+\noindent This memo responds to the 27 October 2026 capstone meeting. It answers two questions: what data exist on Ghanaian agriculture at monthly frequency for studying the impact of weather on farmers and output (cocoa and other crops), and what Ghanaian news coverage reports on the topic and which variables it uses. The main finding is that no public source reports crop \emph{production} monthly. Production is annual or seasonal. Monthly analysis is feasible through four outcome proxies (cocoa purchases, exports, market prices, and the GSS monthly growth indicator) matched to monthly weather data, which is freely available from 1981.
+\end{abstract}
+
+\section{Research question}
+What is the impact of weather on Ghana's agricultural sector, measured through farmers' output of cocoa and other crops? The unit of analysis the data can support is region (or weather station) by month, or district by season.
+
+\section{Data on agricultural outcomes}
+
+Table~\ref{tab:outcomes} lists every outcome source found. The last column marks whether I opened the source or a report quoting it during this search (\ok), or whether the entry rests on the source's standard description and still has to be opened (\no).
+
+\begin{table}[H]
+\centering\footnotesize
+\caption{Agricultural outcome data for Ghana}\label{tab:outcomes}
+\begin{tabularx}{\textwidth}{P{2.6cm} L P{1.7cm} P{1.9cm} P{2.3cm} c}
+\toprule
+\textbf{Source} & \textbf{Variable} & \textbf{Frequency} & \textbf{Level} & \textbf{Access} & \\
+\midrule
+\multicolumn{6}{l}{\textit{Monthly or higher}}\\
+COCOBOD graded and sealed purchases & Cocoa bought from farmers, cumulative tonnes & Weekly & National; district on request & Not published; quoted by Reuters; request to COCOBOD & \ok \\
+GSS Monthly Indicator of Economic Growth & Agriculture growth, year on year & Monthly & National & Free, GSS releases & \ok \\
+Bank of Ghana statistical bulletin & Cocoa bean and product exports, value and volume & Monthly & National & Free, bog.gov.gh & \no \\
+Eurostat Comext, US Census (mirror trade) & Imports of cocoa beans (HS 1801) from Ghana & Monthly & National & Free & \no \\
+WFP food prices (HDX) & Retail and wholesale prices: maize, rice, yam, cassava, others & Monthly & Market & Free CSV & \no \\
+FAO GIEWS price tool & Wholesale maize and rice prices & Monthly & Market & Free & \no \\
+GSS consumer price index & Food inflation & Monthly & Region & Free & \no \\
+ICCO; World Bank Pink Sheet & World cocoa price & Daily; monthly from 1960 & World & Free & \ok \\
+\addlinespace
+\multicolumn{6}{l}{\textit{Quarterly}}\\
+GSS quarterly GDP & Value added: crops, cocoa, livestock, forestry, fishing & Quarterly & National & Free newsletters & \ok \\
+ICCO Quarterly Bulletin & Production, grindings, stocks, trade by country & Quarterly & National & Paid subscription & \ok \\
+\addlinespace
+\multicolumn{6}{l}{\textit{Annual or seasonal}}\\
+COCOBOD district records & Cocoa production & Season & District, 2000--2024 & Request; used by Albright et al.\ (2025) & \ok \\
+MoFA SRID, \emph{Facts and Figures} & Area, production, yield by crop & Annual & Region, district & PDF reports; request & \no \\
+FAOSTAT & Area, production, yield, all crops & Annual from 1961 & National & Free & \no \\
+USDA FAS GAIN reports & Cocoa, maize, rice supply and use & Annual, semi-annual & National & Free & \ok \\
+FAO GIEWS country brief & Cereal output, rainfall, food insecurity counts & Several per year & National, region & Free & \ok \\
+\bottomrule
+\end{tabularx}
+\end{table}
+
+\textbf{The closest thing to monthly output is cocoa purchases.} COCOBOD records graded and sealed purchases weekly, and because cocoa is bought soon after harvest, the monthly change in cumulative purchases is monthly output in practice. The series is not published. Reuters quotes it from sources with access (for example, 542,223 tonnes as of 30 January 2025). Obtaining it requires a written request to COCOBOD's Research, Monitoring and Evaluation Department. Monthly exports are the public substitute, with a lag from harvest to shipment.
+
+\section{Data on weather}
+
+\begin{table}[H]
+\centering\footnotesize
+\caption{Weather data covering Ghana}\label{tab:weather}
+\begin{tabularx}{\textwidth}{P{3.1cm} L P{2.2cm} P{2.4cm} P{2.2cm} c}
+\toprule
+\textbf{Source} & \textbf{Variables} & \textbf{Frequency} & \textbf{Resolution} & \textbf{Access} & \\
+\midrule
+NASA POWER & Rainfall, mean/max/min temperature, humidity & Daily, monthly from 1981 & About 50 km grid; any coordinate & Free API & \no \\
+CHIRPS (UC Santa Barbara) & Rainfall & Daily, monthly from 1981 & About 5 km grid & Free & \no \\
+World Bank Climate Knowledge Portal (CRU) & Rainfall, temperature & Monthly from 1901 & 0.5 degree; national and sub-national & Free & \ok \\
+Ghana Meteorological Agency, stations & Rainfall, temperature, humidity, sunshine & Daily & Synoptic stations & Request, fee & \no \\
+Ghana Meteorological Agency, seasonal forecast & Onset, cessation, seasonal rainfall, dry-spell length & Per season & Agro-ecological zone & Free PDF & \ok \\
+NOAA Ni\~no 3.4 index & El Ni\~no strength & Monthly & Global & Free & \no \\
+\bottomrule
+\end{tabularx}
+\end{table}
+
+Weather is not the constraint. The attached script \texttt{get\_data.py} downloads monthly rainfall, temperature and humidity for 1990--2025 at nine locations: five in the cocoa belt (Sefwi Wiawso, Tarkwa, Kumasi, Assin Foso, Koforidua), one in the transition zone (Techiman), and three in the northern cereal zone (Tamale, Tumu, Bolgatanga). It also pulls WFP market prices, World Bank monthly commodity prices, FAOSTAT production and World Bank indicators.
+
+\section{Figures collected so far}
+
+\begin{table}[H]
+\centering\small
+\caption{Ghana cocoa by season (October--September)}\label{tab:cocoa}
+\begin{tabularx}{\textwidth}{P{1.7cm} P{3.2cm} L}
+\toprule
+\textbf{Season} & \textbf{Output (tonnes)} & \textbf{Weather reported and source} \\
+\midrule
+2023/24 & 531,000 (USDA); 480,000 (ICCO, via Reuters) & Heavy rain April--June 2023, then a harsh dry spell November--February (Albright et al.). Worst season in two decades. \\
+2024/25 & Target 650,000, cut to 617,500 in December 2024 & Heat, low rainfall, Harmattan (Daba Finance). Purchases 542,223 by 30 January 2025 (Reuters). \\
+2025/26 & 771,000 against a 650,000 target & Reuters, 3 November 2026. \\
+2026/27 & Forecast to fall at least 16\% & Excess rain May--June 2026, black pod disease, then a hot dry spell; strong El Ni\~no confirmed by GMet (Reuters). \\
+\bottomrule
+\end{tabularx}
+\end{table}
+
+\textbf{Other crops.} USDA projected the 2024/25 maize harvest at 2.3 million tonnes, down 36\% and 28\% below the five-year average, on 1.1 million hectares (down 15\%), after drought in July and August 2024 (Milling MEA). Dry spells affected 1.8 million hectares and cost about GHS 22.2 billion in crop revenue across 2023 and 2024, with maize yields down 35\%, rice 25\%, millet and sorghum about 20\% (GhanaWeb). About 2 million people faced crisis-level food insecurity in June--August 2025, up from 1.05 million a year earlier (FAO GIEWS).
+
+\textbf{Sources disagree, and this matters for the analysis.} For 2023/24 cocoa, USDA reports 531,000 tonnes and ICCO 480,000. For 2024, USDA reports a 36\% maize collapse while FAO cites an official estimate of 6.2 million tonnes of cereals, 27\% \emph{above} the five-year average. The choice of output series can change the sign of the result, so the paper should state which series it uses and test the other.
+
+\section{What Ghanaian news is reporting}
+
+\begin{table}[H]
+\centering\footnotesize
+\caption{News coverage, July--November 2026}\label{tab:news}
+\begin{tabularx}{\textwidth}{P{2.3cm} P{3.3cm} L L}
+\toprule
+\textbf{Date, outlet} & \textbf{Story} & \textbf{Weather variables} & \textbf{Outcome variables} \\
+\midrule
+28 Jul, Reuters & Weather and farmland loss to hit 2026/27 cocoa & Persistent heavy rain, El Ni\~no, black pod disease & Bags per farm (35 to 10); Western and Western North produce over half of output \\
+11 Sep, Ghana News Agency & Dry spell threatens maize in Sissala East and West & About four weeks without rain; rainfall below normal since May & Over 1,000 acres at tasselling; two years of losses; grain price risk \\
+15 Oct, Ghanaian Times & Cocoa yields decline in Bono East & Prolonged sunshine, irregular rainfall & Bags per season (28 to 17 to 10; 68 to 55 to 48); labour cost, illegal mining, farmer age \\
+3 Nov, Reuters & Farmers hope for March recovery & Heavy rain at flowering, hot dry spell, Harmattan, El Ni\~no & 771,000 tonnes last season; at least 16\% fall; bags per farm (31 to 5) \\
+4 Nov, Citi Newsroom & Cocoa challenge goes beyond production & GMet warning of very strong El Ni\~no & World price about USD 5,430 per tonne; cocoa-sector growth 5.2\% in Q2 2026 against 14.2\% a year earlier \\
+2026, GMet forecast & Minor season outlook, southern Ghana & Onset and cessation dates, seasonal totals (forest zone 300--430 mm), dry spells up to 20 days, above-normal temperature & Planting advice by zone \\
+\bottomrule
+\end{tabularx}
+\end{table}
+
+Three patterns stand out.
+\begin{enumerate}[itemsep=1pt,topsep=2pt]
+\item \textbf{Weather is reported in words, not measurements.} Stories say ``heavy rain'' or ``four weeks without rain''. Only the Meteorological Agency gives millimetres and dates. A capstone that attaches measured rainfall to these episodes adds something the coverage lacks.
+\item \textbf{The variable farmers report is bags per farm.} National tonnage comes from COCOBOD through Reuters. No outlet reports farm income, which is the welfare outcome.
+\item \textbf{Both too much and too little rain cut output.} Excess rain at flowering and black pod disease in the south; dry spells in the transition and northern zones. This matches Albright et al.\ (2025), who find that wet-season excess rainfall and dry-season drought explain 68\% of yearly variation in Ghanaian cocoa yields. A linear rainfall term will miss this; the model needs separate wet-season and dry-season terms.
+\end{enumerate}
+News also consistently names non-weather causes: swollen shoot disease, ageing trees, illegal mining, and low producer prices. These are the controls.
+
+\section{Proposed dataset and next steps}
+
+\textbf{Dataset A, monthly, national, 2000--2025:} cocoa export volume (Bank of Ghana, or EU import mirror data) and GSS agriculture growth, against cocoa-belt rainfall and temperature with lags of 3 to 12 months, world cocoa price and the Ni\~no 3.4 index.
+
+\textbf{Dataset B, monthly, by market, 2006--2025:} maize and rice prices in northern markets (WFP) against local rainfall. Price is the outcome farmers and consumers feel when a harvest fails.
+
+\textbf{Dataset C, seasonal, by district:} COCOBOD district production against seasonal rainfall, if COCOBOD grants access.
+
+Next steps:
+\begin{enumerate}[itemsep=1pt,topsep=2pt]
+\item Run \texttt{get\_data.py} and confirm coverage of each series.
+\item Open the sources marked \no\ in Tables~\ref{tab:outcomes} and \ref{tab:weather}, starting with the Bank of Ghana bulletin.
+\item Send data requests to COCOBOD (weekly purchases, district production) and MoFA SRID (district crop production).
+\item Decide with Prof.\ Mazumder whether the paper is cocoa only or cocoa plus cereals.
+\end{enumerate}
+
+\section*{Sources}
+\footnotesize
+\begin{enumerate}[itemsep=0pt,topsep=2pt,leftmargin=1.4em]
+\item Albright, Berkoh-Oforiwaa and Huybers, ``Chocolate's climate crisis,'' Harvard Salata Institute, 16 Oct 2025. \url{https://salatainstitute.harvard.edu/?p=19063}
+\item Reuters, ``Ghana cocoa farmers hope for March recovery after season starts poorly,'' 3 Nov 2026. \url{https://www.cnbcafrica.com/2026/ghana-cocoa-farmers-hope-for-march-recovery-after-season-starts-poorly}
+\item Reuters, ``Inclement weather and farmland destruction to hit Ghana cocoa yields next season,'' 28 Jul 2026. \url{https://www.cnbcafrica.com/2026/inclement-weather-and-farmland-destruction-to-hit-ghana-cocoa-yields-next-season}
+\item Reuters, ``Ghana's cocoa arrivals put 2024/25 output target within reach,'' 6 Feb 2025. \url{https://www.esmmagazine.com/supply-chain/ghanas-cocoa-arrivals-put-2024-25-output-target-within-reach-sources-say-282115}
+\item Ghanaian Times, ``Cocoa farmers battle declining yields in Bono East,'' 15 Oct 2026. \url{https://allafrica.com/stories/202610150320.html}
+\item Citi Newsroom, ``Ghana's cocoa challenge goes beyond production,'' 4 Nov 2026. \url{https://www.citinewsroom.com/2026/11/ghanas-cocoa-challenge-goes-beyond-production-heres-why/}
+\item Ghana News Agency, ``Dry spell threatens maize fields in Sissala East and West Districts,'' 11 Sep 2026. \url{https://gna.org.gh/2026/09/dry-spell-threatens-maize-fields-in-sissala-east-and-west-districts/}
+\item Ghana News Agency, ``Ghana's economic growth eases to 7.5 per cent in January 2026 -- GSS,'' Apr 2026. \url{https://gna.org.gh/2026/04/ghanas-economic-growth-eases-to-7-5-per-cent-in-january-2026-gss/}
+\item Ghana Meteorological Agency, Seasonal Forecast (SON) 2026. \url{https://www.meteo.gov.gh/documents/12972/Seasonal_Forecast_SON_2026.pdf}
+\item FAO GIEWS Country Brief, Ghana, 19 Aug 2025. \url{https://www.fao.org/giews/countrybrief/country.jsp?code=GHA}
+\item USDA FAS, Ghana Cocoa Sector Overview 2025. \url{https://www.fas.usda.gov/data/ghana-ghana-cocoa-sector-overview-2025}
+\item Daba Finance, ``Ghana cuts 2024-25 cocoa harvest forecast on weather concerns,'' Dec 2024. \url{https://dabafinance.com/en/news/ghana-cuts-2024-25-cocoa-harvest-forecast-on-weather-concerns}
+\item Milling MEA, ``Drought to reduce Ghana's 2024/2025 maize harvest by 36\%.'' \url{https://millingmea.com/drought-to-reduce-ghanas-2024-2025-maize-harvest-by-36/}
+\item GhanaWeb, ``Dry spells trigger GHS 22.2 billion crop losses.'' \url{https://mobile.ghanaweb.com/GhanaHomePage/business/Dry-spells-trigger-GH-22-2billion-crop-losses-1955736}
+\item ICCO, Quarterly Bulletin of Cocoa Statistics. \url{https://www.icco.org/statistics/quarterly-bulletin-of-cocoa-statistics/}
+\item World Bank Climate Change Knowledge Portal, Ghana. \url{https://climateknowledgeportal.worldbank.org/node/1746}
+\item Data portals to open: WFP prices \url{https://data.humdata.org/dataset/wfp-food-prices-for-ghana}; NASA POWER \url{https://power.larc.nasa.gov}; CHIRPS \url{https://www.chc.ucsb.edu/data/chirps}; FAOSTAT \url{https://www.fao.org/faostat}; Bank of Ghana \url{https://www.bog.gov.gh}; Ghana Statistical Service \url{https://statsghana.gov.gh}; World Bank commodity prices \url{https://www.worldbank.org/commodities}.
+\end{enumerate}
+
+\end{document}
