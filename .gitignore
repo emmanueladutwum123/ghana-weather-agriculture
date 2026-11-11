@@ -1,0 +1,26 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+
+# Large raw files: the pipeline downloads them again
+data/raw/chirps_v2/
+data/raw/chirps_run.log
+
+# Raw files from sources with no stated reuse licence (BoG, GSS, MoFA).
+# The scripts download them; the cleaned series are committed.
+data/raw/bog/
+data/raw/gss/
+data/raw/mofa/
+
+# LaTeX build files
+paper/*.aux
+paper/*.log
+paper/*.out
+paper/*.bbl
+paper/*.blg
+paper/*.toc
+paper/*.fls
+paper/*.fdb_latexmk
+paper/*.synctex.gz
