@@ -1,5 +1,13 @@
 # Progress log
 
+## 18 November 2026: Phase 1 complete, dataset packaged
+
+CHIRPS v2.0 download finished: 550 months (January 1981 to October 2026), 16 regions, no missing month. Panels rebuilt with CHIRPS rainfall.
+
+June 2026 check done. CHIRPS June 2026 rainfall is between 0.5 SD below and 1.3 SD above normal in the nine regions with a NASA site, against 3 to 10 SD above for NASA POWER. The NASA value is treated as an error in the near-real-time product; it stays in the files with its flag, and CHIRPS is the main rainfall measure. Details in `data/README.md`.
+
+Packaged dataset for Professor Mazumder in `dataset/`: an Excel workbook (README, Sources, Codebook and the five panels), a zip of the CSVs with the codebook and data README, and `codebook.csv`. Built by `src/export_dataset.py`, now the last step of `make all`.
+
 ## 11 November 2026: Phase 1 (data), mostly done
 
 Done. One download and cleaning script per source in `src/`; `make all` reruns everything. Raw files, cleaned series and merged panels are in `data/`, and `data/README.md` documents every series. Draft data request letters to COCOBOD and MoFA SRID are in `letters/` (not sent).

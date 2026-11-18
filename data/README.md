@@ -138,12 +138,12 @@ Five annual indicators for Ghana, 1960 to 2025: agriculture value added (percent
 Source: Climate Hazards Center, UC Santa Barbara. CHIRPS v2.0, Africa monthly GeoTIFFs, 0.05 degree grid.
 URL: https://data.chc.ucsb.edu/products/CHIRPS/v2.0/africa_monthly/tifs/
 Script: `src/weather_chirps.py`.
-Coverage: January 1981 to September 2026 (549 files listed on 11 November 2026).
+Coverage: January 1981 to October 2026, 550 months, all 16 regions, no missing month (download completed 18 November 2026).
 Unit: mm per month.
 Clean file: `clean/chirps_region_monthly.csv` (16 regions).
 Method: for each month, the unweighted mean of the grid cells whose centre lies inside the region boundary (geoBoundaries, below). Cell area differs by under 1.5 percent across Ghana's latitudes and is ignored.
 
-Status and known problems. See the status note at the top of the Phase 1 report: the download was interrupted when the CHC server began refusing connections from this machine (HTTP 429, then timeouts) after the script made parallel requests. The script now downloads one file at a time with back-off. Any month that cannot be downloaded is reported and left missing. CHIRPS v3.0 (released 2025) is also available and is wetter than v2.0 because of a gauge under-catch correction; v2.0 is used because it is the version used in published work so far. CHIRPS is gridded and blends satellite and station data; it is not station data.
+Known problems. The first download attempt (11 November 2026) was interrupted when the CHC server began refusing connections (HTTP 429, then timeouts) after the script made parallel requests. The script now downloads one file at a time with back-off, and the download was completed on 18 November 2026. Checks: monthly zone rainfall correlates with CRU national rainfall at 0.79 (cocoa zone), 0.94 (transition) and 0.83 (cereal), and with NASA POWER zone rainfall at 0.85, 0.81 and 0.96. The most recent month or two may still be revised by CHC. CHIRPS v3.0 (released 2025) is also available and is wetter than v2.0 because of a gauge under-catch correction; v2.0 is used because it is the version used in published work so far. CHIRPS is gridded and blends satellite and station data; it is not station data.
 
 ### NASA POWER point weather
 
@@ -154,7 +154,7 @@ Coverage: January 1981 to September 2026, nine sites: Sefwi Wiawso (Western Nort
 Unit: rainfall mm per month (the API gives mm per day; multiplied by days in the month), temperature (mean, maximum, minimum) deg C at 2 m, relative humidity percent.
 Clean file: `clean/nasa_power_site_monthly.csv`.
 
-Known problems. Each site is the grid cell (about 0.5 by 0.625 degrees) containing the town, not a station and not a regional average. June 2026 rainfall is far outside each site's own history: between 3.0 and 10.3 standard deviations above the 1981 to 2025 June mean (Kumasi 914 mm against a June mean of 235 mm; Techiman 816 mm against 187 mm). Recent POWER precipitation is near-real-time and is replaced later. The value is kept and flagged (`nasa_rain_flag` in the panel). It will be compared with CHIRPS for June 2026 before any decision. The news review records heavy rain in May and June 2026, so some excess is real; the size of the excess is what is doubtful.
+Known problems. Each site is the grid cell (about 0.5 by 0.625 degrees) containing the town, not a station and not a regional average. June 2026 rainfall is far outside each site's own history: between 3.0 and 10.3 standard deviations above the 1981 to 2025 June mean (Kumasi 914 mm against a June mean of 235 mm; Techiman 816 mm against 187 mm). Recent POWER precipitation is near-real-time and is replaced later. The value is kept and flagged (`nasa_rain_flag` in the panel). Comparison with CHIRPS (done 18 November 2026): for the same nine regions, CHIRPS June 2026 rainfall is between 0.5 standard deviations below and 1.3 above its own 1981 to 2025 June mean (Kumasi's region, Ashanti: 239 mm against 195 mm; Bono East: 176 mm against 168 mm). CHIRPS shows a wetter than normal June in the south, consistent with the news review, and a normal June in the north. The NASA POWER value is therefore treated as an error in the near-real-time product, not as a real event. It stays in the clean file and panels with its flag, and the planned analysis uses CHIRPS as the main rainfall measure, so the flagged NASA value does not enter it.
 
 ### CRU TS 4.09, national average
 
@@ -200,6 +200,14 @@ Script: `src/boundaries.py`.
 `panel/panel_national_annual.csv`: FAOSTAT and MoFA (latest edition for each year) production, area and yield with annual rainfall totals.
 
 ---
+
+## Packaged dataset (for readers who do not run the code)
+
+`src/export_dataset.py` (last step of `src/run_all.py`) writes `dataset/`:
+`ghana_weather_agriculture_dataset.xlsx` (README, Sources and Codebook sheets, then one sheet per panel),
+`ghana_weather_agriculture_dataset.zip` (panel CSVs, codebook and this README) and `codebook.csv`
+(one row per panel column with description, unit, source, first and last observation and count).
+Values are exactly those in `panel/`; the script stops if any column lacks a codebook entry.
 
 ## Sources opened and not downloaded
 
