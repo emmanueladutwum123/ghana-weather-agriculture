@@ -28,6 +28,7 @@ STEPS = [
     "prices_worldbank",
     "worldbank_indicators",
     "build_panel",
+    "export_dataset",
 ]
 
 

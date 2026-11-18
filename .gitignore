@@ -24,3 +24,7 @@ paper/*.toc
 paper/*.fls
 paper/*.fdb_latexmk
 paper/*.synctex.gz
+
+# Excel lock files and unpacked copies of the packaged dataset
+~$*
+dataset/ghana_weather_agriculture_dataset/
